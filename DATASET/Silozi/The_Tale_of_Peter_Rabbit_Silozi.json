@@ -1,0 +1,302 @@
+{
+  "header": {
+    "Title (Source)": "The Tale of Peter Rabbit",
+    "Title (Target)": "Litangu la Pita Shakame",
+    "Original Author": "Beatrix Potter",
+    "Source Language": "English",
+    "Target Language": "Silozi",
+    "Translator 1": "Sepiso Sepiso",
+    "Translator 2": "Sir. Uyoya Wamuwi",
+    "Translator 3": "Muleta Mubita"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "Once upon a time there were four little Rabbits, and their names were Flopsy, Mopsy, Cotton-tail, and Peter.",
+        "S2": "Once there lived four little Rabbits namely Flopsy, Mopsy, Cotton-tail, and Peter.",
+        "T1": "Nako yeñwi nekuna ni tushakame totune totubizwa Fulopusi, Mopusi, Kotoni-teilu ni Pita.",
+        "T2": "Nako yeñwi nekuna ni tushakame totune totubizwa Fulopusi, Mopusi, Kotoni-S2teilu ni Pita.",
+        "T3": "Nako yeñwi nekuna ni tushakame totune ni mabizo atona neli Fulopusi, Mopusi, Kotoni-teilu ni Pita."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "They lived with their mother in a sand-bank, underneath the root of a very big fir-tree.",
+        "S2": "They kept up with their mother in sand covered by shallow water underneath the root of a very big fir-tree.",
+        "T1": "‘Netupila ni bo maatona mwa muuwa kwatasaa mubisi wa kota yetuna yebizwa ka sikuwa kuli ‘fir.’ T 2: ‘Netupila ni bo maatona mwa muuwa kwatasaa mubisi wa kota yetuna yebizwa ka Sikuwa kuli ‘fir.’ T3 Netupila ni bo matona mwa muuwa kwatasaa mubisi wa kota yetuna yebizwa ka sikuwa kuli ‘fir.’"
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "'Now my dears,' said old Mrs. Rabbit one morning, 'you may go into the fields or down the lane, but don't go into Mr. McGregor's garden: your Father had accident there; he was put in a pie by Mrs. McGregor.'",
+        "S2": "“My dearest children,” said their old mother, Mrs. Rabbit one morning. “You can go into the gardens or down the road, but don't go into Mr. McGregor's garden because your father had an accident there as he was put in a pie by Mrs. McGregor.”",
+        "T1": "“Cwale balatiwa baaka,” kakusasana omuñwi musalaa Shakame wa mucembele abulela. Aekeza hape ali, “Mwakona kuya mwa simu kapa kushetumuka mwa nzila, kono musike mwaya mwa simu ya bo McGregor kakuli bo ndataamina bakile baba ni kozi mwateñi. neba beilwe mwa sikono ki mufumahali wa bo McGregor.”",
+        "T2": "“Cwale balatiwa baaka,” kakusasana omuñwi musalaa Shakame wa mucembele abulela. Aekeza hape ali, “Mwakona kuya mwa simu kapa kushetumuka mwa nzila, kono musike mwaya mwa simu ya bo McGregor kakuli bo ndataamina bakile baba ni kozi mwateñi. neba beilwe mwa sikono ki mufumahali wa bo McGregor.”",
+        "T3": "“Cwale balatiwa baka,” kakusasana omuñwi musalaa Shakame wa mucembele abulela, “Mwakona kuya mwa simu kapa kushetumuka mwa nzila, kono musike mwaya mwa simu ya bo Makiligo kakuli bo ndataamina bakile baba ni kozi mwateñi, neba beilwe mwa sikono ki mufumahali wa bo Makiligo.”"
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "'Now run along, and don't get into mischief. I am going out.'",
+        "S2": "“You can now run along but do not be reckless. I am leaving the place.",
+        "T1": "“Cwale hamu mate cwalo, mi musike mwaeza feela katangu. Nazwa fateñi.”",
+        "T2": "“Cwale hamu mate cwalo, mi musike mwaeza feela katangu. Nazwa fateñi.”",
+        "T3": "“Cwale hamu mate cwalo, mi musike mwaeza feela sitangu. Nazwa fateñi.”"
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "Then old Mrs. Rabbit took a basket and her umbrella, and went through the wood to the baker's. She bought a loaf of brown bread and five currant buns.",
+        "S2": "Mrs. Rabbit’s old wife started off to the bakery carrying her basket and an ambrella, passing through the bush. She bought herself a loaf of brown bread and five currant buns.",
+        "T1": "Musalaa Shakame wa mucembele aanga sizuma ni sikuku sahae, ni kufita mwahalaa likota kuya kwa bapangi ba linkwa. Aleka sinkwa sa mbulaunu ni ma sikono aketalizoho a mumbulwe-mbulwe.",
+        "T2": "Musalaa Shakame wa mucembele aanga sizuma ni sikuku sahae, ni kufita mwahalaa likota kuya kwa bapangi ba linkwa. Aleka sinkwa sa mbulaunu ni ma sikono aketalizoho a mumbulwe-mbulwe.",
+        "T3": "Musalaa Shakame wa mucembele anga sizuma ni sikuku sahae, ni kufita mwahalaa likota kuya kwa bapangi ba linkwa. Aleka sinkwa sa mbulaunu ni ma sikono aketalizoho a mumbulwe-mbulwe."
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "Fulopusi, Mopusi and ni Kotoni-tailo, who were good little bunnies, went down the lane to gather blackberries:",
+        "S2": "Flopsy, Mopsy, Cotton-tail, and Peter who were well behaved rabbits, descended the road to the gardens to pluck blackberries.",
+        "T1": "Fulopusi, Mopusi, Kotoni-teilu, bane bali tushakame totunde, twashetumuka mwa nzila kuyo yanga miselo yebizwa ka sikuwa kuli blackberries.",
+        "T2": "Fulopusi, Mopusi, Kotoni-teilu, bane bali tushakame totunde, twashetumuka mwa nzila kuyo yanga miselo yebizwa ka sikuwa kuli blackberries.",
+        "T3": "Fulopusi, Mopusi, Kotoni-teilu, bane bali tushakame totunde, twashetumuka mwa nzila kuyo yanga miselo yebizwa ka sikuwa kuli blackberries."
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "But Peter, who was very naughty, ran straight away to Mr. McGregor's garden, and squeezed under the gate!",
+        "S2": "However, Peter who was a very naughty boy ran straight to Mr. McGregor's garden, and passed under the gate to enter!",
+        "T1": "Kono Pita, yanaali sibangoki, amatela kwa simu yabo Makiligo ni kuyoshela kwatasaa sikwalo sa lukwakwa lwabona.",
+        "T2": "Kono Pita, yanaali sibangoki, amatela kwa simu yabo Makiligo ni kuyoshela kwatasaa sikwalo sa lukwakwa lwabona.",
+        "T3": "Kono Pita, yanaali sibangoki, amatela kwa simu yabo Makiligo ni kuyoshela kwatasaa sikwalo sa lukwakwa lwabona."
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "First he ate some lettuces and some French beans; and then he ate some radishes;",
+        "S2": "He started eating leaves of lettuce plants and some French beans then radishes.",
+        "T1": "Pili akala kuca kwa miloho ya letisi ni manawa a Sifura; kasamulaho kihona aca ni kwa likalulu.",
+        "T2": "Pili akala kuca kwa miloho ya letisi ni manawa a Sifura; kasamulaho kihona aca ni kwa likalutu.",
+        "T3": "Pili akala kuca kwa miloho ya letisi ni manawa a Sifura; kasamulaho kihona aca ni kwa likalutu."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "And then, feeling rather sick, he went to look for some parsley.",
+        "S2": "As he had felt unwell, he looked for herbal medicine to masticate.",
+        "T1": "Cwale hase aikutwa kukula mwa mubili, ayo bata kwateñi mulyani wa matali wa kuca.",
+        "T2": "Cwale hase aikutwa kukula mwa mubili, ayo bata kwateñi mulyani wa matali wa kuca.",
+        "T3": "Cwale hase aikutwa kukula mwa mubili, ayo bata kwateñi mulyani wa matali wa kuca."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "But round the end of a cucumber frame, whom should he meet but Mr. McGregor.",
+        "S2": "Finally, as he was finishing eating a cucumber peel, whom did he meet? It was Mr. McGregor.",
+        "T1": "Kono kwamafelelezo akuca makapi a liwakaka, ki mañi yakopani ni yena? Ki bo McGregor",
+        "T2": "Kono kwamafelelezo akuca makapi a liwakaka, ki mañi yakopani ni yena? Ki bo McGregor",
+        "T3": "Kono kwamafelelezo akuca makapi a liwakaka, ki mañi yakopani ni yena? Ki bo Makiligo"
+      }
+    },
+    {
+      "verse": 11,
+      "text": {
+        "S1": "Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, 'Stop thief!'",
+        "S2": "Mr. McGregor was squating, busy planting his cabbage seedilings. Suddenly, he jumped and chased Peter while lifting his rake high as he shouted, “Thief stop!”",
+        "T1": "Bo McGregor neba kubami banze basweli kucala kabici yenyinyani, kapilipili batulela mwahalimu ni kukala kumatisa Pita banze bazukuza hala yabona mwahalimu ni kuhuwa bali, “Lisholi yema!”",
+        "T2": "Bo McGregor neba kubami banze basweli kucala kabici yenyinyani, kapilipili batulela mwahalimu ni kukala kumatisa Pita banze bazukuza hala yabona mwahalimu ni kuhuwa bali, “Lisholi yema!”",
+        "T3": "Bo Makiligo neba kubami banze basweli kusun͂a kabici yenyinyani, kapilipili batulela mwahalimu ni kukala kumatisa Pita banze bazukuza hala yabona mwahalimu ni kuhuwa bali, “Lisholi yema!”"
+      }
+    },
+    {
+      "verse": 12,
+      "text": {
+        "S1": "Peter was most dreadfully frightened; he rushed all over the garden, for he had forgotten the way back to the gate. He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.",
+        "S2": "Peter was very scared as he was not sure of where the exit gate was located. He missed the way to the gate so he was just running round and round the garden. In the process, one of his pair of shoes was lost among the plants of cabbage while the other shoe got lost among the plants of potatoes.",
+        "T1": "Pita naa sabile hahulu luli mi amata-mata anze apotoloha mwa simu kaufela bakeñisa kuli naa timelezwi nzila yeliba kwa munyako wa lukwakwa. Alatehelwa ki siheta silisiñwi mwahalaa makabici, mi siheta sesiñwi salatehela mwahalaa makwili.",
+        "T2": "Pita naa sabile hahulu luli mi amata-mata anze apotoloha mwa simu kaufela bakeñisa kuli naa timelezwi nzila yeliba kwa munyako wa lukwakwa. Alatehelwa ki siheta silisiñwi mwahalaa makabici, mi siheta sesiñwi salatehela mwahalaa makwili.",
+        "T3": "Pita na sabile hahulu luli mi amata-mata anze apotoloha mwa simu kaufela bakeñisa kuli na timelezwi nzila yeliba kwa munyako wa lukwakwa. Alatehelwa ki siheta silisiñwi mwahalaa makabici, mi siheta sesiñwi salatehela mwahalaa makwili."
+      }
+    },
+    {
+      "verse": 13,
+      "text": {
+        "S1": "After losing them, he ran on four legs and went faster, so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net, and got caught by the large buttons on his jacket. It was a blue jacket with brass buttons, quite new.",
+        "S2": "After his pair of shoes had been lost, he ran faster on his two legs and two hands. I feel that he would have escaped had it not been for the unfortunate episode of running into a gooseberry shrub net which hooked him by the large buttons of his jacket and was caught. It was a quite new blue jacket with shining brass buttons.",
+        "T1": "Kasamulaho wa kulatehelwa ki maheta ahae, amata ka mahutu amane kalubilo lolutuna kuli mane nihupula kuli naa kabe abalehile kambesi ka bumai ayoswasa fa sicacani sa muselo wa gooseberry, wone ukonetile likunupo za jansi yahae. Neeli jansi yenca ya mubala wa bundilu, ya likunupo zebenya.",
+        "T2": "Kasamulaho wa kulatehelwa ki maheta ahae, amata ka mahutu amane kalubilo lolutuna kuli mane nihupula kuli naa kabe abalehile kambesi ka bumai ayoswasa fa sicacani sa muselo wa gooseberry, wone ukonetile likunupo za jansi yahae. Neeli jansi yenca ya mubala wa bundilu, ya likunupo zebenya.",
+        "T3": "Kasamulaho wa kulatehelwa ki maheta ahae, amata ka mahutu amane kalubilo lolutuna kuli mane nihupula kuli naa kabe abalehile kambesi ka bumai ayoswasa fa sicacani sa muselo wa gooseberry, wone ukonetile likunupo za jansi yahae. Neeli jansi yenca ya mubala wa bundilu, ya likunupo zebenya."
+      }
+    },
+    {
+      "verse": 14,
+      "text": {
+        "S1": "Peter gave himself up for lost, and shed big tears; but his sobs were overheard by some friendly sparrows, who flew to him in great excitement, and implored him to exert himself.",
+        "S2": "Peter surrendered hinself for failing to escape and shed tears; but his sobs were overheard by some friendly sparrows, who happily flew to him and implored him to exert himself.",
+        "T1": "Pita aitoboha sanaa latehezwi mi alotisa mioko; Kusikoka kwahae kwautwa ki balikani bahae ba litaha bane bafufezi kuyena ka tabo yetuna mi bamu lapelela kuli alike kataata kuitiisa.",
+        "T2": "Pita aitoboha sanaa latehezwi mi alotisa mioko; Kusikoka kwahae kwautwa ki balikani bahae ba linyunwani za litaha bane bafufezi kuyena ka tabo yetuna mi bamukupa kuli alike kataata kuitiisa.",
+        "T3": "Pita aitoboha sanaa latehezwi mi alotisa mioko; Kusikoka kwahae kwautwiwa ki balikani bahae ba litaha bane bafufezi kuyena ka tabo yetuna mi bamu lapelela kuli alike kataata kuitiisa."
+      }
+    },
+    {
+      "verse": 15,
+      "text": {
+        "S1": "Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter; but Peter wriggled out just in time, leaving his jacket behind him.",
+        "S2": "Mr. McGregor came up with a sieve, which he intended to cover Peter’s head with, but Peter resisted very strongly and pulled out just in time, leaving his jacket behind him.",
+        "T1": "Bo McGregor bataha ni sefa yeneba lelile kuto kwahelisa Pita kayona, kono Pita angandana ka bunako ni kusiya feela jansi mwamulaho wahae.",
+        "T2": "Bo McGregor bataha ni sefa yeneba lelile kuto kwahelisa Pita kayona, kono Pita angandana ka bunako ni kusiya feela jansi mwamulaho wahae.",
+        "T3": "Bo Makiligo bataha ni sefa yeneba lelile kuto kwahelisa Pita kayona, kono Pita angandana ka bunako ni kusiya feela jansi mwamulaho wahae."
+      }
+    },
+    {
+      "verse": 16,
+      "text": {
+        "S1": "And rushed into the tool-shed, and jumped into a can. It would have been a beautiful thing to hide in, if it had not had so much water in it.",
+        "S2": "He quickly ran to the tool-shed, jumped into a can and hid himself there. If the can had no much water, It would have been a better place to hide in.",
+        "T1": "Amatela mwa libulukelo la lisebeliso, ni kutulela mwa mungomo. Nekukaba mokunde kuipata kuwona kambe nekusina mezi amañata mwateñi.",
+        "T2": "Amatela mwa libulukelo la lisebeliso, ni kutulela mwa mungomo. Nekukaba mokunde kuipata kuwona kambe nekusina mezi amañata mwateñi.",
+        "T3": "Amatela mwa libulukelo la lisebeliso, ni kutulela mwa mungomo. Nekukaba mokunde kuipata kuwona kambe nekusina mezi amañata mwateñi."
+      }
+    },
+    {
+      "verse": 17,
+      "text": {
+        "S1": "Mr. McGregor was quite sure that Peter was somewhere in the tool-shed, perhaps hidden underneath a flower-pot. He began to turn them over carefully, looking under each. Presently Peter sneezed—'Kertyschoo!' Mr. McGregor was after him in no time.",
+        "S2": "Mr. McGregor believed that Peter was in the tool-shed and was hiding underneath the flower pots. He began to arrange the flower pots in the upside down positions while carefully observing under each flower pot. Suddenly, Peter sneezed and the sound was heard, “Kertyschoo!” Mr. McGregor was on him in no time at all.",
+        "T1": "Bo McGregor neba lumela kuli Pita naaliteñi mwa libulukelo la lisebeliso mi kuli naipatile mwatasaa poto yecezwi lipalisa. Bakala kuli fetaula handende inze batalimisisa mwatasaa poto ni poto. Cwanoñu Pita aitimula kwautwahala, “Ketisikulu!” Bo McGregor bamutatama kapilipili.",
+        "T2": "Bo McGregor neba lumela kuli Pita naaliteñi mwa libulukelo la lisebeliso mi kuli naipatile mwatasaa poto yecezwi lipalisa. Bakala kuli fetaula handende inze batalimisisa mwatasaa poto ni poto. Cwanoñu Pita aitimula mi kwautwahala mulumo wooli, “Ketisikulu!” Bo McGregor bamutatama kapilipili.",
+        "T3": "Bo Makiligo neba lumela kuli Pita naliteñi mwa libulukelo la lisebeliso mi kuli naipatile mwatasaa poto yecezwi lipalisa. Bakala kuli fetaula handende inze batalimisisa mwatasaa poto ni poto. Cwanoñu Pita aitimula kwautwahala, “Ketisikulu!” Bo McGregor bamutatama kapilipili."
+      }
+    },
+    {
+      "verse": 18,
+      "text": {
+        "S1": "And tried to put his foot upon Peter who jumped out of a window, upsetting three plants. The window was too small for Mr. McGregor, and he was tired of running after Peter. He went back to his work.",
+        "S2": "Mr. McGregor tried to step on Peter’s body who was jumping out through the window and messed up three plants of flower as he was running away. The window was too small for Mr. McGregor to jump out throught it to give a chase. He was also tired because of earlier running after Peter. He then returned to his work station.",
+        "T1": "Balika kubeya lihutu labona fahalimu a Pita yanaa tulela fande mwa lihaulo, kushandaula ni lipalisa zetaalu. Haili lihaulo neeli lelinyinyani hahulu ku bo McGregor, bane base bakatezi kumatisa Pita. Bakutela feela kwa musebezi wabona.",
+        "T2": "Balika kubeya lihutu labona fahalimu a Pita yanaa tulela fande mwa lihaulo, kushandaula ni lipalisa zetaalu. Haili lihaulo neeli lelinyinyani hahulu ku bo McGregor, bane base bakatezi kumatisa Pita. Bakutela feela kwa musebezi wabona.",
+        "T3": "Balika kubeya lihutu labona fahalimu a Pita yanaa tulela fande mwa lihaulo, kushandaula ni lipalisa zetaalu. Haili lihaulo neeli lelinyinyani hahulu ku bo McGregor, bane base bakatezi kumatisa Pita. Bakutela feela kwa musebezi wabona."
+      }
+    },
+    {
+      "verse": 19,
+      "text": {
+        "S1": "Peter sat down to rest; he was out of breath and trembling with fright, and he had not the least idea which way to go. Also he was very damp with sitting in that can. After a time he began to wander about, going lippity—lippity—not very fast, and looking all round.",
+        "S2": "Peter sat down to rest. He breathed hard and trembled by fear. He had no idea of which direction to go. He was damp because of sitting in that can of water. Afterwards, he began to slowly wonder and look around.",
+        "T1": "Pita aina fafasi kui katulusa; na buyana ni kunjanja bakeñisa sabo. Na sazibi ni hanyinyani koo nalukela kukuta. Mi hape na kolobile hanyinyani bakeñisa kuina mwa mungomo wale. Kasamulaho akala kuyambaela atanga-tanga ni kabunya inge atalima kafa ni kafa.",
+        "T2": "Pita aina fafasi kui katulusa; na buyana ni kunjanja bakeñisa sabo. Na sazibi ni hanyinyani koo nalukela kukuta. Mi hape na kolobile hanyinyani bakeñisa kuina mwa mungomo wale. Kasamulaho akala kuyambaela atanga-tanga kabunya inge atalima kafa ni kafa.",
+        "T3": "Pita aina fafasi kui katulusa; na buyana ni kunjanja bakeñisa sabo. Na sazibi ni hanyinyani koo nalukela kukuta. Mi hape na kolobile hanyinyani bakeñisa kuina mwa mungomo wale. Kasamulaho akala kuyambaela atanga-tanga ni kabunya inge atalima kafa ni kafa."
+      }
+    },
+    {
+      "verse": 20,
+      "text": {
+        "S1": "He found a door in a wall; but it was locked, and there was no room for a fat little rabbit to squeeze underneath. An old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood. Peter asked her the way to the gate, but she had such a large pea in her mouth that she could not answer. She only shook her head at him. Peter began to cry.",
+        "S2": "Peter found a door in a wall which had been locked up and there was no room for a fat little rabbit to squeeze underneath. An old mouse was running in and out over the stone door step while, carrying peas and beans to her family in the wood. Peter asked the old mouse the way to the gate, but she had such a large pea in her mouth that she could not answer. She only shook her head at him. Peter began to cry.",
+        "T1": "Afumana munyako wone ukiilwe fa limota, mi neku sina pakani yakuli kashakame kakakima nekaka kona kushela mwataasi. Peba ya mucembele nei sweli kumata-mata fa licwe la lihatelo la munyako inge isweli kututa manawa kuiseza mabasi ayona mwa likota. Pita alika kui buza nzila yeliba kwa munyako wa lukwakwa, kono yapalelwa kualaba kabakala linawa la mufuta wa peas lelituna lene liinzi mwahanu. Anyunga feela toho kuhana mi Pita akala kulila.",
+        "T2": "Afumana munyako wone ukiilwe fa limota, mi neku sina pakani yakuli kashakame kakakima nekaka kona kushela mwataasi. Peba ya mucembele nei sweli kumata-mata fa licwe la lihatelo la munyako inge isweli kututa mufuta wa tunawa wobizwa ka sikuwa kuli peas ni manawa kuiseza mabasi ayona mwa likota. Pita alika kui buza nzila yeliba kwa munyako wa lukwakwa, kono yapalelwa kualaba kabakala linawa lelituna la mufuta wa peas lene liinzi mwahanu. Anyunga feela toho kuhana mi Pita akala kulila.",
+        "T3": "Afumana munyako wone ukiilwe fa limota, mi neku sina pakani yakuli kashakame kakakima nekaka kona kushela mwatasi. Peba ya mucembele nei sweli kumata-mata fa licwe la lihatelo la munyako inge isweli kututa manawa kuiseza mabasi ayona mwa likota. Pita alika kui buza nzila yeliba kwa munyako wa lukwakwa, kono yapalelwa kualaba kabakala linawa lelituna lene liinzi mwahanu. Anyunga feela toho kuhana mi Pita akala kulila."
+      }
+    },
+    {
+      "verse": 21,
+      "text": {
+        "S1": "Then he tried to find his way straight across the garden, but he became more and more puzzled. Presently, he came to a pond where Mr. McGregor filled his water-cans. A white cat was staring at some gold-fish. She sat very, very still, but now and then the tip of her tail twitched as if it were alive. Peter thought it best to go away without speaking to her; he had heard about cats from his cousin, little Benjamin Bunny.",
+        "S2": "Then he tried to find his way by cutting straight across the garden although he was puzzled. Suddenly, he arrived at a pond where Mr. McGregor had filled up his cans of water. A white cat was standing still, staring at some gold-fish. However, the tip of her tail twitched to indicate that was alive. Peter thought it was wise to just go away without speaking to her. He had heard stories about cats from his cousin called little Benjamin Bunny.",
+        "T1": "Cwale alika kubata nzila ka kupuma feela fahala simu, kono amakala hahulu. Cwanoñu afita fa lisima foo bo McGregor neba talize lingongolo zabona za mezi. Kakaze kakasweu neka lubukezi zeñwi za litapi za mubala wa gauda. Neinzi mwimanjinji ikuzize tuu, kono mafelelezo a muhata wayona inze unyanganya kubonisa kuli yapila. Pita ki hase ahupula kuli bunde ki kuikela kusina kuambola ni yona; naa utwile kale za likaze ku mwanaahabo yena yabizwa Benjamin Bunny yomunyinyani.",
+        "T2": "Cwale alika kubata nzila ka kupuma feela fahalaa simu, kono amakala hahulu. Cwanoñu afita fa lisima foo bo McGregor neba talize lingongolo zabona za mezi.Kaze yesweu nei lubukezi zeñwi za litapi za mubala wa gauda. Neiyemi mwimanjinji ikuzize tuu! Kono mafelelezo a muhata wayona neu nyanganya kubonisa kuli yapila. Pita ki hase ahupula kuli bunde ki kuikela kusina kuambola ni yona. Naa utwile kale za likaze ku mwanaahabo yena yabizwa Benjamin Bunny yomunyinyani.",
+        "T3": "Cwale alika kubata nzila ka kupuma feela fahala simu, kono amakala hahulu. Cwanoñu afita fa lisima foo bo McGregor neba talize lingongolo zabona za mezi. Kakaze kakasweu neka lubukezi zeñwi za litapi za mubala wa gauda. Neinzi mwimanjinji ikuzize tuu, kono mafelelezo a muhata wayona inze unyanganya kubonisa kuli yapila. Pita ki hase ahupula kuli bunde ki kuikela kusina kuambola ni yona; na utwile kale za likaze ku mwanaahabo yena yabizwa Benjamin Bunny."
+      }
+    },
+    {
+      "verse": 22,
+      "text": {
+        "S1": "He went back towards the toolshed, but suddenly, quite close to him, he heard the noise of a hoe scratch, scratch, scratch, scratch, scritch. Peter took cover in the bushes. But presently, as nothing happened, he came out, and climbed upon a wheelbarrow and peeped over. The first thing he saw was Mr. McGregor hoeing onions. His back was turned towards Peter, and beyond him was the gate!",
+        "S2": "He went back towards the toolshed, and suddenly, quite close to him, he heard the noise of a hoe, “Scratch! Scratch! Scratch, Scratch! Peter took cover in the bushes. But presently, as nothing happened, he came out, and climbed upon a wheelbarrow and peeped over. The first thing he saw was Mr. McGregor hoeing onions. His back was turned towards Peter, and beyond him was the gate!",
+        "T1": "Akuta ka kuliba kwa libulukelo la lisebeliso, kono kapilipili, bukaufi ni fanaa inzi, autwa mulumo wa muhuma haulima uli, “Caku! Caku! Caku!” Pita ki hai pata mwatasaa macecani. Kono honafo inge hakuna sene siezahalile, aipatulula, ni kupahama fahalimu a ngolobani kunangela. Nto yapili yanaa boni neeli bo McGregor inge balima nyanisi. Neba fulalezi Pita mi kwapili yabona nekuna ni munyako wa lukwakwa!",
+        "T2": "Akuta ni kuliba kwa libulukelo la lisebeliso, kono kapilipili, bukaufi ni fanaa inzi, autwa mulumo wa muhuma haulima uli, “Caku!! Caku!! Caku!!” Pita ki hai pata mwatasaa macecani. Kono honafo inge hakuna sene siezahalile, aipatulula, ni kupahama fahalimu a ngolobani kunangela. Nto yapili yanaa boni neeli bo McGregor inge balima nyanisi. Neba fulalezi Pita mi kwapili yabona nekuna ni munyako wa lukwakwa!",
+        "T3": "Akuta ka kuliba kwa libulukelo la lisebeliso, kono kapilipili, bukaufi ni fanaa inzi, autwa mulumo wa muhuma haulima uli, “Ca! Ca! Ca!” Pita ki haipata mwatasaa macecani. Kono honafo inge hakuna sene siezahalile, aipatulula, ni kupahama fahalimu a ngolobani kunangela. Nto yapili yana boni neeli bo McGregor inge batahulela nyanisi. Neba fulalezi Pita mi kwa pili yabona nekuna ni munyako wa lukwakwa!"
+      }
+    },
+    {
+      "verse": 23,
+      "text": {
+        "S1": "Peter got down very quietly off the wheelbarrow; and started run- ning as fast as he could go, along a straight walk behind some black- currant bushes. Mr. McGregor caught sight of him at the corner, but Peter did not care. He slipped underneath the gate, and was safe at last in the wood outside the garden.",
+        "S2": "Peter got down off the wheelbarrow very quietly and started running away as fast as he could along a straight path behind some black currant bushes. Mr. McGregor caught sight of him at the corner, but Peter did not care. He slipped underneath the gate, and was safe at last in the wood outside the garden.",
+        "T1": "Pita atuluka fa ngolobani katokomelo akuzize ni kukala kumata ka lubilo lolutuna luli ka mwanaa konela alatelela feela nzila mone ilibile kwamulaho wa macecani a mumbulwe-mbulwe. Bo McGregor bamubona foi lobela nzila, kono yena atokwa kuisa kwateñi pilu. Ashela feela mwatasaa sikwalo sa lukwakwa mi mafelelezo apunyuhela mwa likota kwande a simu.",
+        "T2": "Pita atuluka fa ngolobani katokomelo akuzize ni kukala kumata ka lubilo lolutuna luli ka mwanaa konela alatelela feela nzila mone ilibile kwamulaho wa macecani a mumbulwe-mbulwe. Bo McGregor bamubona foi lobela nzila, kono yena atokwa kuisa kwateñi pilu. Ashela feela mwatasaa sikwalo sa lukwakwa mi mafelelezo apunyuhela mwa likota kwande a simu.",
+        "T3": "Pita atuluka fa ngolobani katokomelo akuzize ni kukala kumata ka lubilo lolutuna luli ka mwana konela alatelela feela nzila mone ilibile kwamulaho wa macecani a mumbulwe-mbulwe. Bo McGregor bamubona foi lobela nzila, kono yena atokwa kuisa kwateñi pilu. Ashela feela mwatasaa sikwalo sa lukwakwa mi mafelelezo apunyuhela mwa likota kwande a simu."
+      }
+    },
+    {
+      "verse": 24,
+      "text": {
+        "S1": "Mr. McGregor hung up the little jacket and the shoes for a scare-crow to frighten the Open-Bill stock.",
+        "S2": "Mr. McGregor hang the little jacket and the shoes of a scarecrow to frighten the Open-Bill stock.",
+        "T1": "Bo McGregor bapaheka kajansi ni maheta kueza lisusa za kusabisa linongolo.",
+        "T2": "Bo McGregor bapaheka kajansi ni maheta kueza lisusa za kusabisa linongolo.",
+        "T3": "Bo Makiligo bapaheka kajansi ni maheta kueza lisusa kusabisa linyunyani zensu."
+      }
+    },
+    {
+      "verse": 25,
+      "text": {
+        "S1": "Peter never stopped running or looked behind him till he got home to the big fir-tree.",
+        "S2": "Peter never stopped running or looked behind him until he got home to the big fir-tree.",
+        "T1": "Pita naa sika tuhela kumata kapa kui temuna kufitela ayo fita kwa hae haboyena kwa kota yetuna yebizwa ka sikuwa kuli fir.",
+        "T2": "Pita naa sika tuhela kumata kapa kui temuna kufitela ayo fita kwa hae haboyena kwa kota yetuna yebizwa ka sikuwa kuli fir.",
+        "T3": "Pita nasikatuhela kumata kapa kui temuna kufitela ayo fita kwa hae haboyena kwa kota yetuna ya fir."
+      }
+    },
+    {
+      "verse": 26,
+      "text": {
+        "S1": "He was so tired that he flopped down upon the nice soft sand on the floor of the rabbit-hole and shut his eyes. His mother was busy cooking; she wondered what he had done with his clothes. It was the second little jacket and pair of shoes that Peter had lost in a fort-night!",
+        "S2": "Peter was so tired that he flopped down upon the nice soft sand on the floor of the rabbit-hole and shut his eyes. His mother was busy cooking. She wondered what Peter had done with his clothes because it was the second little jacket and a pair of shoes that Peter had lost in two weeks!",
+        "T1": "Naa katezi luli kuli saa wela fa mushabati womunde wobunolo wa fa musima wa shakame mi aitima kwa meeto. Bo mahe neba patehile kutateha lico. Bai komokela sewo Pita naa ezize kwa libyana zahae. Neeli kajansi kabubeli ni makatulo amabeli anaa latile Pita mwa lisunda zepeli!",
+        "T2": "Naa katezi luli kuli saa wela fa mushabati womunde wobunolo wa fa musima wa shakame mi aitima kwa meeto. Bo mahe neba patehile kutateha lico. Bai komokela sewo Pita naa ezize kwa libyana zahae. Neeli kajansi kabubeli ni makatulo amabeli anaa latile Pita mwa lisunda zepeli!",
+        "T3": "Nakatezi luli kuli sawela fa mushabati womunde wobunolo wa fa musima wa shakame mi aitima kwa meeto. Bo mahe neba patehile kutateha lico; bai komokela sewo na ezize kwa libyana zahae. Neeli kajansi kabubeli ni makatulo amabeli anaa latile Pita mwa lisunda zepeli!"
+      }
+    },
+    {
+      "verse": 27,
+      "text": {
+        "S1": "I am sorry to say that Peter was not very well during the evening.",
+        "S2": "I am sorry to say that Peter was not very well during the evening.",
+        "T1": "Niswabile kubulela kuli Pita naa sikai keta hande mwa nako ya manzibwana.",
+        "T2": "Niswabile kubulela kuli Pita naa sikai keta hande mwa nako ya manzibwana.",
+        "T3": "Niswabile kubulela kuli Pita nasikaiketa hande mwa nako ya manzibwana."
+      }
+    },
+    {
+      "verse": 28,
+      "text": {
+        "S1": "His mother put him to bed, and made some camomile tea; and she gave a dose of it to Peter! “One table-spoonful to be taken at bed-time.”",
+        "S2": "His mother put him to bed, and made some camomile tea. She gave a dose of it to Peter, “One table-spoonful to be taken at bed-time.”",
+        "T1": "Bo mahe bamulobaza ni kumu ezeza tii ya camomile. Pita bamufa tii ya tikanyo feela ya camomile, “Lushwana lolutezi lolunwiwa haaya kwa kulobala.”",
+        "T2": "Bo mahe bamulobaza ni kumu ezeza tii ya camomile. Pita bamufa tii ya tikanyo feela ya camomile, “Lushwana lolutezi lolunwiwa haaya kwa kulobala.”",
+        "T3": "Bo mahe bamulobaza ni kumu ezeza tii ya camomile; mi bafa kwateñi Pita tii ya tikanyo feela ya camomile! “Lushwana lolutezi lolunwiwa haaya kwa kulobala.”"
+      }
+    },
+    {
+      "verse": 29,
+      "text": {
+        "S1": "But Flopsy, Mopsy, and Cotton-tail had bread and milk and blackberries for supper.",
+        "S2": "However, Flopsy, Mopsy, and Cotton-tail had bread, milk and blackberries for supper.",
+        "T1": "Haili Fulopusi, Mopusi ni Kotoni-teilu bona balalela sinkwa kukushulisa ni mabisi mane ni kuca litolwana zebizwa ka sikuwa kuli blackberries.",
+        "T2": "Haili Fulopusi, Mopusi ni Kotoni-teilu bona balalela sinkwa kukushulisa ni mabisi mane ni kuca litolwana zebizwa ka sikuwa kuli blackberries.",
+        "T3": "Kono Fulopusi, Mopusi ni Kotoni-teilu bona balalela sinkwa kukushulisa ni mabisi mane ni kuca litolwana za blackberries."
+      }
+    }
+  ]
+}

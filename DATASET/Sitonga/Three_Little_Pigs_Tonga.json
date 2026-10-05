@@ -1,0 +1,93 @@
+{
+  "header": {
+    "Title (Source)": "Three Little Pigs",
+    "Title (Target)": "",
+    "Original Author": "James Orchard Halliwell-Phillipps",
+    "Source Language": "English",
+    "Target Language": "Tonga",
+    "Translator 1": "Malambo Albert",
+    "Translator 2": "Chilufya Kasonde"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "Once upon a time, there were three little pigs. One day, they left their mother to go see the world. All summer long, they made lots of friends. The third little pig, unlike his brothers, remembered his mother’s advice that they should work hard to succeed in life. “We need to build a house to shelter us from the cold during winter and also to protect us from the big bad wolf”. However, each little pig took the decision to build a house for himself.",
+        "T1": "Kale- kale mucindi cimwi kwakali tungulube tuniini- totatwe. Bumwi buzuba twakasiya banyina kuyoobona nyika anze. Ciindi ca cilimo, twakabamba balongwe banji. Aaka kamwi ka ngulube kacitatu kakali andeene abana bokwabo, inga kalo kakali kwayeeya malaile abanyina akuti kuba amaumi mabotu nciyandisi kubeleka anguzu. “Tweelede kuyaka ng’anda iitukwabilila kumpeyo akuli ndinga mwaaba lipati libi”. Nokuba boobu, akamwi kana ka ngulube kakabweza muzeezo wakuliyakila ng’anda akamwi yako.",
+        "T2": "Muciindi cimwi kwakali tungulube tuniini totatwe. Bumwi buzuba, twakasiya banyina kuyoobona nyika anze. Iciindi ca cilimo, twakabamba balongwe banji. Aaka kamwi kangulube kacitatu, kakali andeene abana bokwabo, akuyeeya malailile aabanyina aakuti bayandika kubeleka canguzu kutegwa bakabe amaumi mabotu. “Tweelede kuyaka ng’anda iitukwabilila kumpeyo akuli ndiinga mwaaba lipati libi.” Nokuba boobo, akamwi kana ka ngulube kakabweza muzeezo wakuliyakila ng’anda akamwi yankako."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "The first little pig, the laziest of the three, decided to build a nice little straw house. “As it will take only a day to build, I will have plenty of time to play!” he said. “Yes, but it will not be strong enough,” said the second little pig, and added, “I’m going to build a house of wood.” “And me, I’ll build my house of brick,” said the third little pig. “I’m afraid that neither the house built of straw nor the house built of wood are strong enough to keep the big bad wolf away.” The first and second little pigs didn’t take advice from the third little pig and they all built their houses the way they thought best.",
+        "T1": "Kakusaanguma kangulube, katolo kwiinda totatwe toonse, kakayeeya kuyaka kaanda kabotu kaniini kubelesya bwizu. “kayi cilatola biyo buzuba bomwe kuyaka ndilaba aciindi cinji cakusobana” kakaamba. “uliluzi pele taikooyuma kabotu ng’anda” kakaamba ka ngulube kacibili akuyungizya kuti, “imebo ndilayaka kubelesya zisamu “imebo ndilabelesya matina kuyaka ng’anda yangu” kacitatu kakaamba. “ Ndiyoowa kuti kuyaka ng’anda yabwizu naa yazisamu inga taiyumikapati kutija kunjililwa ndinga mwaaba libi eeli.” Kakusaanguna akabili titwakamvwa malailile akana kokwabo twakaile kuyaka mbuli mumizeezo akamwi mbukakayeeya.",
+        "T2": "Kangulube kakusaanguna, katolo kwiinda toonse, kakayeeya kuyaka kaanda kabotu kaniini kubelesya bwizu. “Kayi cilatola biyo buzuba bomwe kuyaka ng’anda, ndilaba aciindi cinji cakusobana.” Kakaamba. “Inzya pele taikooyuma kabotu ng’anda,”kakaamba kangulube kangulube kabili,akuyungizya kuti, “imebo ndilayaka kaanda kubelesya zisamu.” “Imebo, ndilabelesya matina kuyaka ng,anda yangu,” kangulube katatu kakaamba. “ndayoowa kuti kuyaka ng’anda ya bwizu naa yazisamu inga tauyumikapati kutija kunjililwa ndiinga mwaaba libi eeli.” Kangulube kakusaanguna aakabili titwakamvwa malailile akana kokwabo twakaile kuyaka mbuli mumizeezo akamwi mbukakayeeya."
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "But the next day the big bad wolf came. The wolf was hungry and wanted a delicious pig for dinner. “Come out, I want to speak to you,” roared the big bad wolf to the house of straw. “No way, I would rather stay where I am,” replied the first little pig in a weak voice. “I’ll make you come out, whether you like it or not,” growled the big bad wolf, and he blew with all his strength. The fragile little straw house soon fell down. There was only one thing the first little pig could do and that was to flee.",
+        "T1": "Pele buzuba bwakacilila ndinga mwaaba libi lyakaboola. Mwaaba wakamvwide nzala nkabela wakali kuyanda kulya ngulube inona kubamba cilalilo. “Kozwa anze, ndiyanda kukanana anduwe.” Lyakoongolola ndinga mwaaba kukaanda aka kabwizu. “Taaku, inga cabota biyo ndakkala muno mwebede” kakasandula kataanzi kangulube mukajwi kauside. “Koyanda kotayandi ndilakusokomona omo,” lyakalikalauka ndinga mwaaba akufunta muya acanguzu kapati. Kaanda kaya kabwizu katakajatide amaningi kakakolomoka kuwa. Kangulube kaya kakaceede biyo acomwe cakucita kulumamba oolu eeco kwakali kuluumpu lubilo.",
+        "T2": "Pele buzuba bwakacilila ndiinga mwaaba libi lyaka lyakaboola. Mwaaba wakalimvide nzala nkabela wakali kuyanda kulya ngulube iinona kubamba cilalilo. “Kozwa aanze ndiyanda kukanana anduwe,” Wakaongolola mwaaba kukaanda aaka ka bwizu. “Taaku, inga cabota ndakkala muno mwebede,” kakavwiila kangulube kakusaanguna mukajwi kakateede. “Noyanda notayandi ndilakusokomona oomo,” wakavuluma mwaaba mupati mubyabi,akuvunta muya canguzu kapati. Kaanda kaya kabwizu katakajatije amaningi kakakolomoka kuwa. Kangulube kakaceede biyo acintu comwe cakucita nkulutija lubilo."
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "The first little pig ran to take shelter in the wooden house of the second little pig. The big bad wolf grew angrier and within a few minutes approached the second little pig’s wooden house. “It’s two little pigs that I will have now,” he thought. He banged on the door and shouted, “I’ll get you, and you shall not escape me.” “I hope that your house will stand better than mine,” said the worried first little pig to the second little pig. Seeing that he could not get in, the big bad wolf stepped back, puffed up his lungs and blew with all his might. The wooden house didn’t take much longer than the straw house to fall down. It collapsed plank by plank and the two little pigs started to run as fast as they could.",
+        "T1": "Aka kangulube kataanzi kakatijila mung’anda yamunyina wabili mukaanda kazisamu. Ncinga mwaaba cakakalala kapati akuunka kung’anda yazisamu yakangulube kabili mutuzunzumina tuniini. “Lino ndilya tungulube tuniini tobilo” wakaliyeeyela. Wakacuuma citendele akuti, “ndilamujata alimwi tamukootija pe.“Akaka akube kuti ng’anda yako ninjumu kwiinda yangu,” kakaamba mukutyompwa kangulube kakusaanguna kuli kabili. Mwaaba naakabona kuti inga tacibi cuubauba kunjila mung’anda, wakasosoloka ntaamu zili mbozibede munsi, ngooyo wacizuzya camba cakwe amuya akuyeeka mpasimpila. Kaanda kazisamu tikakatola aciindi mbuli kabwizu kakawida ansi. Kakakolomoka pulanga apulanga mpoonya twana twa ngulube twakatija cakufwambaanisya.",
+        "T2": "Aka kangulube kataanzi kakatijila mung,anda yamunyina wabili mukaanda kazisamu. “Lino ndilalya tungulube tuniini tobilo,” wakayeeya mwaaba. Wakacuuma citendele akuti, “Nndilamujata alimwi tamukootija pe.” “Akaka akube kuti nga’anda yako ninjumu kwiinda yangu,” kakaamba mukutyompwa kangulube kakusaanguna kuli kabili. Mwaaba naakabona kuti inga tacibi cuubauba kunjila mung’anda, wakasosoloka ntaamu zili mbuli mbozibede munsi, ngooyo wacizuzya camba cakwe amuya akuyeeka mpasimpila. Kaanda kazisamu tikakatila aciindi mbuli kabwizu kakawida ansi. Kakakolomoka cisamu acisamu mpoona twana twangulube twakatija cakufwaambanisya."
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "They arrive at their brother’s house, the third little pig. Just in time, because the wolf was about to catch them. “Come in! Quick, quick!” he screamed. “I told you that your houses wouldn’t stand!” By now, the big bad wolf was getting increasingly hungry and angry. He tried to break open the door but only succeeded in hurting his legs. The third little pig reassured his brothers, “We are safe here. This house is very solid. The big bad wolf won’t be able to destroy it.” Indeed, the big bad wolf didn’t know what to do. He grew restless and kicked the door and the walls all over but neither the door nor the wall moved by an inch!",
+        "T1": "Twakaakusika kung’anda yamunyina, kaya kambi katatu ka ngulube. Muciindi biyo nceena ciya, nkaambo mwaaba waati bajate, “Amunjile! Amubinde, kamubinda! Wakoongolola “Ndakamwaambila kuti maanda enu taakwe nguzu!” kwaciindi eci ciya ncinga mwaaba nzala yakacibbubya akunyema. Wakasola kupwaya cijazyo pele wakaile kulicisa kukuulu. Kangulube katatu kakabakulwaizya banabokwabo. “Omuno katuliiba biyo. Eeyi ng’anda ninjumu ncinga mwaaba tacikwe kuyoola pe”. Cancobeni cinga mwaaba cakabula acakucita. Cakalema akwiile kubbakela citendele abwaanda oku akooku pele kwiina cakooleka naaba aniini.",
+        "T2": "Twakasika kung’anda ya munyina, kangulube ka tatu. Muciindi biyo nceena ciya, nkaambo mwaaba waati bajate, “Amunjile! Amubinde!” Wakaongolola, “Ndakamwaambila kuti maanda eenu taakwe nguzu!” Kwa ciindi eeci ciya nciinga mwaaba nzala yakacibbubya akunyema. Cakasola kupwaya cijazyo pele cakaile kulicisa kukuulu. Kangulube katatu kakabakulwaizya banabokwabo, “Omuno katuliiba biyo. Eeyi ng’anda ninjumu, nciinga mwaaba tacikwe kuyoola pe”. Cancobeni nciinga mwaaba cakabula acakucita. Cakalema akwiile kubbakela citendele abwaanda ooku akooku pele kwiina cakooleka naaba aniini."
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "“I’ll blow your house so hard that it will fall down like the others,” shouted the big bad wolf. “You can always try,” said the third little pig, “but my house is too strong, you will never get in.” “We’ll see,” said the big bad wolf.",
+        "T1": "“Ndilaifulidila ng’anda yanu acanguzu ilawa mbuli yaalya amwi obilo,” cakalikalauka ncinga mwaaba. “Inga wacita oobo” kakaambo katatu kangulube, pele ng’anda yangu mebo ndinjimu takukwe notinjile muno” “Tulabona wee,” lyakati ndinga mwaaba.",
+        "T2": "“Ndilaifulidila ng’anda yanu canguzu ilawa mbuli yaalya amwi obilo,” cakalikalauka nciinga mwaaba. “Inga wacita oobo” kakaamba katatu kangulube, “Pele ng’anda yangu mebo ninjumu takukwe notinjile muno” “Tulabona wee,” lyakaamba ndiinga mwaaba."
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "And he began to blow and blow, and blow during long minutes, but the house still stood. The third little pig opened the window carefully and saw that the big bad wolf looked completely exhausted. This made the three little pigs laugh and they felt perfectly safe now.",
+        "T1": "Kwaciindi cili mbocibede wakatalika kufulida, kufulida akufulida pesi ng’anda yaliimwi mbweena. Kangulube katatu kakajula mpulungwido kabona kuti ndinga mwaaba lyakakatala cakumaninina. Eeci cakapa kuti toonse tungulube tusekelele akulimvwa kufutuka lino.",
+        "T2": "Kwaciindi cili mbocibede wakatalika kufuluda, kufulida akufulida pele ng’anda yaaliimvwi mbweena. Kangulube katatu kakajula mpulungwido akubona kuti ndiinga mwaaba lyakakatala cakumaninina. Eeci cakapa kuti toonse tungulube tusekelele akulimvwa kufutuka lino."
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "But the big bad wolf wasn’t finished talking. “Don’t think I’m giving up,” said the big bad wolf. “I’m really hungry now!” The wolf was thinking. If he can’t destroy the house, there must be a way to get in. “Maybe in disguise?” wondered the wolf. “If they don’t recognize me, there might be a chance they open the door”, he said. “Oh no! These 3 little pigs are too smart, they’ll recognize me! I need to think of something else!” He saw the ladder that had been used by the third little pig to build his house. “That’s what I’ll do,” thought the big bad wolf, “I’ll go down the chimney.” And he climbed on to the roof.",
+        "T1": "Pele ncinga mwaaba cibi eeci taacakaninga mana kwaambaula. “Mutayeeyi kuti ndaleka biyo,”lyakaamba ndinga mwaaba. “Awa ndaimvwa masimpe nzala!” mwaaba wakayeeya. Kuti katakonzyi kumwaya nga’nda, kweelede kuba imbi nzila yakunjila. “Antela kulisisa?” wakeezezya mwaaba. “kuti kabatakonzyi kundiziba, ambweni inga bandijulila mulyango,” wakaamba. “Maawe! Ootu tungulube tulicenjede kapati, tulandiziba! Ndeelede biyo kuyeeya cimbi.wakabona malale ngikakali kubelesya kangulube katatu ciindi nokakali kuyaka ng’anda. “Eeci ncenditicite,” wakayeeya mwaaba mubi. “Ndilanjilila muzwida busi muya mpoona wakatanta alululi lwang’anda.",
+        "T2": "Pele nciinga mwaaba cibi eeci teecakaninga mana kwaambaula. “Mutayeeyi kuti ndaleka biyo,” lyakaamba ndinga mwaaba. “Awa ndaimvwa nzala masimpe!” mwaaba wakayeeya. Kuti katakonzyi kumwaya ng’anga, kweelede kuba iimbi nzila yakunjilila. “Antela kulisisa?” wakeezeezya mwaaba. “Ikuti kabatakonzyi kundizyiba, ambweni inga bandijulila mulyango, ”Maawe! Ootu tungulube tulicenjede kapati, tulandizyiba! Ndeelede biyo kuyeeya cimbi, wakabona manela ngikakali kubelesya kangulube katatu ciindi nokakali kuyaka ng’anda. “Eeci nceticite,” wakayeeya mwaaba mubi. “Ndilanjilila muzwida busi muya mpoona wakatanta alululi lwang’anda."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "The third little pig was very clever. He had seen the wolf’s move and said to his brothers: “I believe that the wolf is on the roof and he is going to try coming down the chimney! Quick, light the fire.” The wolf was already in the chimney and wasn’t able to climb up, so he slid down the chimney. He landed on the fire and burnt his backside and tail. He shrieked and ran away as fast as he could, through the door that the third little pig had left deliberately open.",
+        "T1": "Kangulube katatu kakali kasongo. Wakamubona mwaaba zyoonse nzyaakali kucite anze akukwaambila bana bokwabo; “Ndasyoma mwaaba watatnta aciluli mpoona ulasota.Kwiina moomu muzwida busi! Amubinde amukunke mulilo”. Mwaaba wakali kali mucipila cabusi eelyo taakali kuti inga wakonzya kujokela mujulu, nkakaako wakatezemukila ansi. Wakawida amulilo akupya kumatako akumucila. Wakakwiila akutija cakubinda, kwiindila kumulyango kangulube ngokakajulida acaali.",
+        "T2": "Kangulube katatu kakali kasongo. Kakamubona mwaaba zyoonse nzyaakali kucita anze akwaaambila bana bokwabo; “Ndasyoma mwaaba watanta aciluli mpoona ulasola kutunjilila kwiinda moomu muzwida busi! Amubinde, amukunke mulilo”. Mwaaba wakali kale mucipila cabusi eelyo taakali kukonzya kujokela mujulu, mpoona wakatezemukila ansi. Wakawida amulilo akupya kumatako akumucila. Wakakwiila akutija cakubinda, akwiinda kumulyango kangulube katatu ngokakasiide bukwazi acaali."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "The three little pigs, came out of the house to watch the wolf run and jump around like a rabbit. “ Ha ha ha ha! We got him good!” cried out the three brothers at the same time. After such an experience, the first and second lazy little pigs decided to also build a brick house for themselves. And once the work was completed, they went back to playing, singing, and dancing. As for the big bad wolf, nobody ever saw him again.",
+        "T1": "Tungulube toonse totatwe twakazwida anze lya ng’anda kuti tubone mwaaba katija akusotooka mbuli kasulwe. “Ha ha ha ha! Twamwiinda maanu!” bakaseka banabokwabo boonse botatwe antoomwe. Lyakamana kaaka kaambo, kangulube kataanzi akabili boonse bakayeeya kuyaka ng’anda yamatina yabo. Kaindi komwe ng’anda yakamana, bakajoka kukosobana, kwiimba akuzyana. Ncinga mwaaba calo, kwiina wakacibona limbi kwakamana.",
+        "T2": "Tungulube toonse totatwe twakazwida anze lya ng’anda kuti tubone mwaaba katija akusotooka mbuli kasulwe. “Ha ha ha ha! Twamwiinda maanu!” bakaseka banabokwabo boonse botatwe antoomwe. Lyakamana kaambo, kangulube kataanzi akabili boonse bakayeeya kuyaka ng’anda yamatina yabo. Kaindi komwe ng’anda yakamana, mpoona bakajokela kukusobana, kwiimba akuzyana. Nciinga mwaaba calo, kwiina wakacibona limbi kwakamana."
+      }
+    }
+  ]
+}

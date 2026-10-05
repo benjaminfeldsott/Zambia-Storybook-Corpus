@@ -1,0 +1,805 @@
+{
+  "header": {
+    "Title (Source)": "The Little Mermaid",
+    "Title (Target)": "",
+    "Original Author": "Hans Christian Andersen",
+    "Source Language": "English",
+    "Target Language": "Chitonga",
+    "Translator 1": "Malambo Albert",
+    "Translator 2": "Chilufya Kasonde"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "Now don't suppose that there are only bare white sands at the bottom of the sea. No indeed! The most marvelous trees and flowers grow down there, with such plant stalks and leaves that the least stir in the water makes them move about as though they were alive. All sorts of fish, large and small, dart among the branches, just as birds flit through the trees up here. From the deepest spot in the ocean rises the palace of the sea king. Its walls are made of coral and its high pointed windows of the clearest amber, but the roof is made of mussel shells that open and shut with the tide. This is a wonderful sight to see, for every shell holds glistening pearls, any one of which would be the pride of a queen's crown.",
+        "T1": "kutabi nomuyeeya kuti ansi aalwizi kuli biyo museenga walo utuba. Taakwe pe! Masamu imabotu amalubaluba alakomena aalo kunsi kuya, cakuti zisiko amatu aanga alakopa akuboneka mbuli kuti alapona. Inswi ziindene-indene, zipati atuniini, zilaindaka mbweena mbuli bayuni mbobapilingana mujulu. Ansi eeni akbeela kamwi mulweenje kuli munzi wabwami bwamulwizi. Bwaanda bwawo buyakidwe amabwe mayumu mbube mpulungwido azyalo zijisi mabwe alibonya anze, mpoona ciluli acalo ciyakidwe azikwa zijaluka aguwo. Eeci inga cileebeka, nkaambo acimwi cikwa cijatilide mabwe amwekamweka, cili comwe acomwe inga cibotya musyini wamukamwami.",
+        "T2": "Kutabi nomuyeeya kuti ansi aalwizi kuli biyo museenga walo uutuba. Taakwe pe! Masamu imabotu amalubaluba alakomena aalo kunsi kuya, cakuti zisiko amatuvu aanga alakopa akuboneka mbuli kuti alapona. Inswi ziindeene-indeene, zipati atuniini, mbweena mbuli bayuni mbobapilingana mujulu. Aansi eeni akabeela kamwi mulweenje kuli munzi wabwami bwamulwizi. Bwaanda bwawo buyakidwe amabwe mayumu ampulungwido azyalo zijisi mabwe aalibonya anze, mpoona ciluli acalo ciyakidwe azikwa zijaluka akujula amuo. Eeci inga cileebeka, nkaambo acimwi cikwa cijatilidwe mabwe amwekamweka, cili comwe acomwe inga cibotya musyini wa mukamwami."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "The sea king’s wife died many years ago, and his old mother took care of the children for him. She was a clever woman, but very proud of her noble birth. Therefore she flaunted twelve oysters on her tail while the other ladies of the court were only allowed to wear six. Except for this she was an altogether praiseworthy person, particularly so because she was extremely fond of her granddaughters, the little sea princesses. They were six lovely girls, but the youngest was the most beautiful of them all. Her skin was as soft and tender as a rose petal, and her eyes were as blue as the deep sea, but like all the others she had no feet. Her body ended in a fish tail.",
+        "T1": "Bamukamwami aba bakafwide myaka minji yainda, mpoona banyina mbekamukomezela bana bakwe. Wakali mukaintu wakacenjede kapati, pele walkali kulisumpula ankwaakazyalilwa. Aboobo wakali jisi mpande kunze lykwe zili kkumi azibili kakuli basinkuta bamwi bamakaintunyika bakazumizidwe biyo aumwi zili zyosanwe ayomwe. Pele ooyu wakali andeene abamwi nkaambo wakali muntu weezene muli zyoonse, akaambo kaandeene kakuti bazikulu bakwe wakali kubayanda kapati, bana babwami basimbi babotu. Aaba bana basimbi bakali bosanwe awomwe,pesi keela nkikakali kabotu ciwa kubainda boonse. Lukanda lwako lwakali luteteete mbuli lubaluba litegwa rose mucikuwa, meso ako akali amubala wajulu kaubone mbuli lwizi lulamfu, pesi mbuli bamwi boonse taakajisi mampata kumaulu. Mubili wakwe wakali kumanina mbuli mucila wanswi.",
+        "T2": "Bamuka mwami aaba bakafwide myaka minji yainda, mpoona banyina mbebakamukomezyela bana bakwe. Wakali mukaintu wakacenjede kapati, pele wakali kulisumpula ankwaakazyalilwa. Aboobo wakali jisi mpande kunze lyakwe zili kkumi azibili kakuli basinkuta bamwi bamakaintu nyina bakazumizidwe biyo aumwi zili zyosanwe ayomwe. Pele ooyu wakali andeene abamwi nkaambo wakali muntu weezene muli zyoonse, akaambo kaandeene nkakutinbazikulu bakwe wakali kubayanda kapati, bana babwami basimbi babotu. Aaba bana basimbi bakali bosanwe aomwe, pesi keela nkikakali kabotu kubainda boonse. Lukanda lwako lwakli luteteete mbuli lubaluba litegwa rose muciluwa, meso ako akali aamubala wajulu kaaboneka mbuli lwizi lulamfu, pesi mbuli bamwi boonse taakajisi mampata kumaulu. Mubili wakwe wakali kumaniina mbuli mucila wanswi."
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "The whole day long they used to play in the palace, down in the great halls where live flowers grew on the walls. Whenever the high amber windows were thrown open the fish would swim in, just as swallows dart into our rooms when we open the windows. But these fish, now, would swim right up to the little princesses to eat out of their hands and let themselves be petted.",
+        "T1": "buzuba abuzuba bakali kusobana kwabo kunganda yabwami, mumpakatwa zyanganda mwalo mwakali kumena maluba kubwaanda. Kwakli kunga kuti mpulungwido zyajalulwa, nswi zyakali kusamba, kazinjila mukati mbuli tumeembya mbotunjila mumaanda esu notujalula mpulungwido. Ele biyo ezi nswi zyakali kusaya kuya kubana aba basimbi kuti zikalye kuzwa mumaanza abo akuletwa munsi munsi.",
+        "T2": "Buzuba abuzuba bakali kusobana kwabo kung’anda yabwami, mumpakatwa zya nga’anda mwalo mwakali kumena maluba kabwaanda. Kwakali kunga kuti mpulungwido zyajalulwa, inswi zyakali kusamba, kazinjila mukati mbuli tumeembya mbotunjila mumaanda esu notujalula mpulungwido. Pele biyo ezi nsw zyakali kusaya kuya kubana aba basimbi kuti zikalye kuzwa mumaanza abo akuletwa munsi munsi."
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "Outside the palace was a big garden, with flaming red and deep-blue trees. Their fruit glittered like gold, and their blossoms flamed like fire on their constantly waving stalks. The soil was very fine sand indeed, but as blue as burning brimstone. A strange blue veil lay over everything down there. You would have thought yourself aloft in the air with only the blue sky above and beneath you, rather than down at the bottom of the sea. When there was a dead calm, you could just see the sun, like a scarlet flower with light streaming from its sepals.",
+        "T1": "Anze amunzi wabwami kwakali muunda mupati wakajisi maluba asalala ang`aima amasamu amubala wajulu. Micelo yazyo yakali kumweka mbuli ngolide, amitunga maluba yazyo yakali kuyaka mbuli mulilo amitabi yakali kuunga lyoonse. Ibulongo bwakali bwamuseenga usetede loko, pesi kakuboneka mubala wajulu mbuli mabwe ayaka bbibi lya mulilo. Mubala wajulu unyandya wakali yalidwe atala azyoonse zyakali ansi. Kwakali kunga biya aumwi walimvwa mbuli kuti uli mumulengalenga kubona mbuli julu atla lyako aansi, kunze akuti ulibwene kuba kunsi lyalwizi.eelyo naa kwaumuna zii, kwali kunga wabona zuba, mbuli duba lisalala pyu, amutnga zuba kaulipola mumapanzi amaluba.",
+        "T2": "Anze amunzi wabwami kwakali muunda mupati wakajisi maluba asalala anga aima amasamu amubala wajulu. Micelo yazyo yakali kumweka mbuli ngolide, amitunga maluba yazyo yakali kuyaka mbuli mulilo amitabi yakali kuunga lyoonse. Ibulongo bwakali bwamuseenga usetede loko, pesi kakuboneka mubala wajulu mbuli mabwe ayaka bbibi lya mulilo. Mubala wajulu uyandya wakali yalidwe atala azyoonse zyakali ansi, kwakali kunga biya aumwi walimvwa mbuli kuti uli mumulengalenga kubona mbuli julu atala lyako aansi, kunze akati ulibwene kuba kunsi lyalwizi eelyo na kwaumuna zii, kwali kunga wabona zuba, mbuli duba lisalala pyu, amutunga zuba mumapanzi amaluba."
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "Each little princess had her own small garden plot, where she could dig and plant whatever she liked. One of them made her little flower bed in the shape of a whale, another thought it neater to shape hers like a little mermaid, but the youngest of them made hers as round as the sun, and there she grew only flowers which were as red as the sun itself. She was an unusual child, quiet and wistful, and when her sisters decorated their gardens with all kinds of odd things they had found in sunken ships, she would allow nothing in hers except flowers as red as the sun, and a pretty marble statue. This figure of a handsome boy, carved in pure white marble, had sunk down to the bottom of the sea from some ship that was wrecked. Beside the statue she planted a rose-colored weeping willow tree, which thrived so well that its graceful branches shaded the statue and hung down to the blue sand, where their shadows took on a violet tint, and swayed as the branches swayed. It looked as if the roots and the tips of the branches were kissing each other in play.",
+        "T1": "Akamwi kana kamwami kaajisi kabeela kambewu, nkokaabali kulima akusyanga fumbwa aumwi ncaakali kuyanda. Umwi wakabamba mbewu yakwe kuti kaiboneka mbuli nswi mpati yamulwizi, umwi wakayeeya kubamba mbewu yakwe kuti iboneke mbuli tosi imuniini wabo walo yakwe wakaibamba cikweekwe kaiboneka mbuli zuba, omwe mwaakasyanga biyo malubaaakali kusalala mbuli zuba kuligama. Ooyu mwana wakali andeene, muumuzi uulomene cabuumba,eelyo bacizi bakwe nobakabotya mbewu zyabo azingwandangwanda nzyobakali kubwezelela mumato akabbide ansi alwizi, walo kwiina cimbi ncaakabelesya pele biyo maluba asalala mbuli zuba acibumbwa camabwe aebeka. Icibumbwa camwana musankwa, cakafwalidwe kubwe lituba lyamukuba, lyakanyikilide ansi alwizi kuzwa kubwato bwakafwa kaindi. Mumbali lya lyacibumbwa wakasyanga kalala kabotu mbweena mbuli malubaluba aasalala, aakali kukomena kabotu cakuti akali kuhumbilila cibumbwa akukobakoba atala amuseenga wamubala wajulu, zizimweemwe zyangayo kaziboneka amubala ubaanga ndiluba lya tusepo, kazyunga oku akooku mitabi noyakali kuwaama. Kwakali kuboneka mbuli kuti miyanda ambele zyamitabi zyakali kumyontana.",
+        "T2": "Akamwi kana kamwami kaajisi kabeela kambewu, nkokakali kulima akusyanga fumbwa aumwi ncaakali kuyanda. Umwi wakabamba mbewu yakwe kuti kaiboneka mbuli nswi mpati yamulwizi, umwi wakayeeya kubamba mbewu, yakwe kuti iboneke mbuli tosi. Imumuni wakwe walo wakaubamba cikwekwe kaiboneka mbuli zuba kuligama. Ooyu mwana wakali andeene, muumuzi uulomene cabuumba, eelyo bacizi bakwe nobakabotya mbewu zyabo azingwandangwanda nzyobakali kubwezelela mumato akabbide ansi alwizi, walo kwiina cimbi ncaakabelesya pele biyo maluba aasalala mbuli zuba acibumbwa, camabwe aebeka. Icibumbwa camwana musankwa, cakafwalidwe kubbwe lituba lyamukuba, lyakanyikilide ansi alwizi kuzwa kubwato bwakafwa kaindi. Mumbali lyacibumbwa wakasyanga kalala kabotu mbweena mbuli malubaluba aasalala, aakali kukomena kabotu cakuti akali kuhumbilila cibumbwa akukobakoba atala amuseenga wamubala wajulu, zinzimweemwe zyangayo kaziboneka amubala uubaanga ndiluba lya tuseepo, kazyuunga ooku akooku mitabi noyakali kuwaama. Kwakali kuboneka mbuli kuti miyanda ambele zyakali kumyontana."
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "Nothing gave the youngest princess such pleasure as to hear about the world of human beings up above them. Her old grandmother had to tell her all she knew about ships and cities, and of people and animals. What seemed nicest of all to her was that up on land the flowers were fragrant, for those at the bottom of the sea had no scent. And she thought it was nice that the woods were green, and that the fish you saw among their branches could sing so loud and sweet that it was delightful to hear them. Her grandmother had to call the little birds \"fish,\" or the princess would not have known what she was talking about, for she had never seen a bird.",
+        "T1": "kunyina cimbi cakali kumubotela kunze akumvwa kuti kwakali kwakali nyika kumbi mujulu kwakali kukkala bambi bantu. Banyinakulu bakali kumwaambila twaambo twaandene kujatikizya mato alimwi amadolopo, bantu abanyama. Cakali kuboneka kubota kuli zyoonse nkuti atala lyanyika kwaali maluba anunkila kabotu pesi alya akali ansi lya lwizi taakajisi tunonko pe. Eelyo wakali kuti acalo ncibotu kuti sokwe lyakali lyanyanzabili, mpoona azyalo nswi yakali kwiimba cakoongoolola akati kamitabi yazyo cabunono kuswiilizya. Banyina kumukkomanisya musimbi ooyu bakali kwiita bayuni kuti “ninswi,” nkaambo muzikulu wabo niinga tazibi bacembele ncobaali kwaamba, nkaambo kwiina naakbwene muyuni pe.",
+        "T2": "Kunyina cimbi cakali kumubotela kunze akumvwa kuti kwakali nyika kumbi mujulu kwakali kukkala bantu. Banyinakulu bakali kumwaambila twaambo twaandeene kujatikizya mato alimwi amadolopo, bantu abanyama. Cakali kuboneka Kubota kuli zyoonse nkuti atala lyanyika kwaali maluba aanunkilila kabotu pesi alya akali ansi lya lwizi taakajisi tunonko pe. Eelyo wakali kuti acalo ncibotu kuti sokwe lyakali lyanyanzabili, mpoona azyalo nswi zyakali kwiimba cakoongolola akati kamitabi yazyo cabunono kuswiilizya. Banyinakulu bakali kwiita tuyuni tusyoonto kuti “ninswi,”nkaambo muzikulu wabo niinga tazibi bacembele ncobakali kwaamba, nkaambo kwiina nakabwene kayuni pe."
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "\"When you get to be fifteen,\" her grandmother said, \"you will be allowed to rise up out of the ocean and sit on the rocks in the moonlight, to watch the great ships sailing by. You will see woods and towns, too.\"",
+        "T1": "“waakuba amyaka ili kkumi amusanu,” bakaamba banyinakulu, “ uyoozumizigwa kuzwa ansi lya lwizi akukkala atala lya mabwe amumuni wamwezi, kulangilila mato kaaempauka. Uyoobona masaka amadolopo, aalo.”",
+        "T2": "“Waakuba amyaka ili ikkumi amusanu,” bakaamba banyinakulu, “uyoozumizigwa kuzwa ansi lya lwizi akukkala atala lya mabwe amumuni wamwezi, kulangilila mato kaaembpauka. Uyoobona masaka amadolopo, aalo.”"
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "Next year one of her sisters would be fifteen, but the others - well, since each was a whole year older than the next the youngest still had five long years to wait until she could rise up from the water and see what our world was like. But each sister promised to tell the others about all that she saw, and what she found most marvelous on her first day. Their grandmother had not told them half enough, and there were so many thing that they longed to know about.",
+        "T1": "imwaka uccilila umwi wabacizi bakwe wakali kukwanya myaka iili kkumi amusanu, pele aaba bamwi bakacili kule kulindila nkaambo walo wakali mupati amwaka omwe kuli uccilila pele wakacijisi myaka yosanwe kulindila kuti azwe mumeenda akubona nyika mbiiboneka. Pesi umwi aumwi musimbi wakasyomezya banabokwabo kubalwiida ncayakubona aakuzwa mubuzuba bwakwe bwakusoka. Banyinakulu tibabaali kubaambila toonse twaambo, ee[yo kwakali twaambo balo ntobakacili kuyandisya kuzibisisya.",
+        "T2": "Imwaka uucilila umwi wabacizi bakwe wakali kukkwanya myaka iili kkumi amusanu, pele, aaba bamwi – bakacili kule kulindila nkaambo walo wakali mupati amwaka omwe kuli uccilila pele walo wakajisi myaka yosanwe kulindila kuti azwe mumeenda akubona nyika mbiiboneka. Pesi umwi aumwi musimbi wakasyomezya banabokwabo kubalwiida ncayakubona aakuzwa, ancayakubona kubotesya ibuzuba bwakusaanguna. Banyinakulu tibakali kubaambila toonse twaambo, balo ntobakacili kuyandisya kuzibisisya."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "The most eager of them all was the youngest, the very one who was very quiet and wistful. Many a night she stood by her open window and looked up through the dark blue water where the fish waved their fins and tails. She could just see the moon and stars. To be sure, their light was quite dim, but looked at through the water they seemed much bigger than they appear to us. Whenever a cloud-like shadow swept across them, she knew that it was either a whale swimming overhead, or a ship with many human beings aboard it. Little did they dream that a pretty young mermaid was down below, stretching her white arms up toward the keel of their ship.",
+        "T1": "wakali kuyanda kapati kuziba tunji nguyuuya muniini, uulya muumuzi wakazilaisi kacaali. Masiku manji manji wakali kwiimikila ampulungwido yakwe ijukide akusondela mumaanzi nswi nkozyakali kuyuunya michila yazyo. Wakali kwiile kubona mwezi anyenyezi. Kuti abone kabotu, mumuni wabo wakali dimukide, pesi kuuboneka kabotu naakuti walanga mumeenda kwwinda mbotuubona swebo. Kwaali kunga naa cizimweemwe cainda, inag waali kuziba kuti antela ndiswi lipati lyainda ambele lyakwe, nokuba bwato bunyamwide bantu. Tiibaali kuyeeyela akuti inga kwaba tosi lyana lyakali ansi lyabo, kalinyamuna maanza alyo kutanda lya bwato bwabo",
+        "T2": "Wakali kuyandisisya kapati kuziba tunji nguyuuya muniini, uulya muumuzi wakazilaisi kacaali. Masiku manji manji wakali kwiimikila ampulungwido yakwe ijukide akusondela mumaanzi nswi nkozyakali kunyuunya micila yazyo. Wakalii kwiile kubona mwezi anyenyeezi. Kuti abone kabotu, mumuni wabo wakali dimukide, pesi kuuboneka kabotu naakuti walanga mumeenda kwiinda mbotubona swebo. Kwaali kuba naa cinzimweemwe cainda, inga waali kuziba kuti antela ninswi iipati yainda ambele lyakwe, nokuba bwato bunyamwide bantu. Tiibaali kuyeeya akuti inga kwaba tosi liana lyakali ansi lyabo, kali nyamuna maanza alyo, kutanda lya bwato bwabo."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "The eldest princess had her fifteenth birthday, so now she received permission to rise up out of the water. When she got back she had a hundred things to tell her sisters about, but the most marvelous thing of all, she said, was to lie on a sand bar in the moonlight, when the sea was calm, and to gaze at the large city on the shore, where the lights twinkled like hundreds of stars; to listen to music; to hear the chatter and clamor of carriages and people; to see so many church towers and spires; and to hear the ringing bells. Because she could not enter the city, that was just what she most dearly longed to do.",
+        "T1": "mupati aali boonse aawa wakakkwanya myaka ili kkumi ayosanwe, nkabela wakazumizigwa kuzwa anze lya meenda. Naakajoka wakalijisi myaanda myaanda yazyakuluula kubacizi bakwe, pele kuli zyoonse cakamukonda kapati, wakati, nkoona amuseenga mumumuni wamwezi, eelyo lwizi nolwakali kuumuna zii, akweebela bubotu bwadolopo lyakayakidwe munkomwe lya lwizi, ooko malaiti nkwaakali kumweka mbuli nyenyezi; kaswiilizya nyimbo; kumvwa coongo ca nkalki alimwi abantu; akubona zikombelo ansonje zyamayake; amilangu kailila. Nkaambo biyo kakuti taakali kukonzya kunjila mukati lya dolopo, eeci ncicaali ciyandisi kuli nguwe lyoonse.",
+        "T2": "Mupati ali boonse aaba wakakkwanya myaka ili kkumi ayosanwe, nkabela wakazumizigwa kuzwa anze lya meenda. Naakajoka wakalijisi myaanda myaanda yazyakuluula kubacizi bakwe, pele kuli zyoonse cakamukonda kapati, wakati, nkoona amuseenga mumumuni wamwezi, eelyo lwizi nolwakali kuumuna zii, akweebela bubotu bwa dolopo lyakayakidwe munkomwe lya lwizi, ooko mumuni nkowakali kumweka mbuli nyenyeezi, kaswiilizya nyimbo, kumvwa coongo ca nkalaki alimwi abantu, akubona zikombelo ansonje zyamayake; akuswiilizya milangu kailila. Nkaambo biyo kakuti taakali kukonzya kunjila mukati lya dolopo, eeci ncicaali ciyandisi kuli nguwe lyoonse."
+      }
+    },
+    {
+      "verse": 11,
+      "text": {
+        "S1": "Oh, how intently the youngest sister listened. After this, whenever she stood at her open window at night and looked up through the dark blue waters, she thought of that great city with all of its clatter and clamor, and even fancied that in these depths she could hear the church bells ring.",
+        "T1": "maawe, walo muniini mbwaakapuoulala kuswiilizya. Nokwaamana waawa, lyoonse naakali kwiima ampulungwido yakwe masiku akusondola mumaanzi amubala wajulu usiyasiya, wakali kuyeeya dolopo eelyo lipati iljisi tucitika tunji tunji, akuyandisisya kuti mukati mwini inga wamvwa kulila kwamilangu.",
+        "T2": "Maawe, walo muniini mbwakali kuswilizya. Nokwaamana waawa, lyoonse naakali kwiima ampulungwido yakwe masiku akusondela mumaanzi amubala wajulu uusiyasiya, wakali kuyeeya dolopo eelyo lipati ilijisi tucitika tunji, akuyandisisya kuti mukati mwini inga wamvwa kulila kwamilangu."
+      }
+    },
+    {
+      "verse": 12,
+      "text": {
+        "S1": "The next year, her second sister had permission to rise up to the surface and swim wherever she pleased. She came up just at sunset, and she said that this spectacle was the most marvelous sight she had ever seen. The heavens had a golden glow, and as for the clouds - she could not find words to describe their beauty. Splashed with red and tinted with violet, they sailed over her head. But much faster than the sailing clouds were wild swans in a flock. Like a long white veil trailing above the sea, they flew toward the setting sun. She too swam toward it, but down it went, and all the rose-colored glow faded from the sea and sky.",
+        "T1": "mwaka wakatobela, musimbi wabili awlo wakazumizigwa kuzwa kuya anze akuyoosaya kufumbwa nkwaakali kuyanda. Wakajokela bbiyo zciindi zuba nilyakabbila, akuluula kuti aalya malengwa akali mabotu kapati ngaatakanabwene pe. Ijulu lyakajisi kumweka kwangolide, pesi alo makumbi taakwe naakaba ambwaakali kukonzya kwaaluula bubotu bwangayo. Akalambidwe mibala isalala amilambo imbi mibotu, yakali kweenda atala amutwe wakwe. Pele bayuni bamusokwe bakali kwiibauka kwiinda makumbi mukabunga. Mbuli cilembo cilamfu atala lya lwizi, bakali kuuluka kabaya kubbilila zuba. Awalo wakali kuyakuya kuli ndilyo, pesi lyakamusiya ndeelyo lyalondelela, mpoona bubotu buboneka mbuli maluba bwakazaya kulwizi amujulu.",
+        "T2": "Mwaka wakatobela, musimbi wabili awalo wakazumizigwa kuzwa kuya anze akuyoosaya kufumbwa nkwakali kuyanda. Wakajokela biyo ciindi zuba nilyakabbila, akuluula kuti aalya malengwaakali mabotu kapati ngaatakanabwene pe. Ijulu lyakalijisi kumwekw kwa ngolide, pesi alo makumbi taakwe naakaba ambwaakali kukonzya kwaaluula bubotu bwangayo. Akalambidwe mibala iisalala amilembo imbi mibotu, yakali kweenda atala amutwe wakwe. Pele bayuni bamusokwe bakali kwiibauka kwiinda mumakumbi mukabunga. Mbuli cilembo cilamfu atalalya lwizi, bakali kuuluka kabaya kubbilila zuba. Awalo wakali kuyabuya kuli ndilyo, pesi lyakamusiya ndeelyo lyalondelela, mpoona bubotu buboneka mbuli maluba bwakazaya kulwizi amujulu."
+      }
+    },
+    {
+      "verse": 13,
+      "text": {
+        "S1": "The following year, her third sister ascended, and as she was the boldest of them all she swam up a broad river that flowed into the ocean. She saw gloriously green, vinecolored hills. Palaces and manor houses could be glimpsed through the splendid woods. She heard all the birds sing, and the sun shone so brightly that often she had to dive under the water to cool her burning face. In a small cove she found a whole school of mortal children, paddling about in the water quite naked. She wanted to play with them, but they took fright and ran away. Then along came a little black animal - it was a dog, but she had never seen a dog before. It barked at her so ferociously that she took fright herself, and fled to the open sea. But never could she forget the splendid woods, the green hills, and the nice children who could swim in the water although they didn't wear fish tails.",
+        "T1": "Mwaka wakatobela, mucizi wakwe watatu wakatanta, alimwi wakajisi ntanze kwiinda boonse wakasaya kakosola mulonga mupati wakali kukunkila mulwizi. Wakabona bubotu bwakali amubala wanyanzabili, amalundu akazwide masamu. Maanda abamami amaanda amumpulasi akali kulibonya mukati lyamasamu alibonya kabotu. Wakabamvwa bayuni kabaimba, eelyo zuba lyakali kumweka kapati cakati limwi wakalifusa mumeenda kuti atontozye busyu bwakwe bwakali kumvwa kupya. Mukabeela kamwi wakajanacikolo cabana bantu susu, bakali kukwasula mumeenda amantanda. Wakali kuyanda kusobana ambabo, pele balo bakayoowa akutija. Mpoona kwakaboola kanyama kasiya – kakali kabwa, pele walo kwiina naakabwene mubwa kuzwa lili. Kakamukuwa cabukali cakuti wakalubikka lubilo kutija, akunjila mulwizi. Pesi kunyina naakabuluba bubotu bwa masamu , malundu anyanzabili, abana babotu bakali kukonzya kusamba mumeenda nokuba kuti tiibakajisi micila mbuli yanswi.",
+        "T2": "Mwaka wakatobela, mucizi wakwe watatu wakatanta, alimwi wakajisi ntanze kwiinda boonse wakasaya kakosola mulonga mupati wakali kukunkila mulwizi. Wakabona bubotu bwakla amubala wanyanzabili, amalundu aakazwide masamu. Maanda abamami amaanda amupulasi akali kulibonya mukati lyamasamu alibonya kabotu. Wakabamvwa bayuni kabaimba, eelyo zuba lyakali kumweka kapati cakuti limwi wakalifusa mumeenda kuti atontozye busyu bwakwe bwakali kumvwa kupya. Mukabeela kamwi wakajana cikolo cabana bantu susu, bakali kukwasula mumeenda amantanda. Wakalikuyanda kusobana ambabo, pele balo bakayoowa akutija. Mpoona kwakaboola kanyama kasiya – kakali kabwa, pele walo kwiina naakabwene mubwa kuzwa lili. Kakamukuwa cabukali cakuti wakalubikka lubilo kutija, akunjila mulwizi. Pesi kunyina naakabuluba bubotu bwa masamu, malundu anyanzabili, abana babotu bakali kukonzya kusamba mumeenda nokuba kuti tiibakajisi micila yanswi."
+      }
+    },
+    {
+      "verse": 14,
+      "text": {
+        "S1": "The fourth sister was not so venturesome. She stayed far out among the rough waves, which she said was a marvelous place. You could see all around you for miles and miles, and the heavens up above you were like a vast dome of glass. She had seen ships, but they were so far away that they looked like sea gulls. Playful dolphins had turned somersaults, and monstrous whales had spouted water through their nostrils so that it looked as if hundreds of fountains were playing all around them.",
+        "T1": "Mucizi wabo wane walo taakajisi buyandisi bwazyanyika. Wakakkala kule ooko kwakali mayuwe mabi, walo ngaakati akali kuboneka kabotu kapati. Wakali kukonzya kubona zyoonse zyakazingulukide koli kule kule, alyalo julu atala lyako kaliboneka mbuli cilulli camagilazi. Wakali kwaabona mato, pesi akali kule cakauti akali kuboneka mbuli bayuni bamumeenda. Banyama bamumeenda bakali kwaalauka kabasobana, kababulula amwi kwinda mumpemo zyabo kakuboneka mbuli kuti ntusensa twameenda kabasobana koonse koonse.",
+        "T2": "Mucizi wabo wane walo taakajisi buyandisi bwazyanyika. Wakakkala kule ooko kwakali mayuwe mabi, walo ngaakati akali kuboneka kabotu kapati. Wakali kukonzya kubona zyoonse zyakazingulukide koli kule kule, alyalo julu atala lyako kaliboneka mbuli ciluli camagilazi.wakali kwaabona mato, pesi akali kule cakuti akali kuboneka mbuli bayuni bamumeenda. Banyama bamumeenda bakali kwaalauka kabasobana, kababulula amwi kwiinda mumpemozyabo kakuboneka mbuli kuti ntusensa twameenda kabasobana koonse koonse."
+      }
+    },
+    {
+      "verse": 15,
+      "text": {
+        "S1": "Now the fifth sister had her turn. Her birthday came in the wintertime, so she saw things that none of the others had seen. The sea was a deep green color, and enormous icebergs drifted about. Each one glistened like a pearl, she said, but they were more lofty than any church steeple built by man. They assumed the most fantastic shapes, and sparkled like diamonds. She had seated herself on the largest one, and all the ships that came sailing by sped away as soon as the frightened sailors saw her there with her hair blowing in the wind.",
+        "T1": "Ono awalo mucizi wabo wasanu cakasika ciindi cakwe. Buzuba bwakwe bwakuzyalwa bwakasika ciiindi camupeyo, eelyo wakabona zimwi zintu bamwi nzyobatakabona. Lwizi lwakali kulibonya lwa nyanzabili isiya-siya, eelyo caanda cakali kuya kweenda. Cimwi acimwi cakali kumweka mbuli nkwinta, wakaamba, pesi yakali mbotu kwiinda mulangu wakucikombelo cakabambwa amuntu. Akali jisi malengwa mabotu, kazimweka mbuli lubulo lwa daimani. Wakakkala alipati , mpoona mato oonse akaboola akainda kaabindide abbililila kabayooweede bakwakusuzi akaambo kamasusu akwe akali kupepela amuwo",
+        "T2": "Ono awalo mucizi wabo wasanu cakasika ciindi cakwe.buzuba bwakwe bwakuzyalwa bwakasika ciindi camupeyo, eelyo wakabona zimwi zintu bamwi nzyobatakabona. Lwizi lwakali kulibonya lwa nyanzabili iisiya-siya, eelyo caanda cakali kuyaa kweenda. Cimwi acimwi cakali kumweka mbuli nkwinta, wakaamba, pesi yakali mbotu kwiinda mulangu wakucikombelo cakabambwa amuntu. Akali jisi malengwa mabotu, kazimweka mbuli lubulo lwa daimani. Wakakkala alipati, mpoona mato oonse akaboola akainda kaabindidde abbililila kabayoowede bakwakusuzu akaambo kamasusu aakwe akali kupepela amuwo"
+      }
+    },
+    {
+      "verse": 16,
+      "text": {
+        "S1": "In the late evening clouds filled the sky. Thunder cracked and lightning darted across the heavens. Black waves lifted those great bergs of ice on high, where they flashed when the lightning struck.",
+        "T1": "kumangolezya makumbi akajala julu lyoonse. Kuzuma kwakatalika andabo zyakapasuka mujulu. Mayuwe akanyamuna caanda kutola mujulu, nkocakali kumweka yalaba ndabo.",
+        "T2": "Kumangolezya makumbi akajala julu lyoonse. Kuzuma kwakatalika andabo zyakapasuka mujulu. Mayuwe akanyamuna caanda kutola mujulu, nkocakali kumweka yalaba ndabo."
+      }
+    },
+    {
+      "verse": 17,
+      "text": {
+        "S1": "On all the ships the sails were reefed and there was fear and trembling. But quietly she sat there, upon her drifting iceberg, and watched the blue forked lightning strike the sea.",
+        "T1": "Amato oonse mayuwe akaya mujulu eelyo kwakaba kuyoowa akuzyangama. Pele wakkala atala amabwe acaanda, akulangilila ndabo kazyaanda lwizi.",
+        "T2": "Amato oonse mayuwe akaya mujulu mpoona kwakaba kuyoowa akuzyingimana. Pele wakakkala atala amabwe acaanda, akulangilila ndabo kazyaanda lwizi."
+      }
+    },
+    {
+      "verse": 18,
+      "text": {
+        "S1": "Each of the sisters took delight in the lovely new sights when she first rose up to the surface of the sea. But when they became grown-up girls, who were allowed to go wherever they liked, they became indifferent to it. They would become homesick, and in a month they said that there was no place like the bottom of the sea, where they felt so completely at home.",
+        "T1": "Aumwi wabasismbi aaba wakacikkomanina cimwi acoonse cintu cipya ncaakabona ccindi aumwi naakazwa mulwizi kuya atala. Pesi boonse aumwi naakakomena, fumbwa nobakazumizigwa kuunka fumbwa nkwayanda, tiibakali kubilila mbuli kaindi. Baali kuyeeya kwabo, eelyo mumwezibiyo bakali kuyeeya kwabo munsi alwizi, kwalo nkabakali kuyandisya akulimvwa kutasweeka.",
+        "T2": "Aumwi wabasimbi aaba wakacikkomanina cimwi acoonse cintu cipya ncaakabona ciindi aumwi naakazw mulwizi kuya atala. Pesi boonse aumwi naakakomena, fumbwa nobakazumizigwa kuunka fumbwa nkwayanda, tiibakali kubilila mbuli kaindi. Baali kuyeeya kwabo, eelyo mumwezi biyo bakali kuyeeya kwabo munsi awizi, kwalo nkobakali kuyandisya akulimvwa kutasweeka."
+      }
+    },
+    {
+      "verse": 19,
+      "text": {
+        "S1": "On many an evening the older sisters would rise to the surface, arm in arm, all five in a row. They had beautiful voices, more charming than those of any mortal beings. When a storm was brewing, and they anticipated a shipwreck, they would swim before the ship and sing most seductively of how beautiful it was at the bottom of the ocean, trying to overcome the prejudice that the sailors had against coming down to them. But people could not understand their song, and mistook it for the voice of the storm. Nor was it for them to see the glories of the deep. When their ship went down they were drowned, and it was as dead men that they reached the sea king's palace.",
+        "T1": "Mangolezya lyoonse bamasimbi bapati bakali kuzwa kunsi ameenda akuzya atala, kabajisini kumaanza, boonse bosanwe bakali jisi majwi mabotu, kwiita aababaya bantususu. Ciindi guwo nilyaali kulyaalizya, nobaali kuyeeya kuti inga lyaboola kumwaya bwato, bakali kuunka kabasya munsi aabo akwiimba cabunono kulumba mbuli mbocakali cibotu kukkala ansilya lwizi, kusola kukoma basimato mbobaali kudyakaizya bukkale bwaansi alwizi. Nokuba boobo bantu kwiina nibakali kucimvwa ncibakali kwaamba munyimbo zyabo, bakali kumvwa biyo mbuli kuti ncoongo ncalwizi",
+        "T2": "Mangolezya lyoonse bamasimbi bapati bakali kuzwa kunsi aameenda akuzwa atala, kabajisini kumaanza, boonse bosanwe bakalijisi majwi mabotu, kwiinda ababaya bantususu. Ciindi muwo niwaali kulyaalizya, nobaali kuyeeya kuti inga waboola kumwaya bwato, bakali kuunka akusiya bwato munsi akwiimba cabunono kulumba mbuli mbocakali cibotu kukkala aansi lya lwizi, kusola kukkomana basimato mbobaali kudyakaizya bukkale bwaansi lya lwizi. Nokuba boobo ibantu kunyina nibakali kucimvwa ncibakali kwaamba munyimbo zyabo, bakali kumvwa biyo mbuli kuti ncoongo calwizi. Ibwato bwabo nobwakanjila aansi boonse bakaloba, mpoona cakali kuti ibalombwana bafwide bakasika kung’anda ya bwami."
+      }
+    },
+    {
+      "verse": 20,
+      "text": {
+        "S1": "On the evenings when the mermaids rose through the water like this, arm in arm, their youngest sister stayed behind all alone, looking after them and wanting to weep. But a mermaid has no tears, and therefore she suffers so much more. Oh, how I do wish I were fifteen!\" she said. \"I know I shall love that world up there and all the people who live in it.\" And at last she too came to be fifteen.",
+        "T1": "Ciindi camangolezya lyoonse aaya matosi naaakazwide anze lya meenda, kabajisini mumaanza, sikeela wabo walo taakali kubatobela, wakali kwiile kubalanga akuyanda kulila. Pesi tosi talijisi misozi, eeco cipa kuti kapenga kapati. “Maawe biyo, mbwelombozya kuti nindajisi myaka ili kkumi ayosanwe ambeyo!” wakaamba. “Ndilizi kuti inga ndaiyanda nyika iilya abantu boonse bakkala mulinjiyo.” kumamanino awalo wakakkwanya myaka kkumi ayosanwe.",
+        "T2": "Ciindi camangolezya lyoonse aaya matosi akalikuzwida aanze lya meenda, kaajisini mumaanza, sikeela wabo walo taakali kubatobela, wakali kwiile kubalanga akuyanda kulila. Pesi tosi talijisi misozi, eeco cipa kuti kalipenga kapati. “Maawe biyo, mbwelombozya kuti nindajisi mwyaaka ili kkumi ayosanwe."
+      }
+    },
+    {
+      "verse": 21,
+      "text": {
+        "S1": "\"Now I'll have you off my hands,\" said her grandmother, the old queen dowager. \"Come, let me adorn you like your sisters.\" In the little maid's hair she put a wreath of white lilies, each petal of which was formed from half of a pearl. And the old queen let eight big oysters fasten themselves to the princess's tail, as a sign of her high rank.",
+        "T1": "“Lino ndilakugusya mumaanza angu,” bakaamba banyinakulu, mucembele mukamufu. ”Boola, leka ndikubambe-bambe mbuli banabokwanu.” mumasusu aakwe bakamubikka maluba ampana atuba, kapandu akamwi kakazwa kukabeela kankwinta. Aboobo mucembele mukamwami wakabikka mpande akulamatika kumucila wamwana musimbi, kutegwa kalibonya ntempe zyaajulu.",
+        "T2": "“ Lino ndilakugusya mumaanza aangu,” bakaamba banyinakulu, mucembele mukamufu. “Boola, leka ndikubambe-bambe mbuli bana bokwenu.” Mumasusu aakwe bakamubika maluba aatuba, kapandu akamwi kakazwa kukabeela kakankwita. Aboobo mucembele muka mwami wakabika mpande akulamatika kumucila wamwana musimbi, kutegwakalibonya ntempe zyaajulu."
+      }
+    },
+    {
+      "verse": 22,
+      "text": {
+        "S1": "\"But that hurts!\" said the little mermaid. \"You must put up with a good deal to keep up appearances,\" her grandmother told her.",
+        "T1": "“Ede eeco cilacisa!” kakaamba katosi kaniini. “ welede kucita cintu cibotu kutegwa kolibonya kabotu.” bakamwaambila banyinakulu.",
+        "T2": "“Ede eeco cilacisa!” Kakaamba katosi kaniini. “Weelede kucita cintu cibotu kutegwa kolibonya kabotu.” Bakamwaambila banyinakulu."
+      }
+    },
+    {
+      "verse": 23,
+      "text": {
+        "S1": "Oh, how gladly she would have shaken off all these decorations, and laid aside the cumbersome wreath! The red flowers in her garden were much more becoming to her, but she didn't dare to make any changes. \"Good-bye,\" she said, and up she went through the water, as light and as sparkling as a bubble. The sun had just gone down when her head rose above the surface, but the clouds still shone like gold and roses, and in the delicately tinted sky sparkled the clear gleam of the evening star. The air was mild and fresh and the sea unruffled. A great three-master lay in view with only one of all its sails set, for there was not even the whisper of a breeze, and the sailors idled about in the rigging and on the yards. There was music and singing on the ship, and as night came on they lighted hundreds of such brightly colored lanterns that one might have thought the flags of all nations were swinging in the air.",
+        "T1": "Maawe, alimwi nicakamukkomanisya kuzigusya eeziya zyakoobelede ali nguwe cakubota nzibakamulamatika amubili, akucibikka ambali ciluba ncobakamupa. Malubaluba amumbewu yakwe aasalala kuli nguwe ngaakali mabotu, pesi kwiina naakasola kucinca cili coonse. “Amucaale cibotu,” wakaamba, ngooyo wakainka atala lya meendambuli mumuni kaya bumweka mbuli cibbolo. Ciindi naakayuunya mutwe wakwe kuzwa mumeenda alyalo zuba nolyakali kubbila, pesi makumbi akacili kumweka mbuli ngolide amaluba, mpoona julu lyakali kulibonya cabulemuakuzwisya nyenyezi kazilibonya kunonezya. Aanze kwakali kulimvwa kabotu alwizi lukkalikide. Bwato bupati bwakali kulibonya mbuli waalya abakwasuzi, kakunyina acakali kubamba coongo, kabeendeenda ooku akooku mukati aanze. Kwakali nyimbo akwiimba mukati lyabwato,nokwakasiya mbaabo bakayasya myaanda myaanda yamalambe akajisi misyobo yandeene cakuti inga muntu wayeeya kuti antela nindembela zyamasi asiyenesiye kazyuunga mumuuwo.",
+        "T2": "Maawe, alimwi nicakamukkomanisya kuziguzya eeziya zyakoobelede ali nguwe cakabota nzibakamulamatika amubili, akucibikka ambali ciluba ncobakamupa. Malubaluba amumbewu yakwe aasalala kuli nguwe ngaakali mabotu, pesi kwiina naakasola kucinca cili coonse. “Amucaale cibotu,” wakaamba, ngooyo wakainka atala lya meenda mbuli mumuni kayaa bumweka mbuli cibbolo. Ciindi naakayuunya mutwe wakwe wakwe kuzwa mumeenda alyalo zuba nolyakali kubbila, pesi makumbi akacili kumweka mbuli ngolide amaluba, mpoona julu lyakali kulibonya cabulemu akuzwisya nyenyezi kazilibonya kunoneezya. Aanze kwakali kulimvwa Kubota alwizi lukkalikide. Ibwato bupati bwakalikulibonya mbuli waalya abakwasuzi, kakunyina acakali kusabila, kabeendeenda ooku akooku mukati alimwi aanze. Kwakali nyimbo akwiimba mukati lyabwato nokwakasiya mbaabo bakayasya myaanda myaanda yamalambe aakajisi misyobo yaandeene cakuti inga muntu wayeeya kuti antela nindembela zyamasi aasiyenesiyene kuzyuunga mumuwo."
+      }
+    },
+    {
+      "verse": 24,
+      "text": {
+        "S1": "The little mermaid swam right up to the window of the main cabin, and each time she rose with the swell she could peep in through the clear glass panes at the crowd of brilliantly dressed people within. The handsomest of them all was a young Prince with big dark eyes. He could not be more than sixteen years old. It was his birthday and that was the reason for all the celebration. Up on deck the sailors were dancing, and when the Prince appeared among them a hundred or more rockets flew through the air, making it as bright as day. These startled the little mermaid so badly that she ducked under the water. But she soon peeped up again, and then it seemed as if all the stars in the sky were falling around her. Never had she seen such fireworks. Great suns spun around, splendid fire-fish floated through the blue air, and all these things were mirrored in the crystal clear sea. It was so brilliantly bright that you could see every little rope of the ship, and the people could be seen distinctly. Oh, how handsome the young Prince was! He laughed, and he smiled and shook people by the hand, while the music rang out in the perfect evening.",
+        "T1": "Akaya katosi kaniini kakasamba kuya kumpulungwido yanganda mpati, eelyo lyoonse kakali kunga kanuka atala ameenda kaali kubona zyoonse zyaali kucika muya kwwinda mumagilazi akali kubalangala abantu bakasamide kabotu. Musankwa wakali kulibonya kabotu wakali mwana wamwami wakajisi meso mapati asiya. Wakajisi myaka itaindilili kuli ili kkumi acisambomwi. Bwakali buzuba bwakwe bwakuzyalwa eelyo ncicakali kusekelelwa awa. Acibeela caatala catala cabwato basikweenda amato bakali kuzyana, eelyo mwana wamwami naakabbuka mwaanda naanka kwiinda waawo watundeke twakauluka mujulu, cakapa kuti kutube mbuli kuti ndisikati. Eeci cakakayoosya kaya katosi kaniini cakuti kakajokela kabbila mumeenda. Pesi kaindi biyo kasyoonto wakanuka kuzwa mumeenda, kakuboneka mbuli kuti nyenyezi zyoonse zyakali kuloka kuzwa mujulu kazimuzinguluka. Kwwina naakabwene nguunguni zyamililo zili boobu. Milaka yazuba yakazinguluka, inswi zipati zyakali kweempa",
+        "T2": "Akaya katosi kaniini kakasambakuya kumpulungwido yang’anda mpati, eelyo lyoonse kakali kunga kanuka atala ameenda kakali kubona zyoonse zyakali kucita muya kwiinda mumagilazi aakali kubalangala abantu bakasamide kabotu. Musankwa wakali kulibonya kabotu wakali mwana wamwami wakajisi meso mapati aasiya. Wakajisi myaka iitaindilili kuli ili kkumi acisambomwe. Bwakali buzuba bwakwe bwakuzyalwa, eelyo mwana wamwami naakabbuka mwaanda naaka kwiinda waawo watundeke twakauluka mujulu, cakapa kuti kutube mbuli sikati. Eeci cakakayoosya kaya katosi kaniini cakutikakajokela kabbila mumeenda. Pesi kaindi biyo kasyoonto wakanuka kuzwa mumeenda, kakuboneka mbuli kuti nyenyezi zyonse zyakali kuloka kuzwa mujulu kazimuzinguluka. Kwiina naakabwene ngunguuni zyamililo zili boobu. Milaka yazuba yakazinguluka, inswi zipati zyakali kweempa."
+      }
+    },
+    {
+      "verse": 25,
+      "text": {
+        "S1": "It got very late, but the little mermaid could not take her eyes off the ship and the handsome Prince. The brightly colored lanterns were put out, no more rockets flew through the air, and no more cannon boomed. But there was a mutter and rumble deep down in the sea, and the swell kept bouncing her up so high that she could look into the cabin.",
+        "T1": "Kwakasiya kapati pesi katosi kasyoonto aaka teekakaleka kulanga bwato amwana wamwami musankwa mubotu. Malampe oonse aakali kuyaka akazimwa,kwiina tundeke twakacili kuuluka mujulu, nokuba mutwe wandeke wakacili kulibonya. Pesi kwakali minzunzumo mipati kuzwa kunsi aamaanzi, mayuwe akazumanana kumutonta mujulu kuti alange mukabbokesi.",
+        "T2": "kwakasiya kapati pesi katosi kasyoonto aaka teekakaleka kulanga bwato amwana wamwami musankwa mubotu. Malambe oonse aakali kuyaka akazimwa, kwiina tundeke twakacili kuuluka mujulu, nokuba mutwe wandeke wakacili kulibonya. Pesi kwakali minzunzumo mipati kuzwa kunsi aamaanzi, mayuwe akazumanana kumutonta mujulu kuti alange mukabbokesi."
+      }
+    },
+    {
+      "verse": 26,
+      "text": {
+        "S1": "Now the ship began to sail. Canvas after canvas was spread in the wind, the waves rose high, great clouds gathered, and lightning flashed in the distance. Ah, they were in for a terrible storm, and the mariners made haste to reef the sails. The tall ship pitched and rolled as it sped through the angry sea. The waves rose up like towering black mountains, as if they would break over the masthead, but the swan-like ship plunged into the valleys between such waves, and emerged to ride their lofty heights. To the little mermaid this seemed good sport, but to the sailors it was nothing of the sort. The ship creaked and labored, thick timbers gave way under the heavy blows, waves broke over the ship, the mainmast snapped in two like a reed, the ship listed over on its side, and water burst into the hold.",
+        "T1": "Lino bwato bwakatalika kweenda. Mayuwe akanyamu, makumbi akalibunga kujulu, ikalabo kakamweka kulaale. Ma! Bakali mumapenzi aamuwo uuyoosya,mpoona banamutekenya ba bwato bakayeeya kuti baimikile. Bwato bulamfu bwakabbuka akuzuza mulwizi lwakanyemede. Mayuwe akanyamuka mbuli kuti malundu,mbuli kuti inga apanduka, pesi bwato bwakainda akati kamayuwe aaya.Kukatosi kasyoonto eeci cakali kulibonya kuba cisobano cibotu, pesi kuli bamutekenya babwato teecakali boobo.Bwato bwakazungaana, mapulanga aakali mayumu akapanduka akaambo kaguwo pati, mayuwe akanjila mubwato, cibeela cipati cakakwamuka mbuli ntumbu, bwato bwakapindamuka aboobo meenda akanjila.",
+        "T2": "Lino ibwato bwakatalika kweenda. Mayuwe akanyamuka, makumbi akalibunga kujulu, ikalabo kakamweka kulaale ma! Bakali mumapenzi aamuwo uuyoosya, mpoona banamutekenya ba bwato bakayeeya kuti baimikile. Bwato bulamfu bwakabbuka akuzuza mulwilizi lwakanyemede. Mayuwe akanyamuka mbuli kuti malundu, mbuli kuti inga apanduka, pesi bwato bwakainda akati kamayuwe aaya. Kukatosi kasyoonto eeci cakali kulibonya kuba cisobano cibotu, pesi kuli bamutekenya babwato teecakali boobo. Bwato bwakzungaana, mapulanga aakali mayuwe akapanduka akaambo kaguwo mpati, mayuwe akanjila mubwato, cibeela cipati cakakwamuka mbuli ntumbu, bwato bwakapindamuka aboobo meenda akanjila."
+      }
+    },
+    {
+      "verse": 27,
+      "text": {
+        "S1": "Now the little mermaid saw that people were in peril, and that she herself must take care to avoid the beams and wreckage tossed about by the sea. One moment it would be black as pitch, and she couldn't see a thing. Next moment the lightning would flash so brightly that she could distinguish every soul on board. Everyone was looking out for himself as best he could. She watched closely for the young Prince, and when the ship split in two she saw him sink down in the sea. At first she was overjoyed that he would be with her, but then she recalled that human people could not live under the water, and he could only visit her father's palace as a dead man. No, he should not die! So she swam in among all the floating planks and beams, completely forgetting that they might crush her. She dived through the waves and rode their crests, until at length she reached the young Prince, who was no longer able to swim in that raging sea. His arms and legs were exhausted, his beautiful eyes were closing, and he would have died if the little mermaid had not come to help him. She held his head above water, and let the waves take them wherever the waves went.",
+        "T1": "Lino aawa katosi kakabona kuti bantu bakali muntenda akuti kayelede kulikwabilila kutegwa katatolwi alwizi. Mukaindi kasyoonto kwakasiya aboobo kwiina ancokakacili kubona. Ciindi citobela kalabo kakamweka kapati cakuti wakalikukonzya kubaziba bantu bakali mubwato. .Umwi aumwi wakali kulilanganya lwakwe. Kakalangisisya mwana wamwami musankwa ,aboobo bwato nibwakaanduka kakamubona kainyikila mumeenda. Kusaanguna kakakkomana kuti balaba limwi, pesi kakayeeya kuti bantu tabakonzyi kupona kunsi lya meenda alimwi inga kaya kuswaya wisi kung`anda yabwami kafwide. Pe tayelede kufwa, kakayamba mumeenda kuluba amapulanga kuti inga akayasa. Kakaliwaala mumayuwe akuyamba kusikila kakamujata mwana wamwami watakacili kukonzya kuyamba mu lwizi oomu. Maanza aakwe amaulu akali katede, meso aakwe mabotu akatalika kuvumba, nikatakasika katosi aaka kumugwasya naakafwa. Kakamunyamuna mutwe atala lyamaanzi akuleka mayuwe kuti abatole kufumbwa nkwaaya.",
+        "T2": "Lino katosi kasyoonto kakabona kuti bantu bakali muntnda akuti kaelede kulikwabilila kutegwa katatolwi aalwizi. Mukaindi kasyoonto kwakasiya aboobo kwiina ancokakacili kubona. Ciindi citobela kalabo kakamweka kapati cakuti wakalikukonzya kubaziba bantu bakali mubwato. Umwi aumwi wakali kulilanganya lwakwe. Kakalangisisya mwana musankwa wamwami aboobo bwato nibwakaanduka kakamubona kanyikila mumeenda. Kusaanguna kakakkomana kuti balaba limwi, pesi kakayeeya kuti bantu tabakonzyi kupona kunsi lya meenda alimwi inga alimwi inga kaya kuswaya wisi kun’ganda yabwami kafwide. Peepe, taelede kufwa, kakayamba mumeenda kuluba amapulanga kuti inga akayasa. Kakaliwaala mumayuweakuyamba kusikila kakamujata mwana wamwami watakacili kukonzya kukonzya kuyamba mulwizi oomu. Maanza aakwe amaulu akali katede, meso aakwe mabotu akatalika kuvumba, nikatakasika katosi kuzomugwasya naakafwa, kakamunyamuna mutwe atala lyameenda akuleka mayuwe kuti abatole kufumbwa nkwaaya."
+      }
+    },
+    {
+      "verse": 28,
+      "text": {
+        "S1": "At daybreak, when the storm was over, not a trace of the ship was in view. The sun rose out of the waters, red and bright, and its beams seemed to bring the glow of life back to the cheeks of the Prince, but his eyes remained closed. The mermaid kissed his high and shapely forehead. As she stroked his wet hair, it seemed to her that he looked like that marble statue in her little garden. She kissed him again and hoped that he would live.",
+        "T1": "Kumangolezya muuwo niwakaumuna, kwiina akabeela ka bwato kakacili kulibonya. Zuba lyakazwa mumeenda, lyakabala alimwi lyakaboneka kuti inga lyajosya buumi kumwana wamwami,pesi meso aakwe akacili vumbide. Katosi kakamumyonta aankumo yakwe ndamfu. Mbuli mbukakali kulikusa masusu aankako matete, kuli nkako kakabona kuti wakalikuboneka mbuli cibumbwa cakali mukaunda kako kasyoonto. Kakamumyonta alimwi kakalaalushomo kuti inga wabuka.",
+        "T2": "Kubucedo, muwo niwakamana, kwiina akabeela kabwato kakacili kulibonya pee. Izuba lyakazwa mumeenda, lyakabala alimwi lyakaboneka kuti inga lyajosya buumi kumwana wamwami pesi meso aakwe akacili jalidwe. Katosi kakamumyonta aankumo yakwe ndamfu. Mbuli mbukakalikusa masusu aankako matete, kuli nkako kakabona kuti wakalikuboneka mbuli cibumbwa cakali mukaunda kako kasyoonto. Kakamumyonta alimwi kakali alusyomo kuti inga wabuka."
+      }
+    },
+    {
+      "verse": 29,
+      "text": {
+        "S1": "She saw dry land rise before her in high blue mountains, topped with snow as glistening white as if a flock of swans were resting there. Down by the shore were splendid green woods, and in the foreground stood a church, or perhaps a convent; she didn't know which, but anyway it was a building. Orange and lemon trees grew in its garden, and tall palm trees grew beside the gateway. Here the sea formed a little harbor, quite calm and very deep. Fine white sand had been washed up below the cliffs. She swam there with the handsome Prince, and stretched him out on the sand, taking special care to pillow his head up high in the warm sunlight.",
+        "T1": "Kakabona nyika njumu kaiboola kuli nkako,kaivumbidwe caanda. Munkomwe yalwizi kwakali zisamu zyanyanzabili, aanyika kwakainvwi cikombelo, tiikakazi kuti cakali cikombeloonzi pesi akali mayake.Zisamu zyama fuleenke amalemani zyakalimenede mumuunda ooyu, azizamu zilamfu zyakalimende mumbali amulyango. Aawa lwizi lwakapangide cito cisyoonto,citontola alimwi cilamfu. Museenga mubotu wakaliyalidwe mumbali aankomwe.Kakayambila nkuko amwana wamwami akuyoomulazika mumuseenga,akumubamba kabotu muzuba likasaala.",
+        "T2": "Kakabona nyika njumu kainyamuka kumbele mujulu aamalundu, kavumbidwe caanda. Munkkomwe yalwizi kwakali zisamu zyanyanzabili, mpoona anyika kwakaimvwi cikombelo, tiikakazi kuti naa cakali cikombelonzi pesi akali mayake. Zisamu zyama fuleenke amalemani zyakali menede mumuunda ooyu, azisamu zilamfu zyakalimenede mumbali amulyango. Aawa lwizi lwakapangide cito cisyoonto citontola alimwi cilamfu. Museenga mubotu wakliyalidwe mumbali aankomwe. Kakayaambila nkuko amwana wamwami akuyoomulazika mumuseenga akumubamba kabotu muzuba likasaala."
+      }
+    },
+    {
+      "verse": 30,
+      "text": {
+        "S1": "The bells began to ring in the great white building, and a number of young girls came out into the garden. The little mermaid swam away behind some tall rocks that stuck out of the water. She covered her hair and her shoulders with foam so that no one could see her tiny face, and then she watched to see who would find the poor Prince.",
+        "T1": "Milangu yakatalika kulila mu ng`anda iituba, abana basimbi banjaanji bakazwa akuya mu mpulazi. Katosi kakayambila kunze kwamabwe malamfu akagabide kuzwa mumaanzi. Kakalisisa masusu amakuko acovu kutegwa batakaboni busyu bwako busyoonto,mpoona kakalangilila kuti kabone uunga wamujana mwana wamwami.",
+        "T2": "Milangu yakatalika kulila mun’ganda iituba, abana basimbi banjaanji bakazwa akuya mu muunda. Katosi kakayaambila kunze kwamabwe malamfu akagabide kuzwa mumaanzi. Kakalisisa masusu amakuko acovu kutegwa batakaboni busyu bwankako busyoonto, mpoona kakalangilila kuti kabone uunga wamujana mwana wamwami."
+      }
+    },
+    {
+      "verse": 31,
+      "text": {
+        "S1": "In a little while one of the young girls came upon him. She seemed frightened, but only for a minute; then she called more people. The mermaid watched the Prince regain consciousness, and smile at everyone around him. But he did not smile at her, for he did not even know that she had saved him. She felt very unhappy, and when they led him away to the big building she dived sadly down into the water and returned to her father's palace.",
+        "T1": "Mukaindi kasyoonto kamwi katwana tusimbi tusyoonto kakamubona. Kakayoowa pesi kwakaindi biyo kasyoonto; mpoona kakaita bantu. Katosi kakalangilila mwana wamwami kapempenukwa akumwetulila bantu bakamubunganinide. Pesi kwiina naakakasekela katosi nkaambo taakazi kuti nkikakamufutula. Katosi kakabijilwa aboobo nibakamutola mung`anda iituba mwana wamwami kakasotokela mumeenda akujokela kumunzi wabwami wawisi.",
+        "T2": "Mukaindi kasyoonto kamwi katwana tusimbi tusyoonto kakamubona. Kakayoowa pesi kwakaindi kasyoonto, mpoona kakaita bantu. Katosi kakalangilila mwana wamwami kapempenuka akumwetulila bantu bakamubunganinide. Pesi kwiina naakakasekela katosi nkaambo taakazi kuti nkikakamufutula. Katosi kakabijilwa aboobo nibakamutola mung’anda iituba mwana wamwami kakasotokela mumeenda akujokela kumunzi wabwami bawisi."
+      }
+    },
+    {
+      "verse": 32,
+      "text": {
+        "S1": "She had always been quiet and wistful, and now she became morose. Her sisters asked her what she had seen on her first visit up to the surface, but she would not tell them a thing.",
+        "T1": "Kakali kaumuzi lyoonse, lino aawa wakacinca. Banike bakwe bakamubuzya ncaakabona aatala lyanyika ciindi cakutaanguna kuswaya pesi kunyina ncaakabaambila.",
+        "T2": "Kakali kaumuzi lyoonse, lino aawa kakacinca. Basyoonto bakwe bakamubuzya ncaakabona atala lyanyika ciindi cakutaanguna kuswaya pesi kunyina ncaakabaambila."
+      }
+    },
+    {
+      "verse": 33,
+      "text": {
+        "S1": "Many evenings and many mornings she revisited the spot where she had left the Prince. She saw the fruit in the garden ripened and harvested, and she saw the snow on the high mountain melted away, but she did not see the Prince, so each time she came home sadder than she had left. It was her one consolation to sit in her little garden and throw her arms about the beautiful marble statue that looked so much like the Prince. But she took no care of her flowers now. They overgrew the paths until the place was a wilderness, and their long stalks and leaves became so entangled in the branches of the tree that it cast a gloomy shade.",
+        "T1": "Mafumina amangolezya wakalikuunka ku busena mbwaakasiya mwana wamwami. Wakabona micelo mu mpulazi kaibizwa akutebulwa, alimwi wakabona caanda mumalundu mlamfu kacisungunuka,pesi kwiina naakamubona mwana wamwami, aboobo lyoonse wakali kupiluka kauside kapati. Cakali kumuyumya-yumwa wakalikunga wainka mu mpulazi, wakkala aacibumbwa cibotu cakali kulibonya mbuli kuti mwana wamwami akucikumbata. Pesi kunyina naakali kubikkila maanu maluba aakwe aawa. Akakomena limwi cibaaka cakaile kubeenga ndisaka, imitabi yawo amatuvu zyakakobana kumitabi ya kucisamu cakali kupa cimvule ciyoosya.",
+        "T2": "Ziindi zinji mafumina amangolezya wakalikuunka kubusena mbwaakasiya mwana wamwami. Wakabona micelo mumuunda kaibizwa akutebulwa, alimwi wakabona caanda mumalundu malamfu kayeenzemuka pesi kwiina naakamubona mwana wamwami, aboobo lyoonse wakali kupiluka kauside kapati. Cakali kumuyumya-yumya wakali kuunka mu muunda, wakkala acibumbwa cibotu cakali kulibonya mbuli kuti mwana wamwami akucikumbata. Pesi kunyina naakali kubikkila maano maluba aakwe aawa. Akakomena limwi cibaaka cakaile kubeenga ndisaka, imitabi yawo amatuvu zyakakobana kumitabi ya kucissamu cakali kupa cimvule ciyoosya."
+      }
+    },
+    {
+      "verse": 34,
+      "text": {
+        "S1": "Finally she couldn't bear it any longer. She told her secret to one of her sisters. Immediately all the other sisters heard about it. No one else knew, except a few more mermaids who told no one - except their most intimate friends. One of these friends knew who the Prince was. She too had seen the birthday celebration on the ship. She knew where he came from and where his kingdom was.",
+        "T1": "Kumamanino wakaalilwa kubamba maseseke. Wakaayubununa maseseke akwaambila umwi wabana bokwabo musimbi. Mpoona mpoona boonse bana bokwabo bakaziba.Kwiina uumbi wakaziba cita biyo tu tosi tubalwe balwe twatakaambila uumbi cita beenzinyina baakalo. Umwi wabeenzinyina aaba wakali muzi mwana wamwami. Awalo wakalicibwene cisobano caluzyalo lwakwe mubwato. Wakalizi nkwaakazwide amunzi wakwe nkuwakabede.",
+        "T2": "Kumamanino wakaalilwa kubamba maseseke. Wakayubununa maseseke akwaambila umwi wabana bokwabo musimbi. Mpoona mpoona boonse bana bokwabo bakaziba kwiina uumbi wakaziba cita biyo tu tosi abalongwe beni beni. Umwi wabeenzinyina aaba wakali muzi mwana wa wamwami. Awalo wakli cibwene cisobano caluzyalo lwakwe mubwato. Wakalizi nkwaakazwide amunzi wakwe nkuwakabede."
+      }
+    },
+    {
+      "verse": 35,
+      "text": {
+        "S1": "\"Come, little sister!\" said the other princesses. Arm in arm, they rose from the water in a long row, right in front of where they knew the Prince's palace stood. It was built of pale, glistening, golden stone with great marble staircases, one of which led down to the sea. Magnificent gilt domes rose above the roof, and between the pillars all around the building were marble statues that looked most lifelike. Through the clear glass of the lofty windows one could see into the splendid halls, with their costly silk hangings and tapestries, and walls covered with paintings that were delightful to behold. In the center of the main hall a large fountain played its columns of spray up to the glass domed roof, through which the sun shone down on the water and upon the lovely plants that grew in the big basin.",
+        "T1": "’’ Koboola musyoonto wangu!’’ wakaamba umwi wabana bamwami basimbi. Kabakumbatene bakazwa mumeenda kabali mumulongo mulamfu kumbele kwawaawo mpobakazi kuti mpaakali munzi wamwami. Wakayakidwe amabwe aangolide amanela mabotu,imwi yakali kugama kulwizi.Twaanda-anda twakali kulibonya atala lyaciluli, akati kati kwakali kang`anda kwakali zibumbwa zyakali kulibonya mbuli kuti zilapona. Mu mpulungwido kwakali kulibonya zintu zinji zyeebeka. Aakati kang`anda mpati kwakali kalonga kakali kukunka kusikila kuciluli ca ng`anda ooko zuba nkolyakali kubala aansi aameenda alimwi azisamu zyakamenede.",
+        "T2": "Koboola musyoonto wangu! Wakaamba umwi wabana ba mwami basimbi. Kabakumbetene bakazwa mumeenda kabala mumulongo mulamfu kumbele kwawawo mpobakazi kuti mpaakali munzi wamwami. Wakayakidwe amabwe aangolide amanela mabotu, imwi yakali kugama kulwizi. Twaanda aanda twakali kulibonya atala yaciluli, akati kati kang’anda kwakali zibumbwa zyakali kulibonya mbuli kuti zilapona. Mu mpulungwido kwakali kulibonya zintu zinji zyeebeka. Akati kang’anda mpati kwakali kalonga kakali kukunka kusikila ku ciluli ca ng’anda ooko zuba nkolyakali kubala aansi aameenda alimwi azisamu zyakamenede."
+      }
+    },
+    {
+      "verse": 36,
+      "text": {
+        "S1": "Now that she knew where he lived, many an evening and many a night she spent there in the sea. She swam much closer to shore than any of her sisters would dare venture, and she even went far up a narrow stream, under the splendid marble balcony that cast its long shadow in the water. Here she used to sit and watch the young Prince when he thought himself quite alone in the bright moonlight.",
+        "T1": "Lino mbokunga wakaziba nkwakkala,mazuba manji amasiku wakali kulibbizya nkuko mulwizi.Wakayambila kumbali mbali alwizi kwiinda bana bakwabo, alimwi wakeenda kulaale mukalonga kasyoonto, ooko nkwaakali kulibonya cinzimweemwe cakwe mumeenda. Aawa wakali kukkala kalangilila mwana wamwami naalimvwa buumba.",
+        "T2": "Lino mbokunga wakaziba nkwakkala, mazuba manji amasiku wakali kulibbizya nkuko mulwizi. Wakyaambila kumbali mbali aalwizi kwiinda bana bokwabo, alimwi wakeenda kulaale mukalonga kasyoonto, ooko nkwaakali kulibonya cinzimweemwe cakwe mumeenda. Aawa wakali kukkala kalangilila mwana wamwami naalimvwa buumba."
+      }
+    },
+    {
+      "verse": 37,
+      "text": {
+        "S1": "On many evenings she saw him sail out in his fine boat, with music playing and flags a-flutter. She would peep out through the green rushes, and if the wind blew her long silver veil, anyone who saw it mistook it for a swan spreading its wings.",
+        "T1": "Mangolezya manjaanji wakali kumubona kayamba mukaato kakwe kasyoonto, nyimbo kazilila andembela kazilengelela. Wakalikunga ulasondela ,ino kuti muwo waunga kucisani cakwe cilamfu cansiliva, kufumbwa wamubona wakali kuyeeya kuti nciyuni cuuluka.",
+        "T2": "Mangolezya manjaanji wakali kumubona kayaamba mukato kakwe kasyoonto, nyimbo kazilila andeembela kazilengelela. Wakali kunga ulasondela, lino kuti muwo waunga kucisani cakwe cilamfu cansiliva, kufumbwa wamubona wakalinkuyeeya kuti nciyuni cuuluka."
+      }
+    },
+    {
+      "verse": 38,
+      "text": {
+        "S1": "On many nights she saw the fishermen come out to sea with their torches, and heard them tell about how kind the young Prince was. This made her proud to think that it was she who had saved his life when he was buffeted about, half dead among the waves. And she thought of how softly his head had rested on her breast, and how tenderly she had kissed him, though he knew nothing of all this nor could he even dream of it.",
+        "T1": "Masiku manji wakali kubona bazubi banswi kababoola kulwizi amalampe,akubanvwa kabaamba mbuli mbwaakali mubotu moyo mwana wamwami.Eeci cakali kumukkomanisya kuyeeya kuti nguwakamufutula ciindi naakacifwe mumeenda.Wakayeeya mbuli mbwaakabikkide mutwe wamwana wamwami aankolo zyakwe, ambuli mbwaakamumyonta, nokubakuti kwiina ancaakazi olo nokuba kulota kuti inga cacitika.",
+        "T2": "Masiku manji-manji wakali kubona bazeli banswi kababoola kulwizi amalambe, akubamvwa kabaamba mbuli mbwaakali mubotu moyo mwana wamwami. Eecicakali kumukkomanisya kuyeeya kuti nguwakamufutula ciindi naakatifwe mumeenda. Wakayeeya mbuli mbwakabikkide mutwe wamwana wamwami acamba cakwe, ambuli mbwaakamumyonta, nokuba kuti kwiina ancaakazi nokuba kulota kuti inga cacitika."
+      }
+    },
+    {
+      "verse": 39,
+      "text": {
+        "S1": "Increasingly she grew to like human beings, and more and more she longed to live among them. Their world seemed so much wider than her own, for they could skim over the sea in ships, and mount up into the lofty peaks high over the clouds, and their lands stretched out in woods and fields farther than the eye could see. There was so much she wanted to know. Her sisters could not answer all her questions, so she asked her old grandmother, who knew about the \"upper world,\" which was what she said was the right name for the countries above the sea.",
+        "T1": "Mukufwambaana wakatalika kuyanda bantu, wakayandisisya kuti akkale ambabo. Nyika yabo yakali kulibonya mpati kwiinda yakwe nkaambo bakali kweenda atala alwizi mubwato amumalundu atala amakumbi amumyunda mulaale. Nzinji nzyaakali kuyanda kuziba. Bana bakwabo tiibakali kukonzya kuvwiila mibuzyo yakwe yoonse,aboobo wakabuzya bakaapa nyina,bakazi ‘’zyanyika yaatala’’ eeyo njaakali kwaamba kuti ndiizina lyakali kweelela kwaamba zisi zili aatala lyalwizi.",
+        "T2": "Mukufwambaana wakatalika kuyanda bantu, akuyandisisya kuti akkale ambabo. Nyika yabo yakali kulibonya mpati kwiinda yakwe nkaambo bakali kweenda aatala alwizi mubwato amumalundu atala aamakumbi amumyuunda mulaale. Nzinji nzyaakali kuyanda kuziba. Bana bokwabo tiibakali kukonzya kuvwiila mibuzyo yakwe yoonse aboobo wakabuzya bakaapa nyina, bakazi “zyanyika yaatala” eeyo njakali kwamba kuti ndizina lyakali kweelela kwaamba zisi zili aatala lyalwizi."
+      }
+    },
+    {
+      "verse": 40,
+      "text": {
+        "S1": "\"If men aren't drowned,\" the little mermaid asked, \"do they live on forever? Don't they die, as we do down here in the sea?\"",
+        "T1": "‘’ Nikwakali kunga bantu tabanyikili’’,kakabuzya katosi, ‘’ balakkala kukabe kutamani? Tabafwi, mbuli mbotufwa oomuno mulwizi?’’",
+        "T2": "“Nikwakali kunga bantu tabanyikili akufwa” kakabuzya katosi, “balakkala kutamani naa? Tabafwi, mbuli mbotufwa oomuno mulwizi?”"
+      }
+    },
+    {
+      "verse": 41,
+      "text": {
+        "S1": "\"Yes,\" the old lady said, \"they too must die, and their lifetimes are even shorter than ours. We can live to be three hundred years old, but when we perish we turn into mere foam on the sea, and haven't even a grave down here among our dear ones. We have no immortal soul, no life hereafter. We are like the green seaweed - once cut down, it never grows again. Human beings, on the contrary, have a soul which lives forever, long after their bodies have turned to clay. It rises through thin air, up to the shining stars. Just as we rise through the water to see the lands on earth, so men rise up to beautiful places unknown, which we shall never see.\"",
+        "T1": "‘’iiyi,’’bakaamba bacembele,’’abalo beelede kufwa, alimwi buumi bwabo mbusyoonto kwiinda bwesu. Inga twakkala myaka iili myaanda yotatwe pesi inga twafwa tubabiyo covu mulwizi, tatujizi acuumbwe cabayandwa besu. Tujisi mubili uutafwi,tuli mbuli sokwe lyanyanzabili lya mulwizi, kufumbwa kuti mwaligonka talicikameni limbi pe. Bantu balo balaamuuya uupona mane kukabe kutamani, mibili yabo niyajokela kubulongo. Ilainka mumuwo kuyakusika kunyenyeezi zimweka.Mbubona mbotweenda aatala aameenda kuti tubone nyika yaansi,abalo bantu balainka kumasena mabotu aatazibidwe ngotutakaboni.",
+        "T2": "“Inzya,” bakaamba bacembele, “abalo baleelede kufwa, alimwi buumi bwabo mbusyoonto kwiinda bwesu. Inga twakkala myaka iili myaanda yotatwe pesi inga twafwa tuba biyo covu mulwizi, tatujisi acuumbwe cabayandwa besu. Tatujisi muuya uutafwi, tatujisi buumi kwamana waano. Tuli mbuli tuli mbuli mani aamulwizi – kufumbwa cagonkwa, tacikomeni limbi. Ibantu balo, balaamuuya uupona, mane kukabe kutamani, mibili yabo niyajokela kubulongo. Muuya ullaunka mumuwo kuyakusika kunyenyeezi zimweka. Mbubona mbotweenda atala aameenda kuti tubone nyika ya aansi, bantu balainka kumasena mabotu aatazibidwe ngotutakaboni."
+      }
+    },
+    {
+      "verse": 42,
+      "text": {
+        "S1": "\"Why weren't we given an immortal soul?\" the little mermaid sadly asked. \"I would gladly give up my three hundred years if I could be a human being only for a day, and later share in that heavenly realm.\"",
+        "T1": "’’ Ino nkaabo nzi ncotwakatapegwa mubili utaboli?’’ kakabuzya katosi cakuusa.’’ inga ndakkomana kupa myaka yangu iili myeelwe yotatwe nikwali kuti inga ndaba muntu kwabuzuba bomwe biyo,mpoona ndaakukkala mujulu.",
+        "T2": "“Ino nkaambo nzi ncotwatakapegwa mubili uutaboli?” kakabuzya katosi cakuusa. “Inga ndakkomana kupa myaka yangu iili myeelwe yotatwe nikwali kuti inga ndaba muntu kwabuzuba bomwe biyo mpoona ndaakukkala mujulu.”"
+      }
+    },
+    {
+      "verse": 43,
+      "text": {
+        "S1": "\"You must not think about that,\" said the old lady. \"We fare much more happily and are much better off than the folk up there.\"",
+        "T1": "‘’Utanikuyeeyi boobo,’’ bakaamba bacembele. ‘’ tuli kabotu alimwi tulikkomene kwiinda bantu ookuya.’’",
+        "T2": "“Utanikuyeeyi boobo,” bakaamba bacembele. “Tuli kabotu alimwi tulikkomene kwiinda bantu ookuya.”"
+      }
+    },
+    {
+      "verse": 44,
+      "text": {
+        "S1": "\"Then I must also die and float as foam upon the sea, not hearing the music of the waves, and seeing neither the beautiful flowers nor the red sun! Can't I do anything at all to win an immortal soul?\"",
+        "T1": "‘’ Ani ndeelede kufwa andime kutegwa ndikaunge aatala ameenda mbuli covu, kutamvwa nyimbo zyamyuuwo, akutabona maluba mabotu nokuba zuba lisalala! Hena kwiina ncenga ndacita kutegwa ndibe aabumi butamani?’’",
+        "T2": "“Ani ndeelede kufwa andime kutegwa ndikaunke atala aameend mbuli covu, kanditamvwi nyimbo zyamayuuwe, akutabona maluba mabotu nokuba zuba lisalala! Hena kwiina ncenga ndacita kutegwa ndibe aabuumi butamani?”"
+      }
+    },
+    {
+      "verse": 45,
+      "text": {
+        "S1": "\"No,\" her grandmother answered, \"not unless a human being loved you so much that you meant more to him than his father and mother. If his every thought and his whole heart cleaved to you so that he would let a priest join his right hand to yours and would promise to be faithful here and throughout all eternity, then his soul would dwell in your body, and you would share in the happiness of mankind. He would give you a soul and yet keep his own. But that can never come to pass. The very thing that is your greatest beauty here in the sea - your fish tail - would be considered ugly on land. They have such poor taste that to be thought beautiful there you have to have two awkward props which they call legs.\"",
+        "T1": "‘’peepe,’’ bakavwiila bakaapa nyina, ‘’ cita kuti muntu wakali kuyandide kapati kwiinda bazyali bakwe.Ikuti mizeezo yakwe amoyo wakwe oonse wakalikuyandisisya kuti nduwe cakuti inga waambila mupaizi kuti amujatanywe maboko aanu aalulyo akuti wasyomezya kuti uyoosyomeka mane kukabe kutamani, mpoona muuya wakwe uyookkala muli nduwe mpoona uyootangala mubuntu. Inga wakupa muuya akubamba wakwe. Pesi eeci tacikonzyi kucikika pe. Bubotu bwako omuno mulwizi, mucila wako wanswi inga unooli mubi aatala aanyika. Bayeeya kuti kutegwa ube mubotu weelede kuba aamaulu obile.’’",
+        "T2": "“Peepe,” bakavwiila bakapa nyina, “cita kuti muntu wakalikuyandide kapati kwiinda bazyali bakwe. Ikuti mizeezo yakwe amoyo wakwe oonse wakalikuyandisisya kuti nduwe cakuti inga wambila mupaizi kuti amujatanye maanza aanu aakululyo akuti wasyomezya kuti uyoosymeka mane kukabe kutamani, mpoona muuya wakwe uyookkala muli nduwe mpoona uyootangala mubuntu. Inga wakupa muuya akubamba wakwe. Pesi eeci tacikonzyi kucitika pe. Bubotu bwako omuno mulwizi – mucila wako wanswi inga unooli mubi atala aanyika. Bayeeya kuti kutegwa ube mubotu weelede kuba amaulu obile.”"
+      }
+    },
+    {
+      "verse": 46,
+      "text": {
+        "S1": "The little mermaid sighed and looked unhappily at her fish tail. \"Come, let us rejoice!\" the old lady said. \"Let us leap and bound throughout the three hundred years that we have to live. Surely that is time and to spare, and afterwards we shall be glad enough to rest in our graves. We are holding a court ball this evening.\"",
+        "T1": "Katosi tiikakakkomana akaambo kamucila wanswi wako. ‘’koboola tusekelele!’’ bakaamba bacembele. ‘’ atukkale akusekelela mumyaka iili myeelwe yotatwe njotujisi yakupona. Kasimpe nceciindi cakukkoma, kwamana tuyookkomanakulyookezya mu zyuumbwe. Tulaacisobano mangolezya aaya.’’",
+        "T2": "Katosi tiikakakkomana akaambo kumucila wanswi wankako. “koboola tusekelele! Bakaamba bacembele. “Atukkale akusekelela mumyaka iili myeelwe yotatwe njotujisi yakupona. Kasimpe nceciindi cakukkomana, kwamana tuyookkomana kulyookezya mu zyuumbwe. Tulaacisobano mangolezya aaya.”"
+      }
+    },
+    {
+      "verse": 47,
+      "text": {
+        "S1": "This was a much more glorious affair than is ever to be seen on earth. The walls and the ceiling of the great ballroom were made of massive but transparent glass. Many hundreds of huge rose-red and grass-green shells stood on each side in rows, with the blue flames that burned in each shell illuminating the whole room and shining through the walls so clearly that it was quite bright in the sea outside. You could see the countless fish, great and small, swimming toward the glass walls. On some of them the scales gleamed purplish-red, while others were silver and gold. Across the floor of the hall ran a wide stream of water, and upon this the mermaids and mermen danced to their own entrancing songs. Such beautiful voices are not to be heard among the people who live on land. The little mermaid sang more sweetly than anyone else, and everyone applauded her. For a moment her heart was happy, because she knew she had the loveliest voice of all, in the sea or on the land. But her thoughts soon strayed to the world up above. She could not forget the charming Prince, nor her sorrow that she did not have an immortal soul like his. Therefore she stole out of her father's palace and, while everything there was song and gladness, she sat sadly in her own little garden.",
+        "T1": "Eeci cakali cibotu kwiinda kukkala aatala aanyika. Bwaanda bwang`anda yakuzyanina bwakayakidwe aamagilazi. Maluba aasubila alimwi aanyanzabili akaliyalidwe mumulongo. Mumuni wamulilo wakali kulikumweka bwaanda boonse cakuti kwakali kutuba mumeenda aanze. Inswi zitabaliki zyakali kulibonya zipati atwana kaziyamba kuya kubwaanda bwamailazi. Zimwi inswi makwa aazyo akali kulibonya mbuli kuti alasalala-salala mpoona zimwi akalikulibonya mbuli kuti ngansiliva iivwelengene angolide. Kutala aabwaanda kwakali kalonga kameenda, aboobo katosi abeenzinyina bakazyana citaambiki.Majwi mabotu mbuli yaaya taajaniki kubantu bakkala aatala aanyika. Katosi kakaimba kabotu cakuti boonse bakakalumbaizya. Kwakaindi kasyoonto moyo wako wakakkomana nkaambo kakaziba kuti kalaajwi libotu mulwizi aatala aanyika. Miseezo yakwe yakaya kunyika yaatala alimwi, wakayeeya mwana wamwami akuti taakajisi muuya uutamani mbuli wakwe. Aboobo wakazwa mung`anda yabawisi kakuli boonse bakali kukkomana, wakaakukkala ku kampulazi kakwe cakuusa.",
+        "T2": "Eeci cakali cibotu kwiinda kukkala atala aanyika. Bwaanda bwang’anda yakuzyanina bwakayakidwe amagilazi. Maluba aasubila alimwi aanyanzabili akaliyalidwe mumulongo. Mumuni wamulilo wakali kumweka mbuli bwaanda boonse cakuti kwakali kutuba mumeenda aanze. Inswi zitabaliki zyakali kulibonya zipati atwana kaziyaamba kuya kubwaanda bwamagilazi. Zimwi inswi makwa aazyo akali kulibonya mbuli kuti alasalala-salala mpoona zimwi akalikulibonya mbuli kuti ngansiliva iivwelengene angolide. Kutala aabwaanda kwakali kalonga kameenda, aboobo katosi abeenzinyina bakazyana citaambiki. Majwi mabotu mbuli yaaya, taajaniki kubantu bakkala atala yanyika. Katosi kakaimba kabotu cakuti boonse bakakalumbaizya. Kwakaindi kasyoonto moyo wankako wakakkomana nkaambo kakaziba kuti kalaajwi libotu mulwizi aatala lyanyika. Mizeezo yankako yakaya kunyika yaatala alimwi, wakayeeya mwana wamwami akuti taakajisi muuya uutamani mbuli wakwe. Aboobo wakazwa mung’anda yabawisi kakuli boonse bakali kukkomana, wakaakukkala kukaunda kakwe cakuusa."
+      }
+    },
+    {
+      "verse": 48,
+      "text": {
+        "S1": "Then she heard a bugle call through the water, and she thought, \"That must mean he is sailing up there, he whom I love more than my father or mother, he of whom I am always thinking, and in whose hands I would so willingly trust my lifelong happiness. I dare do anything to win him and to gain an immortal soul. While my sisters are dancing here, in my father's palace, I shall visit the sea witch of whom I have always been so afraid. Perhaps she will be able to advise me and help me.\"",
+        "T1": "Mpoona wakamvwa jwi lyiita kuzwa mumeenda,mpoona wakayeeya,’’ nkokuti caamba kuti ulayamba, ooyo ngundiyandisisya kwiinda bazyali bangu, ooyo ngundiyeeya abuzuba abuzuba, mumaanza aakwe mondikonzya kushomezya buumi bwangu akukkomana. Ndeelede kucita cintu comwe kuti ndimuzunde akuti ndibe aamuuya utakafwi. Bana bakwesu nibacizyana mung`anda yabataata, ndilainka kumulozi wakulwizi ooyo ngondali kuyoowa lyoonse. Mucimwi ciindi inga waakundipa maanu akundigwasya.’’",
+        "T2": "Mpoona wakamvwa jwi liita kuzwa mumeenda mpoona wakayeeya, “Nkokuti caamba kuti ulayaamba, ooyo ngondiyandisisya kwiinda bazyali bangu, ooyo ngondiyeeya abuzuba abuzuba, mumaanza aakwe mondikonzya kusyomezya buumi bwangu akukkomana. Ndeelede kucita cintu comwe kuti ndimuzundeakuti ndibe amuuya uutafwi. Bana bakwesu nibacizyana mung’anda yabataata, ndilainka kumulozi wakulwizi ooyo ngondali kuyoowa lyoonse. Mucimwi ciindi inga waakundipa maanu akundigwasya.”"
+      }
+    },
+    {
+      "verse": 49,
+      "text": {
+        "S1": "The little mermaid set out from her garden toward the whirlpools that raged in front of the witch's dwelling. She had never gone that way before. No flowers grew there, nor any seaweed. Bare and gray, the sands extended to the whirlpools, where like roaring mill wheels the waters whirled and snatched everything within their reach down to the bottom of the sea. Between these tumultuous whirlpools she had to thread her way to reach the witch's waters, and then for a long stretch the only trail lay through a hot seething mire, which the witch called her peat marsh. Beyond it her house lay in the middle of a weird forest, where all the trees and shrubs were squids, half animal and half plant. They looked like hundred-headed snakes growing out of the soil. All their branches were long, slimy arms, with fingers like wriggling worms. They squirmed, joint by joint, from their roots to their outermost tentacles, and whatever they could lay hold of they twined around and never let go. The little mermaid was terrified, and stopped at the edge of the forest. Her heart thumped with fear and she nearly turned back, but then she remembered the Prince and the souls that men have, and she summoned her courage.",
+        "T1": "Katosi kaniini kakeenda kuya kutazingaziba lyakali kumbele lya nganda yamulozi. Kwiina naakainkide okuya pe. Malubaluba taakali kukomena kuya pe nobuba bwizu bwamumeenda. Kakubuneka biyo kubundaala,museenga wakali kwiinka kusika munsi akazingaziba, ookuya mbulu mavwili mapati meenda akali kuzinguluka akunyamuna kuya ku lwizi kufumbwa ncaakajana munzila yawo. Akati lya meenda aaya akali makali wakanjila kaya kuya kuti akasike .kumunzi wamulozi mumeenda akwe, eelyo kwakasinzo kalamfu, kakali amaanzi apya amutangaziba, eelyo mulozi ndyaakali kwiita kuti kazi kakwe kabolede. Kwiindilila kooko nkokwakali anganda yakwe, mukati kasaka lyakali kuyoosya, ookuya masamu azyoonde nkwaakali malamfu, cisela cawo kaali banyama kumwi kaali zisamu. Akali kulibonya mbuli nzoka ijisi mitwe iili myaanda yakali kupola mubulongo. Mitabi yazyo yoonse yakali milamfu, amaanza atezemuka, banamula baboneka mbuli minwe baputauka. Bakwemba, kanunge akanunge,kuzwa kumiyanda kusika kumitabi, eelyo kufumbwa ncobakayaanya bakacizambaila akutacilekezya limbi. Akaya katosi kaniini kaayowa kapati akuunka kujeleele lyasaka. Moyo wako wakali kuduntaana cakuti kakali kuyanda kujoka, pele kakayeeya mwana wamwami amaumi abamwi bantu, mpona kakaliyumyayumya.",
+        "T2": "Katosi kaniini kakeenda kuzwa kukaunda kankkako kuya kutazinganziba lyakali kumbele aang’anda ya mulozi. Kwiina naakainkide okuya pe. Malubaluba taakali kukomena okuya pe nobuba bwizu bwamumeenda. Kakuboneka biyo kubundala. Museenga wakali kwiinka kusika munsi aakazingaziba, ookuya mbuli mavwili mapati meenda akali kuzinguluka akunyamuna kuya ku lwizi kufumbwa ncaakajana munzila yayo. Akati lya meenda aaya akali makali wakaanjila kuti kaya kuya kuti akasike kumunzi wamulozi mumeenda aakwe, eelyo kwakasinzo kalamfu, kakali aamaanzi apya amutangaziba, eelyo mulozi ndyakali kwiita kuti kazi kakwe kabolede. Kwiindilila kooko nkokwakali aanga’anda yakwe, mukati kasaka lyakali kuyoosya, ookuya masamu aazyoonde nkwakali malamfu, cisela cawo kaali banyama kumwi kaali zisamu. Akali kulibonya mbuli nzoka iijisi mitwe iili myaanda yakali kupola mubulongo. Mitabi yazyo yoonse yakali milamfu, amaanza aatezemuka, banamula baboneka mbuli minwe baputauka. Bakwemba, kanunge akanunge kuzwa kumiyanda kusika kumitabi, eelyo kufumbwa ncobakayaanya bakacizambaila akutacilekezya limbi. Akaya katosi kaniini kaayowa kapati akuunka kujeleele lyasaka. Moyo wako wakali kuduntaana cakuti kakalikuyanda kujoka, pele kakayeeya mwana wamwami amaumi abamwi bantu, mpoona kakaliyumyayumya."
+      }
+    },
+    {
+      "verse": 50,
+      "text": {
+        "S1": "She bound her long flowing locks closely about her head so that the squids could not catch hold of them, folded her arms across her breast, and darted through the water like a fish, in among the slimy squids that stretched out their writhing arms and fingers to seize her. She saw that every one of them held something that it had caught with its hundreds of little tentacles, and to which it clung as with strong hoops of steel. The white bones of men who had perished at sea and sunk to these depths could be seen in the squids' arms. Ships' rudders, and seamen's chests, and the skeletons of land animals had also fallen into their clutches, but the most ghastly sight of all was a little mermaid whom they had caught and strangled.",
+        "T1": "Kakaanga mamasusumpi ako antomwe amutwe wako kutegwa minweminwe itaakobi, akubika maanza ako acamba, akuliwalila mumeenda mbuli nswi, akukati kamakumba atezemuka aakali kutambika minweenwe azyo aminwe yazyo kuti zimujate. Kasimbi kaya kakabona kuti alya makumba akajisi acimwi cakajisi cintu kumyaanda yamaanza acimwi njocakajisi, akujatilila mbuli kuti lwakali lubulo. Mafuwa atuba abantu bakalobela mumaanzi muya aansi lya lwizi akali kulibonya kuminwe yazinyama ziya. Nkasi zyamato, azyaamba babasilwizi, amyoongola yamafuwa azinyama zyaanyika zyakalijana mumaanza azyo, pesi comwe cakalikuyoosya kapati nkatosi kaniini nkozyakaca akukasina.",
+        "T2": "Kakaanga mamasusumpi ako antoomwe amutwe wako kutegwa minweminwe itakobi akubika maanza ako acamba, akuliwaalila mumeenda mbuli nswi, akukati kamakumbi aatezemuka aakali kutambika minweenwe aazyo aminwe yazyo kuti zimujate. Kasimbi kaya kakabona kuti alya makumbi akajisi acimwi cakajisi cintu kumyaanda yamaanza acimwi njocakajisi, akujatilila mbuli kuti lwakali lubulo. Mafuwa atuba abantu bakalobela mumaanzi muya aansi lya lwizi akali kulibonya kuminwe yazinyama ziya. Nkasi zyamato, azyaamba babasilwizi, amyoongola yamafuwa azinyama zyaanyika zyakalijana mumaanza azyo, pesi comwe cakalikuyoosya kapati nkatosi kaniini nkozyakaca akukasina."
+      }
+    },
+    {
+      "verse": 51,
+      "text": {
+        "S1": "She reached a large muddy clearing in the forest, where big fat water snakes slithered about, showing their foul yellowish bellies. In the middle of this clearing was a house built of the bones of shipwrecked men, and there sat the sea witch, letting a toad eat out of her mouth just as we might feed sugar to a little canary bird. She called the ugly fat water snakes her little chickabiddies, and let them crawl and sprawl about on her spongy bosom.",
+        "T1": "wakasika kucibanda cipati cakali antimba musaka, ooko kwakali nzoka zipati zyakali kupyolapyola, kazilibonya mada amungunga waji. Akalti kakooku kwakali nganda yakayakidwe amafuwa abantu bakali kufwida muamato akaindi, aalya mpoona mpaakali mulozi wakakkede, kasanina cula kuzwa mumulomo wakwe mbubona mbotukonzya kusanina kaniabbakala kayuni kategwa katiiti. Zizoka zya mumeenda wakali kuziita kuti mbasicilongwenyina, wakli kuzileka kazitantalika amubili wakwe muteteete.",
+        "T2": "Wakasika kucibanda cipati cakali antimba musaka, ooko kwakali nzoka zipati zyakali kupyolapyola, kazilibonya mada amungunga waji. Akati kakooku kwakali ng’anda yakayakidwe amafuwa aabantu bakali kufwida mumato akaindi, aalya mpoona mpaakali mulozi wakakkede, kasanina cula kuzwa mumulomo wakwe mbubona mbotukonzya kusanina kaniabbakala kayuni kategwa katiiti. Zizoka zyamumeenda wakali kuziita kuti mbasicilongwenyina, wakali kuzileka kazitantalika amubili wakwe muteteete."
+      }
+    },
+    {
+      "verse": 52,
+      "text": {
+        "S1": "\"I know exactly what you want,\" said the sea witch. \"It is very foolish of you, but just the same you shall have your way, for it will bring you to grief, my proud princess. You want to get rid of your fish tail and have two props instead, so that you can walk about like a human creature, and have the young Prince fall in love with you, and win him and an immortal soul besides.\" At this, the witch gave such a loud cackling laugh that the toad and the snakes were shaken to the ground, where they lay writhing.",
+        "T1": "“Ndilizi coonse ncoyanda, wakaamba mulozi wamulwizi. “ mbuyanga oobu,pesi mbubo, anduwe ciyookubeda, nkaambo uyoolila omooye wangu uulisumpula. Uyanda kugusya mucila wako wanswi kutegwa ube aamaulu obile kutegwa kweendeenda mbuli bantu ,mpoona mwana wamwami akuyande alimwi ube aamuuya uutafwi.” Aawa mulozi wakapozomoka kuseka cakuti bacula anzoka zyakazungaana munyika muzyakalede.",
+        "T2": "“Ndilizi coonse ncoyanda,” wakaamba mulozi wamulwizi. “mbuyanga oobu, pesi mbubo, anduwe ciyookubeda, nkaambo uyoolila omooye wangu uulisumpula. Uyanda kugusya mucila wako wanswi kutegwa ube amaulu obile kutegwa koendeenda mbuli bantu mpoona mwana wamwami akuyande alimwi ube aamuuya uutafwi,” aawa mulozi wakapozomoka kuseka cakuti bacula anzoka zyakazungaana munyika muzyakakede."
+      }
+    },
+    {
+      "verse": 53,
+      "text": {
+        "S1": "\"You are just in time,\" said the witch. \"After the sun comes up tomorrow, a whole year would have to go by before I could be of any help to you. I shall compound you a draught, and before sunrise you must swim to the shore with it, seat yourself on dry land, and drink the draught down. Then your tail will divide and shrink until it becomes what the people on earth call a pair of shapely legs. But it will hurt; it will feel as if a sharp sword slashed through you.",
+        "T1": "“Wasika muciindi,” wakaamba mulozi. “ izuba lyazwa mafumina, mwaka oonse weelede kumana nketakwe ncekugwasya. Ndilakupa kkumbi lya mooya uutontola, zuba kalitanazwa weelede kuyambila kunkomwe yalwizi andilyona kkumbi, ukakkale aanyika njumu mpoona ukalileke kkumbi eeli. Mpoona mucila wako uyoyenzemuka kusikila ukabe maulu obile . Pesi ciyoocisa; ciyoolinvwisya mbulikuti ceba libosya lyakuyasa.",
+        "T2": "“Wasika muciindi,” wakaamba mulozi. “Izuba lyazw mafumina, mwaka oonse weelede kumana nketakwe ncekugwasya. Ndilakupa kkumbi lya mooya uutontola, zuba kalitanazwa weelede kuyaambila kunkkomwe yalwizi andilyona kkumbi, ukakkale anyika njumu mpoona ukalileke kkumbi eeli. Mpoona mucila wako uyoenzemuke kusikila ukabe amaulu obile. Pesi ciyoocisa, ciyoolimvwisya mbulikuti iceba libosya lyakuyasa."
+      }
+    },
+    {
+      "verse": 54,
+      "text": {
+        "S1": "Everyone who sees you will say that you are the most graceful human being they have ever laid eyes on, for you will keep your gliding movement and no dancer will be able to tread as lightly as you. But every step you take will feel as if you were treading upon knife blades so sharp that blood must flow. I am willing to help you, but are you willing to suffer all this?\"",
+        "T1": "Muntu uuli oonse unookubona unakuti nduwe siluzyalo kwiinda bantu boonse mbibakabo,nkaambo unakweenda kabotu alimwi kwiina kwiina uyakukwiinda kuzyana.Pesi kufumbwa ntaamo njona kweenda inakuli mbuli kuti weendela aacipeni kutegwa bulowa bukunke. Ndizumide kukugwasya, hena ulilibambide kupenga boobu?”",
+        "T2": "Imuntu uuli oonse unookubona unakuti nduwe siluzyalo kwiinda bantu boonse mbibakabonako, nkaambo unakweenda kabotu alimwi kwiina uyakukwiinda kuzyana. Pesi kufumbwa ntaamo njona kweenda inakuli mbuli kuti weendela acipeni kutegwa bulowa bukunke. Ndizumide kukugwsya, hena ulilibambide kupenga boobu?”"
+      }
+    },
+    {
+      "verse": 55,
+      "text": {
+        "S1": "\"Yes,\" the little mermaid said in a trembling voice, as she thought of the Prince and of gaining a human soul.",
+        "T1": "“ inhya,” kakaamba katosi mujwi lyakundengema, mbwakayeeya mwana wamwami akuba aamuuya wamuntu.",
+        "T2": "“Inzya,” kakaamba katosi mujwi lyakundengema, mbwakayeeya mwana wamwami akuba amuuya wamuntu."
+      }
+    },
+    {
+      "verse": 56,
+      "text": {
+        "S1": "\"Remember!\" said the witch. \"Once you have taken a human form, you can never be a mermaid again. You can never come back through the waters to your sisters, or to your father's palace. And if you do not win the love of the Prince so completely that for your sake he forgets his father and mother, cleaves to you with his every thought and his whole heart, and lets the priest join your hands in marriage, then you will win no immortal soul. If he marries someone else, your heart will break on the very next morning, and you will become foam of the sea.\"",
+        "T1": "“Koyeeya!” wakaamba mulozi. “ Kufumbwa kuti ubemuntu tocikabi katosi alimwi. Tokonzyi kuboola mumeenda alimwi kubana bakwenu nokuba kubazyali bako. Alimwi ikuti utaluzundi luyando lwa mwana wamwami kuti alube bazyali bakwe, akukakatila kuli nduwe amoyo wakwe oonse akuzumizya mupaizi kuti amukwatanye, nkokuti tokakomi muuya uutafwi. Ikuti akakwate muntu uumbi, moyo wako uyakuusa ngoona mafumina aayakucilila alimwi uyakuba covu lyamumeenda.”",
+        "T2": "“Koyeeya!” wakaamba mulozi. Kufumbwa kuti ube muntu tocikabi katosi alimwi. Tokonzi kuboola mumeenda alimwi kubana bakwenu nokuba kubazyali bako. Alimwi kuti utaluzundi luyando lwa mwana wamwami kuti alube bazyali bakwe, akukakatila kuli nduwe amoyo wakwe oonse akuzumizya kuti amukwatanye, nkokuti tokakomi muuya uutafwi. Ikuti akakwate muntu uumbi, moyo wako uya kuusa ngoona mafumina aayakucilila alimwi uyakuba covu lyamumeenda.”"
+      }
+    },
+    {
+      "verse": 57,
+      "text": {
+        "S1": "\"I shall take that risk,\" said the little mermaid, but she turned as pale as death.",
+        "T1": "“ Ndalizuminina,” kakaamba katosi, pesi kakalibonya mbuli lufu.",
+        "T2": "“Ndalizuminina,” kakaamba katosi, pesi kakalibonya mbuli lufu."
+      }
+    },
+    {
+      "verse": 58,
+      "text": {
+        "S1": "\"Also, you will have to pay me,\" said the witch, \"and it is no trifling price that I'm asking. You have the sweetest voice of anyone down here at the bottom of the sea, and while I don't doubt that you would like to captivate the Prince with it, you must give this voice to me. I will take the very best thing that you have, in return for my sovereign draught. I must pour my own blood in it to make the drink as sharp as a two-edged sword.\"",
+        "T1": "“ Almwi weelede kundibbadela,” wakaamba mulozi, “ pesi teemuulo mupati ngondilomba. Ulaajwi bbotu aano aansi aameenda, nsizumbauzyi kuti uyanda kuyakumunyonganya mwana wamwami ajwi eeli, weelede kundipa ijwi eeli. Ndiyoobweza cintu cibotu ncojisi mukucincana aakkumbi lyangu ndinditakupe.Ndeelede kutila bulowa bwangu muli ndilyo kutegwa libosye mbuli ceba libosya koonse koonse.",
+        "T2": "“Alimwi weelede kundibbadela,” wakaamba mulozi, “ pele teesi muulo mupati ngondilomba. Ulaajwi bbotu aano aansi aameenda, nsizumbauzyi kuti uyanda kuyakumunyonganya mwana wamwami ajwi eeli, weelede kundipa ijwi eeli. Ndiyoobweza citnu cibotu ncijisi mukucincana aakkumbi lyangu ndinditakupe. Ndeelede kutila bulowa bwangu muli ndilyo kutegwa libosye mbuli ceba libosya koonse koonse."
+      }
+    },
+    {
+      "verse": 59,
+      "text": {
+        "S1": "\"But if you take my voice,\" said the little mermaid, \"what will be left to me?\" \"Your lovely form,\" the witch told her, \"your gliding movements, and your eloquent eyes. With these you can easily enchant a human heart. Well, have you lost your courage? Stick out your little tongue and I shall cut it off. I'll have my price, and you shall have the potent draught.\"",
+        "T1": "“ Ino kuti ubweze jwi lyangu,” ino mebo ndacaalilwaanzi?” kakaamba katosi. ‘’ ciimo cako cibotu,” wakamwaambila mulozi, “ kutendeleka kwako ameso aako aabeka. Kuti kojisi eezi inga wafwambaana kuba aamoyo wamuntu. Hena zyakumana nguzu ? Gusya lulimi lwako ndilutende. Ndilabweza cikono cangu anduwe ulabweza kkumbi lyangu”.",
+        "T2": "“Ino kuti ubweze jwi lyangu,” kakabuzya katosi “ino mebo ndacaalilwaanzi?” “Ciimo cako cibotu,” wakamwaambila mulozi, “kutendeleka kwako ameso aako aamweka. Kuti kojisi eezi inga wafwambaana kuba aamoyo wamuntu. Hena zyakumana nguzu? Gusya mulaka wako ndiutende. Ndilabweza cikono cangu anduwe alabweza kkumbi lyangu”."
+      }
+    },
+    {
+      "verse": 60,
+      "text": {
+        "S1": "\"Go ahead,\" said the little mermaid.",
+        "T1": "“ Kozumanana,” kakaamba katosi.",
+        "T2": "“Kozumanana.” Kakaamba katosi."
+      }
+    },
+    {
+      "verse": 61,
+      "text": {
+        "S1": "The witch hung her caldron over the flames, to brew the draught. \"Cleanliness is a good thing,\" she said, as she tied her snakes in a knot and scoured out the pot with them. Then she pricked herself in the chest and let her black blood splash into the caldron. Steam swirled up from it, in such ghastly shapes that anyone would have been terrified by them. The witch constantly threw new ingredients into the caldron, and it started to boil with a sound like that of a crocodile shedding tears. When the draught was ready at last, it looked as clear as the purest water.",
+        "T1": "Mulozi wakasibika mpoto yakwe aamulilo kujika kkumbi. “ Bulondo mbubotu,” wakaamba mbuli mbwaaka mbwaakaanga nzoka munkoto akupazya mpoto. Wakaliyasa aacamba mpoona bulowa bwakwe busiya bwakatapukila mumpoto. Busi bwakaunda kuzwa mumpoto cakuti muntu uulu oonse inga wayoowa. Mulozi wakazumanana kubikka zintu zisiyene-siyene mumpoto mpoona yakatalika kubila mbulikuti ngu ciwena uulila. Kkumbi eeli nilyakabizwa lyakalibonya mbuli meenda.",
+        "T2": "Imulozi wakasibika mpoto yakwe amulilo kujika kkumbi. “Bulondo mbubotu,” wakaamba mbuli mbwaakaanga nzoka mumpoto akupazyaa mpoto. Wakaliyasa acamba mpoona bulowa bwakwe busiya bwakatapukila mumpoto akupazya mpoto. Busi bwakaunda kuzwa mumpoto cakuti muntu uuli oonse inga wayoowa. Mulozi wakazumanana kubikka zintu zisiyene-siyene mumpoto mpoona yakatalika kubila mbuli kuti ngu ciwena uulila. Kkumbi eeli nilyakaabizwa lyakalibonya mbuli meenda."
+      }
+    },
+    {
+      "verse": 62,
+      "text": {
+        "S1": "\"There's your draught,\" said the witch. And she cut off the tongue of the little mermaid, who now could neither sing nor talk.",
+        "T1": "“ Ndeeli kkumbi lyako ino,” wakaamba muloz. Mpoona wakatenda lulimi lwa katosi, kakaleka kwiimba nokuba kwaambuula.",
+        "T2": "“Ndeeli kkumbi lyako ino,” wakaamba mulozi. Mpoona wakatenda mulaka wa katosi, kakaleka kwiimba nokuba kwaambaula."
+      }
+    },
+    {
+      "verse": 63,
+      "text": {
+        "S1": "\"If the squids should pounce on you when you walk back through my wood,\" the witch said, \"just spill a drop of this brew upon them and their tentacles will break in a thousand pieces.\" But there was no need of that, for the squids curled up in terror as soon as they saw the bright draught. It glittered in the little mermaid's hand as if it were a shining star. So she soon traversed the forest, the marsh, and the place of raging whirlpools.",
+        "T1": "“ Ikuti nkala zikulume wanoopiluka kuzwa mulubuwa lwangu,” wakaamba mulozi, “ uzitile kadosi ka kkumbi eeli mpoona maulu aazyo alazapauka. “ pesi muzezo ooyu tiiwakabeleka nkaambo nkala mbuzyakabona biyo kkumbi zyakayoowa. Kkumbi lyakabeka mumaanza aakatosi mbuli kuti ni nyenyeezi. Mpoona katosi mukufwambaana kakainda mucoonde.",
+        "T2": "“Ikuzti nkala zikulume wanoopiluka kuzwa mulubuwa lwangu,” wakaamba mulozi, “uzitile kadosi ka kkumbi eeli mpoona maulu aazyo alazapauka.” Pesi muzeezo ooyo tiiwakabeleka mkaambo mkala mbuzyakabona biyo kkumbi zyakayoowa. Kkumbi lyakamweka mumaanza aakatosi mbuli kuti ni nyenyezi. Mpoona katosi mukufwambaana kakainda mucoonde."
+      }
+    },
+    {
+      "verse": 64,
+      "text": {
+        "S1": "She could see her father's palace. The lights had been snuffed out in the great ballroom, and doubtless everyone in the palace was asleep, but she dared not go near them, now that she was stricken dumb and was leaving her home forever. Her heart felt as if it would break with grief. She tip-toed into the garden, took one flower from each of her sisters' little plots, blew a thousand kisses toward the palace, and then mounted up through the dark blue sea.",
+        "T1": "Munzi wabazyali bakwe wakalibonya. Magesi akazimwa mungànda yakuzyanina, cakutazumbauzya boonse bakali koona, pesi taakayanda kuti aswene aafwaafwi, mbokunga taakacili kwaambaula alimwi wakalikusiya munzi wakwabo mane kukabe kutamani. Moyo wakwe wakamvwa mbuli kuti inga waanduka mukulila. Wakanomaila kuya mu kaunda, wakabweza duba lyomwe kuzwa mubusena bwabana bakwabo, walimyonta mpoona weenda kuya kulwizi lusiya.",
+        "T2": "Wakali kukonzya kubona munzi wabazyali bakwe. Magesi akazimwa mung’anda yakuzyanina, cakutazumbauzya boonse bakali koona, pesi taakayanda kuti aswene aafwaafwi, mbokunga taakacili kwaambaula alimwi wakalikusiya munzi wakwabo mane kukabe kutamani. Moyo wakwe wakamvwa mbuli kuti inga waanduka mukulila. Wakanomaila kuya mu Kaunda, wakabweza duba lyomwe kuzwa mubusena bwa bana bokwabo, walimyonta mpoona weenda kuya kulwizi lusiya."
+      }
+    },
+    {
+      "verse": 65,
+      "text": {
+        "S1": "The sun had not yet risen when she saw the Prince's palace. As she climbed his splendid marble staircase, the moon was shining clear. The little mermaid swallowed the bitter, fiery draught, and it was as if a two-edged sword struck through her frail body. She swooned away, and lay there as if she were dead.",
+        "T1": "Izuba teelyakanazwa naakabona munzi wamwana wamwami.Mbuli mbaakakkwela manela aakwe, mweezi wakali kutuba buu.Katosi kakamena kkumbi lyakali kulula akuyoosya, lyakali kubaanga ndiceba libosya koonse- koonse mumubili wakwe. Wakayamba akoona ookuya mbuli kuti wakalifwide.",
+        "T2": "Izuba teelyakanazwa naakabona munzi wamwana wamwami. Mbuli mbaakakkwela manila aakwe, mwezi wakali kutuba buu. Katosi kakamena kkumbi lyakali kulula akuyoosya, lyakali kubaanga ndiceba libosya koonse-koonse mumubili wakwe. Wakayaamba akoona ookuya mbuli kuti waklifwide."
+      }
+    },
+    {
+      "verse": 66,
+      "text": {
+        "S1": "When the sun rose over the sea she awoke and felt a flash of pain, but directly in front of her stood the handsome young Prince, gazing at her. Lowering her gaze, she saw that her fish tail was gone, and that she had the loveliest pair of legs any young maid could hope to have.",
+        "T1": "Zuba nilyakazwa aatala aalwizi wakabuka akumvwa kucisa, pesi kunembo lyakwe kwakaimvwi mwana wamwami kamucenka. Naakalanga wakabona kuti mucila wakwe wanswi tauciko,alimwi ujisi maulu mabotu obile.",
+        "T2": "Izuba nilyakazwa atala lyalwizi wakabuka akumvwa kucisa, pesi kunembo lyakwe kwakaimvwi mwana wamwami kamucenka. Naakalanga wakabona kuti mucila wakwe wanswi tauciko, alimwi ujisi maulu mabotu obile."
+      }
+    },
+    {
+      "verse": 67,
+      "text": {
+        "S1": "The Prince asked who she was, and how she came to be there. Her deep blue eyes looked at him tenderly but very sadly, for she could not speak. Then he took her hand and led her into his palace. Every footstep felt as if she were walking on the blades and points of sharp knives, just as the witch had foretold, but she gladly endured it. She moved as lightly as a bubble as she walked beside the Prince. He and all who saw her marveled at the grace of her gliding walk.",
+        "T1": "Mwana wamwami wakamubuzya kuti nguni alimwi wasika buti okuya. Meso aakwe akamulanga caluyando alimwi cakuusa nkaambo taakalikukonzya kwaambaula.Mpoona wakamujata kuboko akumutola mungànda yakwe mpati. Ntaamo iili yoonse yakalikubaanga weendela aacipeni mbuli mwaakaambide mulozi pesi wakaliyumya-yumya. Wakeenda cakulityoloola munsi lyamwana wamwani. Mwana wamwami aboonse bakamubona bakasekelela kubona mbwaakali kweenda.",
+        "T2": "Mwana wamwami wakamubuzya kuti nguni alimwi wakasika buti okuya. Meso aakwe akamulanga caluyando alimwi cakuusa nkaambo taakalikukonzya kwaambaula. Mpoona wakamujata kuboko akumutola mung’anda yakwe mpati. Ntaamo ili yoonse njaakeenda yakali kubaanga weendela acipeni mbuli mbwaakambide mulozi pesi wakliyumya-yumya. Wakeenda cakulityoloola munsi lyamwan wamwami. Mwana wamwami aboonse bakamubona bakasekelela kubona mbwaakali kweenda."
+      }
+    },
+    {
+      "verse": 68,
+      "text": {
+        "S1": "Once clad in the rich silk and muslin garments that were provided for her, she was the loveliest person in all the palace, though she could neither sing nor speak. Beautiful slaves, attired in silk and cloth of gold, came to sing before the Prince and his royal parents. One of them sang more sweetly than all the others, and when the Prince smiled at her and clapped his hands, the little mermaid felt very unhappy, for she knew that she herself used to sing much more sweetly.",
+        "T1": "Mukulaba kwaliso wakasamikwa zisani zimbi zibotu nzyaakapegwa, wakayandwa kungànda yabwami yoonse nokubakuti taakali kwaambaula nokuba kwiimba. Bazike babotu basamide zisani zyansiliva angolide bakaboola kwiimba kumbele lyamwana wamwami abazyali bakwe. Umwi wabo wakaimba kabotu kwiinda boonse, mpoona mwana wamwami naakakambilila akumwetamweta, katosi teekakakkomana nkaambo kakalizi kuti kalo kakali kwiimba kabotu kwiinda.",
+        "T2": "Mukulaba kwaliso wakasamikwa zisani zimbi zibotu nzyaakapegwa, wakayandwa kung’anda yabwami yoonse nokuba kuti taakali kwaambaula nokuba kwiimba. Bazike babotu bakasamide zisani zyansiliva angolide bakaboola kwiimba kumbele lyamwana wamwami abazyali bakwe. Umwi wabo wakaimba kabotu kwiinda boonse, mpoona mwana wamwami naakakambilila akumwetamweta, katosi teekakakkomana nkaambo kakalizi kutikalo kakali kwiimba kabotu kwiimba."
+      }
+    },
+    {
+      "verse": 69,
+      "text": {
+        "S1": "\"Oh,\" she thought, \"if he only knew that I parted with my voice forever so that I could be near him.\"",
+        "T1": "“Ah,” wakayeeya, “ ibiyo naalizi kuti ndaulizya jwi lyangu kuti ndibe munsi lyakwe",
+        "T2": "“Ah,” wakayeeya, “naalizi biya kuti ndaulisya jwi lyangu kuti ndibe munsi lyakwe”."
+      }
+    },
+    {
+      "verse": 70,
+      "text": {
+        "S1": "Graceful slaves now began to dance to the most wonderful music. Then the little mermaid lifted her shapely white arms, rose up on the tips of her toes, and skimmed over the floor. No one had ever danced so well. Each movement set off her beauty to better and better advantage, and her eyes spoke more directly to the heart than any of the dancers could do.",
+        "T1": "Bazike bakatalika kuzyana ku nyimbo zibotu. Mpoona katosi kakanyamuna maboko aako, kaimikila atunwe twakumaulu akutendeleka aansi. Kwiina wakalinazyana kabotu bobuya.Kufumbwa mbwa ncaakalikucita cakamuyasa kumoyo mwana wamwami kwiinda boonse bakali kuzyana",
+        "T2": "Bazike bakatalika kuzyana ku nyimbo zibotu. Mpoona katosi kakanymuna maboko aako, kaimikila atunwe twakumaulu, akutendeleka aansi. Kwiina wakalinazyana kabotu bobuya. Kufumbwa ncaakalikucita cakamuyasa kumoyo mwana wamwami kwiinda boonse bakali kuzyana."
+      }
+    },
+    {
+      "verse": 71,
+      "text": {
+        "S1": "She charmed everyone, and especially the Prince, who called her his dear little foundling. She danced time and again, though every time she touched the floor she felt as if she were treading on sharp-edged steel.",
+        "T1": "Wakabazyondola boonse kapati mwana wamwami. Wakazyana kapati nokuba kuti kumaulu wakali kumvwa mbuli kuti walya aacipeni.",
+        "T2": "Wakabazyondola boonse, kapati mwana wa mwami, wakamwiita kuti kasyoonto kayandwa kakondelezya. Wakazyana cakutobelanya, nokuba kuti kumaulu wakali kumvwa mbuli kuti walyata acipeni cibosya koonso koonse."
+      }
+    },
+    {
+      "verse": 72,
+      "text": {
+        "S1": "The Prince said he would keep her with him always, and that she was to have a velvet pillow to sleep on outside his door. He had a page's suit made for her, so that she could go with him on horseback. They would ride through the sweet scented woods, where the green boughs brushed her shoulders, and where the little birds sang among the fluttering leaves.",
+        "T1": "Mwana wamwami kati ulakkala anguwe lyoonse,wakamupa zyoonse ziyandika kutegwa kakkwela anguwe aambongolo. Bakali kweenda mumasena mabotu oomo bayuni mubakali kwiimba nyimbo zibotu.",
+        "T2": "Mwana wamwami wakati ulakkala anguwe lyoonse, alimwi akumupa zyoonse ziyandika kutegwa kakkwela anguwe ambongolo. Bakali kweenda mumasena mabotu oomo bayuni mubakali kwiimba nyimbo zibotu."
+      }
+    },
+    {
+      "verse": 73,
+      "text": {
+        "S1": "She climbed up high mountains with the Prince, and though her tender feet bled so that all could see it, she only laughed and followed him on until they could see the clouds driving far below, like a flock of birds in flight to distant lands.",
+        "T1": "Wakakkwela malundu malamfu amwana wamwami, wakayeeya kuti maulu aakwe alibonywe kutegwa boonse baabone, wakali kuseka biyo akumutobela kusikila limwi babona makumbi nkwaayenda mbuli bayuni bauluka kunyika yakulaale.",
+        "T2": "Wakakkwela malundu malamfu amwana wamwami, nokuba kuti maulu aakwe akalikuzwa bulowa cakuti boonse bakabona, wakali kuseka biyo akumutobela kusikila limwi babona makumbi nkwaaenda aansi, mbuli bayuni bauluka kunyika yakulaale."
+      }
+    },
+    {
+      "verse": 74,
+      "text": {
+        "S1": "At home in the Prince's palace, while the others slept at night, she would go down the broad marble steps to cool her burning feet in the cold sea water, and then she would recall those who lived beneath the sea. One night her sisters came by, arm in arm, singing sadly as they breasted the waves. When she held out her hands toward them, they knew who she was, and told her how unhappy she had made them all. They came to see her every night after that, and once far, far out to sea, she saw her old grandmother, who had not been up to the surface this many a year. With her was the sea king, with his crown upon his head. They stretched out their hands to her, but they did not venture so near the land as her sisters had.",
+        "T1": "Masiku boonse nibakali koona wanoonga wainka kumbali lyamulonga kuya kutontozya maulu aakwe mumaanzi aatontola , mpoona wanoonga wayeeya baabo bakkala kunsi aameenda. Bumwi buzuba mansiku bana bakwabo bakaboola kabazaakwiimba cakuusa. Naakatapula kwakwe bakamuziba akumwaambila mbwaatakabakkomanisya boonse.Bakali kuboola kumubona lyoonse masiku kuzwa waawo, mpoona kulaale wakabona banyinakulu, batakalikuzwa aanse aameenda kwamyaka. Banyinakulu bakali aamwami wamumeenda, kasamide amushini kumutwe.Bakatandabika maboko kulinguwe pele teebakasika aafwaafwi anyika mbuli mbobakasikide bana bakwabo.",
+        "T2": "Masiku boonse nibakali koona wanoonga wainka kumbali lyamulonga kuyootontozya maulu aakwe mumaanzi aatontola, mpoona wanoonga wayeeya baabo bakkala kunsi aameenda. bumwi buzuba masiku bana bakwabo bakaboola kabajatene maanza kabazakwiimba cakuusa. Naakatambika kwanza kwakwe bakamuziba akumwaambila mbwaatakabakkomanisya boonse. Bakli kuboola kumubona lyoonse masiku kuzwa waawo, mpoona kulaale wakbona banyinakulu, batakalikuzwa aanze aameenda kwamyaka. Banyinakulu bakali aamwami wamumeenda, kasamide amushini kumutwe. Bakatandaabika maboko kuli nguwe pele teebakasika aafwafwi anyika mbuli mbobakasikide bana bokwabo."
+      }
+    },
+    {
+      "verse": 75,
+      "text": {
+        "S1": "Day after day she became more dear to the Prince, who loved her but had not yet thought of making her his Queen. He did not recognize her as the woman who saved his life, yet she had to be his wife or she would never have an immortal soul, and on the morning after his wedding she would turn into foam on the waves.",
+        "T1": "Buzuba abuzuba wakayandwa kumwana wamwami pesi taakanayeeya kuti abe mukaintu wakwe.Taakazi kuti ngumukaintu wakamufutula, aboobo wakeelede kuba mukaintu wakwe olo takabi amuuya uutafwi, alimwi mafumina kuzwa buzuba bwamucado uyooba covu aamayuwe.",
+        "T2": "Buzuba abuzuba wakayandwa kumwana wamwami pesi taakanayeeya kuti abe mukaintu wakwe. Takazi kuti ngumukaintu wakamufutula, nokuba boobo wakeelede kuba mukaintu wakwe nokuba kuti takabi amuuya uutafwi, alimwi mafumina kuzwa buzuba bwamucado uyooba covu aamayuwe."
+      }
+    },
+    {
+      "verse": 76,
+      "text": {
+        "S1": "\"Don't you love me best of all?\" the little mermaid's eyes seemed to question him.",
+        "T1": "“Hena tondiyandi kwiinda boonse?” katosi kakalibuzya mumoyo.",
+        "T2": "“Hena tondiyandi kwiinda boonse?” imeso aakatosi akalikubonyaa kumubuzya."
+      }
+    },
+    {
+      "verse": 77,
+      "text": {
+        "S1": "\"Yes, you are most dear to me,\" said the Prince, \"for you have the kindest heart. You love me more than anyone else does, and you look so much like a young girl I once saw but never shall find again. I was on a ship that was wrecked, and the waves cast me ashore near a holy temple. A young girl found me beside the sea and saved my life. Though I saw her no more than twice, she is the only person in all the world whom I could love. But you are so much like her that you almost replace the memory of her in my heart. She belongs to that holy temple, therefore it is my good fortune that I have you. We shall never part.\"",
+        "T1": "“inzya ulimuyandisi kulindime,” wakaamba mwana wamwami, “ nkaambo ulaamoyo mubombe. Ulandiyanda kwiinda boonse alimwi uboneka mbuli kana kasimbi nkindakabwene alimwi nsikakajani limbi. Ndakali mubwato bwakali kusweka mpoona mayuwe akandisowela kumbali aalwizi musi aacikombelo. Kana kasimbi kakandijana akundifutula. Nikuba kuti tiindakamubona kabili, ngomuntu alike munyika yoonse ngunga ndayanda.Pesi mulakozyana cakuti wandilubya miseezo yakwe mumoyo wangu. Ujani kucikombelo ,aboobo ncoolwe cangu kuti ndajana nduwe. Tatukaandaani.”",
+        "T2": "“Inzya ulimuyandisi kulindime,” wakaamba mwana wamwami, “nkaambo ulaamoyo mubombe. Ulandiyanda kwiindaboonse alimwi uboneka mbuli kana kasimbi nkindakabwene alimwi nsikakajani limbi. Ndakali mubwato bwakali kusweeka mpoona mayuwe akandisowela kumbali aalwizi munsi aacikombelo. Kanakasimbi kakandijana akundifutula. Nikuba kuti tiindakamubona kabili, ngomuntu alike munyika yoonse nguunga ndayanda. Pesi mulakozyanya cakuti wandilubya mizeezo yakwe mumoyo wangu. Ujanika kucikombelo, aboobo ncoolwe cangu kuti ndajana nduwe. Tatukaandaani.”"
+      }
+    },
+    {
+      "verse": 78,
+      "text": {
+        "S1": "\"Alas, he doesn't know it was I who saved his life,\" the little mermaid thought. A sigh was the only sign of her deep distress, for a mermaid cannot cry.",
+        "T1": "“ Maawe, tazi kuti ndime ndakamufutula,” kakayeeya katosi. Kumekula ncaakalikutondezya mbukatakkomana katosi nkaambo katosi takalili.",
+        "T2": "“Maawe, tazi kuti ndime ndakamufutula,” kakayeeya katosi. Kumekula ncaakalikutondezya mbukataakkomana katosi nkaambo katosi takalili."
+      }
+    },
+    {
+      "verse": 79,
+      "text": {
+        "S1": "Now rumors arose that the Prince was to wed the beautiful daughter of a neighboring King, and that it was for this reason he was having such a superb ship made ready to sail. The rumor ran that the Prince's real interest in visiting the neighboring kingdom was to see the King's daughter, and that he was to travel with a lordly retinue. The little mermaid shook her head and smiled, for she knew the Prince's thoughts far better than anyone else did.",
+        "T1": "Mavwambukila akalimvwisya koonse kuti mwana wamwami uyanda kukwata mwana wamwami wamunsi- munsi nkikaambo kaako wakalikupanga bwato bupati alimwi bubotu kulibambila kuyamba.Mavwambukila akainka aakuti mwana wamwami wakali kuyanda kuya kubona mwami nkaambo kamwana wamwami musimbi. Katosi kakatikanya mutwe akumweta mweta nkaambo kakalizi mwana wamwami ncaakali kuyeeya kwiinda muntu uuli oonse.",
+        "T2": "Mavwambukila akalimvisya koonse kuti mwana wamwami uyanda kukwata mwana wamwami wamunsi-munsi nkikaambo kaako wakali kupanga bwato bupati alimwi bubotu kulibambila kuyaamba. Mavwambukila akaunka akuti mwana wamwami wakli kuyanda kuya kubona mwami nkaambo kamwana wamwami musimbi. Katosi kakatikanya mutwe akumweta mweta nkaambo kakalizi mwana wamwami ncaakali kuyeeya kwiinda muntu uuli oonse."
+      }
+    },
+    {
+      "verse": 80,
+      "text": {
+        "S1": "\"I am forced to make this journey,\" he told her. \"I must visit the beautiful Princess, for this is my parents' wish, but they would not have me bring her home as my bride against my own will, and I can never love her. She does not resemble the lovely maiden who saved me, as you do, and if I were to choose a bride, I would sooner choose you, my dear mute foundling with those telling eyes of yours.\"",
+        "T1": "” Ndasungilizigwa kubweza lweendo oolu,” ndeelede kuswaya mwana wamwami musimbi mubotu,nkaambo nkokulombozya kwabazyali bangu,pesi inga teebandizumizya ku mweeta kungànda abemukaintu wangu kuti kanditayandi, alimwi inga teendamuyanda. Takozyani akasimbi kakandifutula mbuli mbomukozyanya aanduwe, alimwi kuti ndayanda kusala mukaintu wakukwata, inga ndfwambaana kusala nduwe ameso aako aayo mabotu.",
+        "T2": "“Ndasungilizigwa kubweza lweendo oolu,” wakaambila katosi. “Ndeelede kuswaya mwana wamwami musimbi mubotu nkaambo nkokulombozya kwabazyali bangu, pesi inga teebandizumizya ku mweeta kung’anda abemukaintu wangu kuti kanditayandi, alimwi inga teendamuyanda. Takonzyani akasimbi kakandifutula mbuli mbomukonzyanya anduwe, alimwi kuti ndayanda kusala mukaintu wakukwata, inga ndafwambaana kusala nduwe ameso aako aayo mabotu."
+      }
+    },
+    {
+      "verse": 81,
+      "text": {
+        "S1": "\"I trust you aren't afraid of the sea, ' he said, as they went on board the magnificent vessel that was to carry them to the land of the neighboring King. And he told her stories of storms, of ships becalmed, of strange deep-sea fish, and of the wonders that divers have seen. She smiled at such stories, for no one knew about the bottom of the sea as well as she did.",
+        "T1": "‘’Ndasyoma tuyoowi lwizi, wakaamba mbuli mbubakakkwela bwato bwakali kubatola kumwami simukobo. Wakamwaambila zyaano zinjaanji zyamumeenda nzyaakabona. Katosi kakamweta mweta kumvwa zyaano eezi nkaambo kwiina wakazi kunzi aameenda kwiinda nkako.",
+        "T2": "“Ndasyoma toyoowi lwizi,” wakaamba mbuli mbubakakkwela bwato bwakali kubatola kumwami simukobo. Wakamwaambila zyaano zinjanji zyamumeenda nzyaakabona. Katosi kakamweta mweta kumvwa zyaano eezi nkaambo kwiinaa wakazi kunze aameenda kwiinda nkako."
+      }
+    },
+    {
+      "verse": 82,
+      "text": {
+        "S1": "In the clear moonlight, when everyone except the man at the helm was asleep, she sat on the side of the ship gazing down through the transparent water, and fancied she could catch glimpses of her father's palace. On the topmost tower stood her old grandmother, wearing her silver crown and looking up at the keel of the ship through the rushing waves.",
+        "T1": "Masiku mweezi kautuba, boonse kaboonede, katosi kakakkala kumbali lya bwato kakalangilila mumeenda aakali kubalangala, kulaale kakali kubona munzi wabwami wawisi. Aatala lyangànda kakabona banyinakulu kabaimvwi, kabasamide mushini wabo wansiliva kabalangilila bwato kabwiinda mumayuwe.",
+        "T2": "Masiku mweezi kautuba, boonse kaboonede, katosi kakakkala kumbali lya bwato kakalangilila mumeenda aakali kubalangala, kulaale kakal kubona munzi wabwami wawisi. Atala lyang’anda kakabona banyinakulu kabaimvwi, kabasamide mushini wabo wansiliva kabalangilila bwato kabwiinda mumayuwe."
+      }
+    },
+    {
+      "verse": 83,
+      "text": {
+        "S1": "Then her sisters rose to the surface, looked at her sadly, and wrung their white hands. She smiled and waved, trying to let them know that all went well and that she was happy. But along came the cabin boy, and her sisters dived out of sight so quickly that the boy supposed the flash of white he had seen was merely foam on the sea.",
+        "T1": "Mpoona bana bakwabo basimbi bakazwida aanze, bakamulanga cakuusa, kakamwetamweta akubatambika kusola kubaambila kuti zyoonse zyakeenda biyo kabotu akuti kalikkomene. Kwakasika kasankwa kakazwa mukaanda kamubwato kaniini, aboobo bana bakwabo basimbi bakabbila mumeenda cakufwambaana cakuti kasankwa aakaya kakabona mbuli kuti kutuba ookuya lyakali covu lya mulwizi.",
+        "T2": "Mpoona bana bawabo basimbi bakazwida aanzze, bakamulanga cakuusa, kakamwetamweta akubatambika kusola kubaambila kuti zyoonse zyakeenda biyo kabotu akuti kalikkomene. Kwakasika kasankwa kakazwa mukaanda kamubwato kaniini, aboobo bana bakwabo basimbi bakabbila mumeenda cakufwambaana cakuti kasnkwa aakaya nkakabona mbuli kuti nkutuba ookuya lyakali covu lya mulwizi."
+      }
+    },
+    {
+      "verse": 84,
+      "text": {
+        "S1": "Next morning the ship came into the harbor of the neighboring King's glorious city. All the church bells chimed, and trumpets were sounded from all the high towers, while the soldiers lined up with flying banners and glittering bayonets. Every day had a new festivity, as one ball or levee followed another, but the Princess was still to appear. Then the Prince came to a realization.",
+        "T1": "Buzuba bwakatobela bwato bwakasika kucito camunzi wamwami simukobo. Milangu yoonse yamucikombelo yakalila, myeembo yakalila kumabazu oonse aamunzi, basilikani bakalifoola atuntimbwa tumweka. Buzuba abuzuba kwakali kuba zisobano zisiyene-siyene,pesi mwana wamwami musimbi taakaina kusika, aboobo mwana wamwami wakaliyeeyela.",
+        "T2": "Buzuba bwakatobela bwato bwakasika kucito camunzi wamwami simukobo. Milangu yoonse yamucikombelo yakalila, myeembo yakalila kumabazuoonse aamunzu, basilikani bakalifoola atuntimbwa tumweka. Buzuba abuzuba kwakali kuba zisobano zisiyene-siyene, pesi mwana wamwami musimbi taakaina kusika, aboobo mwana wamwami wakliyeeyela."
+      }
+    },
+    {
+      "verse": 85,
+      "text": {
+        "S1": "\"It was you!\" the Prince cried to the little mermaid. \"You are the one who saved me when I lay like a dead man beside the sea.\" He clasped the blushing bride of his choice in his arms. \"Oh, I am happier than a man should be!\" he told his little mermaid. \"My fondest dream - that which I never dared to hope - has come true. You will share in my great joy, for you love me more than anyone does.\" And with that, they departed without the Princess.",
+        "T1": "‘’ Nduwe!” wakalila mwana wamwami kukatosi. ‘’ nduwe nuwakandifutula nindakalede mbuli muntu uufwide kumbali lyalwizi. ‘’Wakamukumbata mwanakazi wakusala kwakwe mumaboko aakwe. ‘’ ah, ndikkomene citaambiki!” wakakaambila katosi kakwe. ‘’ Ciloto cangu cazuzika, tulakkomana antoomwe nkaambo ulandiyanda kwiinda muntu uuli oonse.” Aboobo bakapiluka kakwiina mwana wamwami musimbi.",
+        "T2": "“Nduwe!” wakalila mwana wamwami kukatosi. “Nduwe wakandifutula nindakalede mbuli muntu uufwide kumbali lyalwizi.” Wakamukumbata musimbi ngwaakalisalila mumaboko aakwe. “Oh, ndikkomene citaambiki!” wakakambila katosi kakwe. “ Ciloto cangu cazuzikizigwa, tulakkomana atoomwe nkaambo ulandiyanda kwiinda muntu uuli oonse” Aboobo, bakapiluka kakwiina mwana wamwami musimbi."
+      }
+    },
+    {
+      "verse": 86,
+      "text": {
+        "S1": "The little mermaid felt great joy in her heart. But knew inside that she was beginning to break. For although she had won the Prince’s heart, the morning after his wedding day fate would see her dead and turned to watery foam.",
+        "T1": "Katosi kakakkomana mumoyo. Pesi mumoyo kakalizi kuti nokuba kuti kazunda luyando lwamana wamwami , buzuba butobla kwamana mucado wabo kayoofwa akujokela kucovu lyamumeenda.",
+        "T2": "Katosi kakakkomana mumoyo. Pesi mumoyo kakalizi kuti nokuba kuti kazunda luyando lwa mwana wamwami, mafumofumo aatobela wamana mucado wabo kayoofwa akujokela kucovu lyameenda."
+      }
+    },
+    {
+      "verse": 87,
+      "text": {
+        "S1": "All the church bells rang out, and heralds rode through the streets to announce the wedding. Upon every altar sweetscented oils were burned in costly silver lamps. The priests swung their censers, the little mermaid and the the Prince joined their hands, and the bishop blessed their marriage. The little mermaid, clothed in silk and cloth of gold, did not understand the wedding march and was blind to the holy ritual. Her thoughts turned on her last night upon earth, and on all she had lost in this world despite winning the Prince’s hand.",
+        "T1": "Muzikombelo zyoonse milangu yalukwato yakalila. Mumasena oonse tununkilizyo twakaumpwa mumalampe aansiliva aadula. Ba paizi bakabnyamuna nkomesi yatununkilizyo,mpoona katosi amwana wamwami bakajatana maanza, mpoona mupaizi wakaleleka cikwati cabo. Katosi kakasamide zisani zyangolide, teekakazi milawo yacikwati yamucikombelo. Mizeezo yako yakayeeya kuti sunu mbuzuba bwakwe bwamamanino aanyika,azyoonse nzyaakasowa munyika oomu nokuba kuti wakawina moyo wamwana wamwami.",
+        "T2": "Muzikombelo zyoonse milangu yakalila. Mumasena oonse tununkilizyo twakaumpwa mumalampe aansiliva aadula. Ba paizi bakanyamuna nkomesi yatununkilizyo, mpoona katosi amwana wa mwami bakajatana maanza, mpoona mupaizi wakaleleka cikwati cabo. Katosi, kakasamide zisani zyangolide, teekakazi milawo ya cikwati yamucikombelo. Mizeezo yako yakayeeya masiku aamamanino munyika, azyoonse nzyaakasowa munyika oomu nokuba kuti wakazunda moyo wamwana wamwami."
+      }
+    },
+    {
+      "verse": 88,
+      "text": {
+        "S1": "That same evening, the little mermaid and bridegroom went aboard the ship. Cannon thundered and banners waved. On the deck of the ship a royal pavilion of purple and gold was set up, and furnished with luxurious cushions. The sails swelled in the breeze, and the ship glided so lightly that it scarcely seemed to move over the quiet sea. All nightfall brightly colored lanterns were lighted, and the mariners merrily danced on the deck. The little mermaid could not forget that first time she rose from the depths of the sea and looked on at such pomp and happiness. Light as a swallow pursued by her enemies, she joined in the whirling dance. Everyone cheered her, for never had she danced so wonderfully. Her tender feet felt as if they were pierced by daggers, but she did not feel it. Her heart suffered far greater pain. She knew that this was the last evening that she ever would see the Prince for whom she had forsaken her home and family, for whom she had sacrificed her lovely voice and suffered such constant torment, while he knew nothing of all these things.",
+        "T1": "Mangolezya ngoona aalya katosi asibwiinga bakakkwela bwato.Ndembela zyakalengelela. Bwato bwakabambwa-bwambwa azifwanikisyo zinjaanji zyansiliva angolide. Bantu bakazyana zizyono zisiyene-siyene. Katosi teekakaluba buzuba bwakutaanguna mbukakazwa kunsi aameenda cakukkomana. Mukukkomana kakasangana mukuzyana. Boonse bakamukambilila nkaambo kwiina naakazyanide boobu. Matende aakwe mateteete akalikubaanga wayaswa pesi wakapa kuti apenge kapati, nokuba kuti wakali kulimvwa.Moyo wakwe wakacisa nkaambo wakalizi kuti oobo mbobuzuba bwamamanino kubona busyu bwamwana wamwami wakapa kuti asiye mukwashi wakwe, wakapa kuti aabe jwi lyakwe libotu, wakapa kuti apenge kapati,nokuba kuti taakazi zyoonse eezi .",
+        "T2": "Mangolezya ngoona aalya katosi asibbwiinga bakakkwela bwato. Ndeembela zyakalengelela. Bwato bwakabambw-bambwa azifwanikisyo zinjaanji zyansiliva angolide. Bantu bakazyana zizyano zisiyene-siyene. Katosi teekakaluba buzuba bwakutaanguna mbukakazwa kunsi ameenda cakukkomana. Mukukkomana kakasangana mukuzyana. Boonse bakamukambila nkaambo kwiina naakazyanide boobu. Matende aakwe mateteete akali kubaanga wayaswa, pesi taakali kulimvwa. Moyo wakwe wakacisa nkaambo wakalizi kuti oobo mbobuzuba bwamamanino kubona busyu bwamwana wamwami wakapa kuti asiye mukwashi wakwe, wakapa kuti aabe jwi lyakwe libotu, wakapa kuti apenge kapati, nokuba kuti taakazi zyoonse eezi."
+      }
+    },
+    {
+      "verse": 89,
+      "text": {
+        "S1": "It was the last night that she would breathe the same air with him, or look upon deep waters or the star fields of the blue sky. A never-ending night, without thought and without dreams, awaited her who had no soul and could not get one. The merrymaking lasted long after midnight, yet she laughed and danced on despite the thought of death she carried in her heart.",
+        "T1": "Akali mansiku aamamanino aakuyoya muuya omwe amwana wamwami, olo kulanga meenda olo kubona julu. Busiku butamani butakwe ciloto nokuba mizeezo, kulindila uutakwe muuya alimwi takonzyi kujana olo omwe.Kusobana kwakazumanana kusikila aakati kamansiku, katosi kakaseka akuzyana nokuba mizeezo yalufu njikakajisi mumoyo.",
+        "T2": "Akali masiku aamamanino aakuyoya muuya omwe amwana wamwami, olo kulanga meenda naa nkubona julu. Busiku butamani butakwe ciloto nokuba mizeezo, kulindila uutakwe muuya alimwi takonzyi kujana nokuba omwe. Kusobana kwakazumanana kusikila akti kamasiku, katosi kakaseka akuzyana nokuba kuti kakajisi mizeezo yalufu mumoyo."
+      }
+    },
+    {
+      "verse": 90,
+      "text": {
+        "S1": "A hush came over the ship. Only the helmsman remained on deck as the little mermaid weakly leaned her arms on the bulwarks and looked to the east to see the first red hint of daybreak, for she knew that the first flash of the sun would strike her dead. Then she saw her sisters rise up among the waves. They were as pale as she, and there was no sign of their lovely long hair that the breezes used to blow. It had all been cut off.",
+        "T1": "Bwato bwakaumuna. Kwakasyaala biyo namutekenya wabwato mubwato katosi mbukakayaama kubwato akulanga kujwe kuti abone mbukuca, nkaambo wakalizi kuti mumuni wazuba wakutaanguna ulamujaya. Mpoona kakabona bana bakwabo basimbi kabazwa mumayuwe.Bakaluuside mbuli nguwe, amasusu aabo malamfu taakaciliko. Oonse akaligeledwe",
+        "T2": "Bwato bwakaumuna. Kwakasyaala biyo namutekenya wabwato mubwato katosi nokakayaama kubwato akulanga kujwe kuti kabone mbokuca, nkaambo kakalizi kuti mumuni wazuba wakutaanguna ulakajaya. Mpoona kakabona bana bakwabo basimbi kabazwa mumayuwe. Bakaluuside mbuli nguwe, amasusu aabo malamfu taakaciliko. Oonse akaligeledwe."
+      }
+    },
+    {
+      "verse": 91,
+      "text": {
+        "S1": "'We have given our hair to the witch,\" they said, \"she tricked you. You cannot achieve an immortal soul from marrying the Prince.. we begged and pleaded so she gave us a knife. Here it is. See how sharp the blade is! Before the sun rises, you must strike it into the Prince's heart, and when his warm blood bathes your feet they will grow together and become a fish tail. Then you will be a mermaid again, able to come back to us in the sea, and live out your three hundred years before you die and turn into dead salt sea foam. Make haste! Either he or you must die before sunrise. Our old grandmother is so grief-stricken. Her hair is falling fast, just as ours did under the witch's scissors. Kill the Prince and come back to us. Hurry! Hurry! See that red glow in the heavens! In a few minutes the sun will rise and you must die.\" So saying, they gave a strange deep sigh and sank beneath the waves.",
+        "T1": "“ Masusu eesu twapa mulozi,” wakakubeja. Inga teewajana muuya uutafwi kwiinda mukukwatwa kumwana wamwami.........twakombelezya mpoona watupa cipeni. Nceeci. Kobona mbocibosya! Zuba kalitanazwa weelede kumuyasa aamoyo mwana wamwami, bulowa bwakwe bwakunka aamatende aako alaswaangana akuba mucila wanswi alimwi. Mpoona ulaba katosi alimwi, ulajokela alimwi kunsi aameenda akukkala antoomwe andiswe, akukkala myaka iili myeelwe yotatwe alimwi kutanafwa kuti ube munyo wamumeenda. Fwambaana, alinduwe olo nguwe omwe weelede kufwa zuba kalitanazwa. Bakaapa balinyemede. Masusu aabo alazutauka kufwambaana mbuli mbwaazutauka eesu mumaanza aakagele kamulozi. Mujaye mwana wamwami kutegwa ujokele kulindiswe. Fwambaana! Bona bbundibundi kujulu! Mukaindi kasyoonto zuba lilazwa mpoona ulafwa. Nibakamana kwaamba boobu kakabbila kunsi aamayuwe.",
+        "T2": "“Masusu eesu twapa mulozi,” bakaamba, “wakakubeja. Inga teewajana muuya uutafwi kwiinda mukukwatwa kumwana wamwami.. twakakombelezya mpoona watupa cipeni. Nceeci. Kobona mbocibosya! Zuba kalitanazwa weelede kumuyasa amoyo mwana wamwami, bulowa bwakwe bwakunka amatende aako alaswaangana akuba mucila wanswi alimwi. Mpoona ulaba katosi alimwi, ulajokela alimwi kunsi aameenda akukkala antoomwe andiswe. Akukkala myaka iili myeelwe yotatwe alimwi kutanafwa kuti ube munyo wamumeenda. Fwambaana, ali nduwe anguwe omwe welede kufwa zuba kalitanazwa. Bakaapa balinyemede. Masusu aabo alazutauka kufwambaana mbuli mbwazutauka eesu mumaanza akagele kamulozi. Mujaye mwana wamwami kutegwa ujokele kulindiswe. Fwambaana! Bona bbundibundi kujulu! Mukaindi kasyoonto zuba lilazwa mpoona ulafwa.” Nibakamana kwaamba boobu bakabbila kunsi aamayuwe."
+      }
+    },
+    {
+      "verse": 92,
+      "text": {
+        "S1": "The little mermaid parted the purple curtains of the tent and saw the beautiful Prince asleep. The mermaid bent down and kissed his shapely forehead. She looked at the sky, fast reddening for the break of day. She looked at the sharp knife and again turned her eyes toward the Prince, who in his sleep murmured the little mermaid’s name over and over. His thoughts were all for her, and the knife blade trembled in the mermaid's hand. Unable to kill the Prince, she threw it, far out over the waves. Where it fell the waves were red, as if bubbles of blood seethed in the water. With eyes already glazing she looked once more at the Prince, and hurled herself over the bulwarks into the sea, and felt her body dissolve in foam.",
+        "T1": "Katosi kakabbenuna mulembo akubona mwana wamwami kalede.Katosi kakafugama akumumyonta mwana wamwami aankumo. Kakalanga kujulu mbukwakali kuyanda kuca. Kakalanga cipeni cibosya alimwi walanga mwana wamwami, wakali kulota katosi.Mizeezo yakwe yoonse yakali yakatosi, cipeni cakapuzumuka mumaboko aakatosi. Kaalilwa kumujaya mwana wamwami, kakacisowela kulaale mumayuwe cipeni. Mpucakawida cipeni mayuwe akaile kusubila mbuli kuti mbulowa. Ameso kaalangide kale wakalangisisya mwana wamwami, kakaliwaalila mumeenda, kakamvwa mubili wako kauyaaya kuba covu.",
+        "T2": "Katosi kakabbenuna mulembo akubona mwana wamwami kalede. Katosi kakafugama akumumyonta mwna wamwami aankumo. Kakalanga kujulu mbukwakali kuyanda kuca. Kakalanga cipeni cibosya alimwi kalanga mwana wamwami, wakali kulota katosi. Mizeezo yakwe yoonse yakali yakatosi, cipeni cakapuzumuka mumaboko aakatosi. Kakaalilwa kumujaya mwana wamwami, kakasowela cipeni kulaale mumayuwe. Mpucakawida cipeni mayuwe akaile kusubila mbuli kuti mbulowa. Ameso kaalangide kale kakalangisisya mwana wamwami, kakaliwaalila mumeenda, kakamvwa mubili wankako kuyaaya kuba covu."
+      }
+    },
+    {
+      "verse": 93,
+      "text": {
+        "S1": "The sun rose up from the waters. Its beams fell, warm and kindly, upon the chill sea foam, and the little mermaid did not feel the hand of death. In the bright sunlight overhead,she saw hundreds of fair ethereal beings. They were so transparent that through them she could see the ship's white sails and the red clouds in the sky. Their voices were sheer music, but so spirit-like that no human ear could detect the sound, just as no eye on earth could see their forms. Without wings, they floated as light as the air itself. The little mermaid discovered that she was shaped like them, and that she was gradually rising up out of the foam.",
+        "T1": "Izuba lyakazwa mumeenda. Mumuni walyo wakabala aatala lya lwizi, katosi tiikakalimvwa janza lya lufu. Kakabona zilengwa leza zinjaanji. Zyakali kubalangala cakuti muli nzizyo kakabona banamutekenya ba bwato amakumbi aasalala. Majwi aabo akali mbuli nyimbo, pesi kazili mbuli myuuya cakuti kunyina muntu susu wakali kukonzya kumvwa majwi nokuba kubabona ziwa. Kabatakwe mapepe bakauluka mbuli muuwo. Katosi kakabona kuti kakapangidwe mbuli mbabo, alimwi asyoonto-syoonto kakalikunyamuka kuzwa mucovu.",
+        "T2": "Izuba lyakazwa mumeenda. Mumuni walyo wakabala aatala lya lwizi, katosi tiikakalimvwa janza lya lufu. Kakabona zilengwa Leza zinjaanji. Zyakali kubalangala cakuti muli nzinzyo kakabona banamutekenya ba bwato amakumbi aasalala. Majwi aabo akali mbuli nyimbo, pesi kazili mbuli myuuya cakuti kunyina muntu susu wakali kukonzya kumvwa majwi nokuba kubabona ziwa. Kabatakwe mapepe bakauluka mbuli muwo. Katosi kakabona kuti kakapangidwe mbuli mbabo, alimwi aasyoonto-syoonto kakali kunyamuka kuzwa mucovu."
+      }
+    },
+    {
+      "verse": 94,
+      "text": {
+        "S1": "'Who are you, toward whom I rise?\" she asked, and her voice sounded like those above her, so spiritual that no music on earth could match it.",
+        "T1": "‘’ Nduwe ni , nooboola kwebede?’’ kakabuzya, alimwi jwi lyako lyakalimvwisya mbuli lyabaabo balaatala lyako, lyamyuuya cakuti kwiina nyimbo yaatala aanyika yakali kukonzya kulikozyanisya.",
+        "T2": "“Nduwe ni, ooboola nkwebede?” wakabuzya, alimwi jwi lyakwe lyakalimvwisya mbuli lyabaabo bali aatala lyakwe, lyamyuuya cakuti kwiina nyimbo yaatala aanyika yakali kukonzya kulikonzyanisya."
+      }
+    },
+    {
+      "verse": 95,
+      "text": {
+        "S1": "\"We are the daughters of the air,\" they answered. \"A mermaid has no immortal soul, and can never get one unless she wins the love of a human being. Her eternal life must depend upon a power outside herself. The daughters of the air do not have an immortal soul either, but they can earn one by their good deeds. We fly to the south, where the hot poisonous air kills human beings unless we bring cool breezes.",
+        "T1": "“ Tuli bana bamumuwo,” bakavwiila. ‘’ katosi takakwe muuya uutafwi, alimwi inga tiikabweza cita kuti kakoma luyando lwamuntu. Buumi bwako bwamoongole bweelede kuzwa kunguzu zili aanze aankako, bana bamuuwo abalo tabakwe buumi bwamoongole, pesi inga bajana buumi bwamoongole kwiinda mumicito yabo mibotu. Tuulukila kumusanza ooko kuli muwo uupya uulaabusaki bujaya bantu cita kuti twatola muwo uutontola.",
+        "T2": "“Tuli bana bamumuwo,” bakavwiila. “Itosi talikwe muuya uutafwi, alimwi inga tiilyaujana cita kuti lyakoma luyando lwamwamuntu. Buumi bwawo bwamoongole, pesi inga baja buumi bwamoongole kwiinda mumicito yabo mibotu. Tuulukila kumusanza ooko kuli muwo uupya uulaabusaki bujaya bantu cita kuti twatola muwo uutontola."
+      }
+    },
+    {
+      "verse": 96,
+      "text": {
+        "S1": "We carry the scent of flowers through the air, bringing freshness and healing balm wherever we go. When for three hundred years we have tried to do all the good that we can, we are given an immortal soul and a share in mankind's eternal bliss. You, poor little mermaid, have tried with your whole heart to do this too. Your suffering and your loyalty have raised you up into the realm of airy spirits, and now in the course of three hundred years you may earn by your good deeds a soul that will never die.\"",
+        "T1": "Tubweza kununkilila kwamaluba kwiinda mumuwo, kweeta kuponezegwa akukubulusya kufumbwa nkotwainka. Mumyaka iili myeelwe yotatwe twasola kucita bubotu buli boonse mbotukonzya, tulipedwe muuya uutafwi acibeela mubuumi bwabantu bwamoongole. Yebo okatosi wasoleka amoyo wako oonse kucita boobu. Ikupenga kwako akulitola aansi kwako kwakusumpula mujulu kumyuuya, ino mumyaka iili myeelwe yotatwe inga wajana kwiinda mumilimo mibotu muuya uutakafwi.",
+        "T2": "Tubweza kununkkilila kwamaluba kwiinda mumuwo, kweeta kuponezegwa akukubulusya kufumbwa nkotwainka. Mu myaka iili myeelwe yotatwe twasola kucita bubotu buli boonse mbotukonzya, tulipedwe muuya uutafwi acibeela mubuumi bwabantu bwamoongole. Yebo ookatosi wasoleka amoyo wako oonse kucita boobu. Ikupenga kwako akulitola aansi kwako kwakusumpula mujulu kumyuuya, ino mu myaka iili myeelwe yotatwe inga wajana kwiinda mumilimo mibotu muuya uutakafwi."
+      }
+    },
+    {
+      "verse": 97,
+      "text": {
+        "S1": "The little mermaid lifted her clear bright eyes toward the sun, and for the first time her eyes were wet with tears. On board the ship all was astir and lively again. She saw the Prince in search of her. Then he gazed sadly into the seething foam, as if he knew she had hurled herself into the waves. Unseen, she kissed the prince’s forehead, smiled, and rose up with the other daughters of air to the rose-red clouds that sailed on high.",
+        "T1": "Katosi kakalanga ameso aankako aabalangala kuzuba, muciindi cakutaanguna meso aankako akazula misozi. Kulaale kakabona bwato. Kakabona mwana wamwami kakayandaula. Mpoona wakalanga mukuusa mu covu, mbuli kuti wakalizi kuti kakalifusilide mumayuwe. Cakutaboneka kakamumyonta aankumo mwana wamwami, kamweta-mweta akuuluka antoomwe abamwi bana bamumuuwo kuya mumakumbi aasalala mujulu.",
+        "T2": "Katosi kakalanga ameso aankako aabalangala kuzuba, muciindi cakutaanguna meso aankako akazula misozi. Kulaale kakabona bwato. Kakabona mwana wamwami kakayandaula. Mpoona wakalanga mukuusa mu covu, mbuli kuti waklizi kuti kakalifusilidwe mumayuwe. Cakutaboneka kakamumyonta aankumo mwana wa mwami, kamweta-mweta akuuluka antoomwe abamwi bana bamumuwo kuya mumakumbi aasalala mujulu."
+      }
+    },
+    {
+      "verse": 98,
+      "text": {
+        "S1": "\"This is the way that we shall rise to the kingdom of God, after three hundred years have passed.\"",
+        "T1": "‘’ Mbubona oobu mbotutikauluke kuya kuli Leza, yaakwiinda myaka iili myeelwe yotatwe.",
+        "T2": "“Mbubona oobu mbotutikauluke kuya kuli Leza, yaakwinda myaka iili myeelwe yotatwe."
+      }
+    },
+    {
+      "verse": 99,
+      "text": {
+        "S1": "\"We may get there even sooner,\" one spirit whispered. \"Unseen, we fly into the homes of men, where there are children, and for every day on which we find a good child who pleases his parents and deserves their love, God shortens our days of trial. The child does not know when we float through his room, but when we smile at him in approval one year is taken from our three hundred. But if we see a naughty, mischievous child we must shed tears of sorrow, and each tear adds a day to the time of our trial.\"",
+        "T1": "“ Ndiza inga twafwambaana akusika,’’ umwi muuya wakavwiya vwiya. ‘’ cakutaboneka tuulukile mung`anda yabantu muli bana, mubuzuba abuzuba mbutwajana mwana uuli kabotu uukkomanisya bazyali bakwe alimwi weelede luyando lwabo, Leza ulafwiinsya mazuba eesu amasunko.Mwana tazi notunjila muzyuli lyakwe, pesi nitwamusekela mukuzumizya mwaka omwe ulagusigwa mumyeelwe yotatwe. Pesi kuti twabona mwana uutamvwi, uulanciki tweelede kusinda misozi yabuumba, mpoona imisozi amizozi ilailika buzuba bomwe kuciindi cesu cakusunkwa.’’",
+        "T2": "“Ndiza inga twafwambaana akusika,” umwi muuya wakavwiya-vwiya. “Cakutaboneka tuulukile mung’anda yabantu muli bana, muzuba abuzuba mbutwajana mwana uuli kabotu uukkomanisya bazyali bakwe alimwi weelede luyando lwabo Leza ulafwiinsya mazuba eesu amasunko. Mwana tazi notunjila muzyuli lyakwe, pesi kuti twabona mwana uutamvwi, uulanciki tweelede kusinda misozi yabuumba, mpoona misozi amisozi ilailika buzubz bomwe kuciindi cesu cakusunkwa.”"
+      }
+    }
+  ]
+}
