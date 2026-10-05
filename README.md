@@ -19,7 +19,7 @@ This nested verse structure explicitly preserves translation variants and human-
 
 This dataset was compiled to bridge the gap in machine-readable linguistic resources for Zambian languages, fostering both technological accessibility and educational equity.
 
-Special acknowledgment is given to the dedicated translation team—including Musonda Chikula, Yowela Mayeba, Malambo Albert K., and Chilufya Kasonde—for their foundational work in localizing these texts.
+Special acknowledgment is given to the dedicated translation team—including Musonda Chikula, Yowela Mayeba, Malambo Albert K., Chilufya Kasonde, Agnes Nankhoma Singine Nyendwa, Clarence K. Phiri, Sepiso Sepiso, Sir. Uyoya Wamuwi, Sir. Muleta Mubita, and Edina N. Kazadi — for their formative work in localizing these subjects.
 
 ## Data Access & Source Files
 
