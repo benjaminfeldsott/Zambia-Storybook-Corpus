@@ -135,8 +135,8 @@ class BilingualCorpusParser
   end
 end
 
-source_base = "/Users/feldsottbenjamin/Documents/Banda Docs RESEARCH"
-target_base = "/Users/feldsottbenjamin/Documents/Banda RESEARCH"
+source_base = "/Users/RESEARCH/"
+target_base = "/Users/DATASET/"
 language_folders = ["Chinyanja", "Ichibemba", "Sitonga", "Silozi"]
 
 parser = BilingualCorpusParser.new(source_base, target_base, language_folders)
