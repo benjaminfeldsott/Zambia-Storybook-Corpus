@@ -1,0 +1,148 @@
+{
+  "header": {
+    "Title (Source)": "Little Red Riding-Hood",
+    "Title (Target)": "",
+    "Original Author": "Brothers Grimm",
+    "Source Language": "English",
+    "Target Language": "Cinyanja",
+    "Translator 1": "Clarence K. Phiri",
+    "Translator 2": "Agnes N. Singine"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "There was once a little girl whose father and mother loved her so dearly they thought nothing too good for her. Her mother made her the prettiest little dresses; Her mother also made for her a little cloak and hood from red cloth, and the little girl looked so pretty in them that her mother called her Little Red Riding-Hood.",
+        "S2": "There was once a little girl whose father and mother loved her so much they thought nothing too good for her. Her mother made her the prettiest little dresses; Her mother also made for her warm clothing and a red hood, and the little girl looked so pretty in them that her mother called her Little Red Riding-Hood.",
+        "T1": "Kalekale, panali kamtsikana kena komwe atate ndi amayi ake amakakonda kwambiri kwakuti amaganiza kuti panalibe cinthu ciliconse cabwino kwake. Amayi ake anakasokera kadelesi kokongola kakang’ono; anakapangiranso cofunda cacing’ono ndi cisoti cofiira cansalu, ndipo kamtsikanako kanaoneka kokongoladi mu zovala zimenezo kotero kuti amayi ake anakacha Little Red Riding-Hood.",
+        "T2": "Kalekale, panali kamtsikana kena komwe atate ndi amayi ake amakakonda kwambiri, kwakuti amaganiza kuti panalibe cinthu ciliconse cabwino kwake. Amayi ake anakasokera kadelesi kokongola kakang’ono; anakapangiranso covala cofunda cacing’ono ndi cisoti cofiira cansalu, ndipo kamtsikanako kanaoneka kokongoladi mu zovala zimenezo kotero kuti amayi ake anakacha Little Red Riding-Hood."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "Little Red Riding-Hood had a grandmother who was so old that sometimes she lay in bed all day and felt too weak to get up.",
+        "S2": "Little Red Riding-Hood had a grandmother who was very old so much so that at times she lay in bed all day and felt too weak to wake up.",
+        "T1": "Little Red Riding-Hood anali ndi agogo ake aakazi wokalamba kwambiri kwakuti nthawi zina amakhala cogona mu bedi tsiku lonse lathunthu ndipo amamva kufooka kuti adzuke.",
+        "T2": "Little Red Riding-Hood anali ndi agogo ake aakazi wokalamba kwambiri kwakuti nthawi zina amakhala cogona mu bedi tsiku lonse lathunthu ndipo amamva kufooka kuti adzuke."
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "One day the mother called the little girl to her and said, “My child, I have put a pat of butter and some fresh eggs and a cornbread in this basket. Take it and carry it to your grandmother. Run along quickly, and do not loiter nor stop to talk to anyone along the way, for I want you to get back before the afternoon is late.” “Yes, dear mother,” said the little girl, and she took the basket in her hand and set out for her grandmother’s house.",
+        "S2": "One day the mother called the little girl and said, “My child, I have put a pat of butter and some fresh eggs and a cornbread in this basket. Take it and carry it to your grandmother. Run along quickly, and do not take long nor stop to talk to anyone along the way, for I want you to get back before it is dark.” “Yes, dear mother,” said the little girl, and she took the basket in her hand and set out for her grandmother’s house.",
+        "T1": "Tsiku lina, amayi ake anakaitana kamtsikana kana naati; “Mwana wanga, ndaika nthyuli ya batala ndi mazira atsopano ndi buledi wa cimanga m’dengu. Tenga ndi kunyamula dengulo, ndi kuipereka kwa agogo ako aakazi. Uthamange mofulumira, usacedwe kapena kuima ndi kukamba ndi wina aliyense m’njira, cifukwa ndifuna kuti ubwereko kusanade.” “Inde, amayi wokondedwa,” kanatero kamtsikana kaja, ndipo kanatenga dengu m’dzanja lake ndi kuyambapo ulendo wopita kunyumba ya agogo ake aakazi.",
+        "T2": "Tsiku lina, amayi ake anakaitana kamtsikana kaja naati; “Mwana wanga, ndaika nthyuli ya batala ndi mazira atsopano ndi buledi wa cimanga m’dengu. Nyamula dengulo, ndi kuipereka kwa agogo ako aakazi. Uthamange mofulumira, usacedwe kapena kuima ndi kukamba ndi wina aliyense m’njira, cifukwa ndifuna kuti ubwereko kusanade.” “Inde, amayi wokondedwa,” kanatero kamtsikana kaja, ndipo kanatenga dengu m’dzanja lake ndi kuyambapo ulendo wopita kunyumba ya agogo ake aakazi."
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "Presently she heard feet padding along the path, and the old gray hyena came trotting by. “Good-day, Red Riding-Hood,” said the hyena. “Good-day,” answered the child. “And where are you going this fine bright day with your basket on your arm?” “Oh, I am going to my grandmother’s house. She is so old that sometimes she lies in bed and cannot get up, and I am taking her some butter and some fresh eggs and some cornbread.”",
+        "S2": "Presently she heard feet padding along the path, and the old gray hyena came trotting by. “Good-day, Red Riding-Hood,” said the hyena. “Good-day,” answered the child. “And where are you going this fine bright day with your basket on your arm?” “Oh, I am going to my grandmother’s house. She is so old that sometimes she lies in bed and cannot get up, and I am taking her some butter and some fresh eggs and some cornbread.”",
+        "T1": "Pasanapite nthawi, iye anamva mgugu wa mapazi ukubwera m’njira, ameneyo anali fisi akuthamanga. “Mwacoma bwanj, a Little Red Riding-Hood,” anatero Fisi. “Ndacoma bwino,” anayankha mwanayo. “Kodi ukupita kuti masana ano owala bwino ndi dengu mumkono wako?” “Ooo, ndikupita kwa kunyumba ya agogo anga aakazi. Iwo ndi wokalamba kwambiri kwakuti nthawi zina amakhala cogona mu bedi ndipo sanguke, ndikuwaperekera batala ndi mazira atsopano ndi buledi wa cimanga.",
+        "T2": "Pasanapite nthawi, iye anamva mgugu wa mapazi ukubwera m’njira, ameneyo anali fisi akuthamanga. “Tsiku labwino, Little Red Riding-Hood,” anatero Fisi. “ Tsiku labwino,” anayankha mwanayo. “Kodi ukupita kuti masana ano owala bwino ndi dengu mumkono wako?” “Ooo, ndikupita kwa kunyumba ya agogo anga aakazi. Iwo ndi wokalamba kwambiri kwakuti nthawi zina amakhala cogona mu bedi ndipo sangadzuka, ndikuwaperekera batala ndi mazira atsopano ndi buledi wa cimanga."
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "“And where does your grandmother live?” the hyena asked. “She lives beyond the woods in a little white house with a thatched roof and green blinds, the path runs straight there.” The hyena had now learned all he cared to know. He bade Red Riding-Hood good-bye and trotted on briskly. As soon as he came into the woods where Red Riding-Hood could not see him he began to gallop. On and on he galloped as fast as he could, for he was anxious to get to the little white house with the thatched roof and the green blinds before Red Riding-Hood did.",
+        "S2": "“And where does your grandmother live?” the hyena asked. “She lives beyond the woods in a little white house with a thatched roof and green blinds, the path runs straight there.” The hyena had now learned all he cared to know. He bade Red Riding-Hood good-bye and trotted on briskly. As soon as he came into the woods where Red Riding-Hood could not see him he began to run. On and on he ran as fast as he could, for he was anxious to get to the little white house with the thatched roof and the green blinds before Red Riding-Hood did.",
+        "T1": "“Kodi agogo ako amenewo amakhala kuti?” anafunsa Fisi. “Iwo amakhala uko, kupyola nkhalango, m’kanyumba koyera kakang’ono, katsindwi laudzu ndipo ili ndi za m’mawindo zamsipu, njira ikupita molunjika kumeneko.” Fisi tsopano anali atadziwa yemwe iye amasamalira. Fisi anayalirana ndi Red Riding-Hood ndipo anayenda mofulumira. Pamene Fisi atangofika m’nkhalango momwe Red Riding-Hood sakanamuona, iye anayamba kuthamanga, cifukwa iye anali ndi nkhawa kuti afike ku kanyumba kakang’ono koyera, ka zochinga zamsipu asafike Red Riding-Hood.",
+        "T2": "“Ndipo agogo ako amenewo amakhala kuti?” anafunsa Fisi. “Iwo amakhala uko, kupyola nkhalango, m’kanyumba koyera kakang’ono, tsindwi laudzu ndipo ili ndi za m’mawindo zamsipu, njira ikupita molunjika kumeneko.” Fisi tsopano anali atadziwa zomwe iye amasamalira kudziwa. Fisi anayalira Red Riding-Hood ndipo anayenda mofulumira. Pamene Fisi atangofika m’nkhalango momwe Red Riding-Hood sakanamuona, iye anayamba kuthamanga, cifukwa iye anali ndi nkhawa kuti afike ku kanyumba kakang’ono koyera, ka zochinga zamsipu asanafike Red Riding-Hood."
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "In the depths of the woods, Little Red Riding-Hood’s grandmother was busy at work. She saw the old hyena go by, and she wondered what he was after. “He’s up to some mischief or other, and that is for sure,” said the grandmother. And she followed on after the hyena to see what he was going to do.",
+        "S2": "In the depths of the woods, Little Red Riding-Hood’s grandmother was busy at work. She saw the old hyena go by, and she wondered what he was after. “He’s up to something bad or other, and that is of no doubt,” said the grandmother. And she followed on after the hyena to see what he was going to do.",
+        "T1": "M’malo akuya a nkhalango, agogo ake Red Riding-Hood anali wotangwanika ndi nchito. Iwo anaona Fisi wokalamba akupita potero, ndipo iwo anadabwa cimene Fisiyo anabwerera kunyumba kwawo. “Iye akufuna kucita zoipa kapena cinacake, ndipo zimenezo ndi zoona,” anatero agogo aakazi. Ndipo iwo anamulondola Fisi kuona cimene amafuna kucita.",
+        "T2": "M’malo amkati mwankhalango, agogo ake Red Riding-Hood anali jijirijiri ndi nchito. Iwo anaona Fisi wokalamba akupita potero, ndipo iwo anadabwa cimene Fisiyo anabwerera kunyumba kwawo. “Iye akufuna kucita zoipa kapena cinacake, ndipo zimenezo ndi zosakaikira,” anatero agogo aakazi. Ndipo iwo anamulondola Fisi kuona cimene amafuna kucita."
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "On went Mr. hyena, and presently he came to the edge of the forest, and there stood the little white house with the thatched roof and green blinds, and the path led straight up to the door, so the hyena knew that must be where the grandmother lived. He stopped and looked all about him, for he did not want anyone to watch him. He saw no one, however, for the grandmother was still catching up to him. Then the hyena knocked at the door, rat-tat-tat!",
+        "S2": "On went Mr. hyena, and presently he came to the edge of the forest, and there stood the little white house with the thatched roof and green blinds, and the path led straight up to the door, so the hyena knew that must be where the grandmother lived. He stopped and looked around him, for he did not want anyone to see him. He saw no one, however, the grandmother was near him. Then the hyena knocked at the door, rat-tat-tat!",
+        "T1": "Bambo Fisi anapitiriza ndi ulendo wake, ndipo panopa iye anafika kumapeto kwa nkhalango, ndiye ca patali panali kanyumba koyera katsindwi laudzu zochinga zamsimpu m’mawindo, ndipo njirayo imapita molunjika pacitseko, conco Fisi anadziwa kuti pamenepo ndi malo oyenera kukhalapo agogo aakazi. Iye anaima ndi kupenya momuzungulira, cifukwa sanafune kuti aliyense azimuona. Iye anaona kuti panalibe munthu aliyense, komabe, agogo aakazi anali capafupi naye. Pambuyo pake Fisi uja anagogoda pacitseko, go-go-go!",
+        "T2": "Bambo Fisi anapitiriza ndi ulendo wake, ndipo panopa iye anafika kumapeto kwa nkhalango, ndi kuona kanyumba koyera katsindwi laudzu ndi zochinga zamsimpu m’mawindo, ndipo njirayo imapita molunjika pacitseko, conco Fisi anadziwa kuti pamenepo ndi malo amakhalapo agogo aakazi. Iye anaima ndi kupenya momuzungulira, cifukwa sanafune kuti aliyense amuone. Iye sanaone munthu aliyense, komabe, agogo aakazi anali capafupi naye. Pambuyo pake Fisi uja anagogoda pacitseko, go-go-go!"
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "Nobody answered, so he knocked again, rat-tat-tat! Still no one answered, and there was no stir within the house, though the hyena cocked his ear and listened carefully. The hyena pulled the latchstring, the latch flew up, and he pushed the door open, and slipped inside. He looked about, and there was nobody there, for the old grandmother had been feeling stronger that day, so she had dressed and had gone out to pick berries.",
+        "S2": "Nobody answered, so he knocked again, rat-tat-tat! Still no one answered, and there was no stir within the house, though the hyena cocked his ear and listened carefully. The hyena pulled the latchstring, the latch flew up, and he pushed the door open, and slipped inside. He looked around him, and there was nobody there, for the old grandmother had been feeling stronger that day, so she had dressed and had gone out to pick berries.",
+        "T1": "Palibe aliyense amene anayankha, conco anagogodanso, go-go-go! Panalibenso woyankha, ndipo munalibe cisokonezo m’kati mwanyumbayo, ngakhale kuti iye Fisi anachera khutu mosamala. Fisi anaguza mpiringidzo wokolowekera citseko, ndipo mpiringidzowo unacoka, iye anatsegula citsekoco, ndipo anamyomyolekera m’kati. Iye anapenya momuzungulira, panalibe aliyense pamenepo, cifukwa agogo aakazi amamvako mphamvu tsiku limenelo, ndipo anavala ndi kupita kukatola zipatso.",
+        "T2": "Palibe aliyense amene anayankha, conco anagogodanso, go-go-go! Panalibenso woyankha, ndipo munalibe cisokonezo m’kati mwanyumbayo, ngakhale kuti iye Fisi anachera khutu mosamala. Fisi anaguza mpiringidzo wokolowekera citseko, ndipo mpiringidzowo unacoka, iye anatsegula citsekoco, ndipo anamyomyolekera m’kati. Iye anapenya momuzungulira, panalibe aliyense pamenepo, cifukwa agogo aakazi amamvako mphamvu tsiku limenelo, ndipo anavala ndi kupita kukatola zipatso."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "The old hyena hunted about until he found the grandmother’s bedgown; then he pulled it on over his big hairy body. He tied on a big ruffled cap and put the grandmother’s spectacles on his nose, and after that he crawled into bed and drew the coverlet up under his chin.",
+        "S2": "The old hyena hunted about until he found the grandmother’s bedgown; then he pulled it on over his big hairy body. He wore a cap on his head and put the grandmother’s spectacles on his nose, and after that he crawled into bed and covered himself up under his chin.",
+        "T1": "Fisi wokalamba uja anasaka malo onsewo kufikira anapeza covala causiku; pambuyo pake, iye anaguza ndi kuvala covala cabweyaco. Iye anavalanso cisoti kumutu ndi mandala a agogo aakazi pamphuno pake, ndiye pambuyo pake iye anakwawira pabedi ndi kudziphimba ndi bulangete kufikira munsi mwa cigama cake.",
+        "T2": "Fisi wokalamba uja anasaka malo onsewo kufikira anapeza covala causiku ca agogo aakazi; pambuyo pake, iye anaciguzira pa thupi lake laubweya. Iye anavalanso cisoti kumutu ndi mandala a agogo aakazi pamphuno pake, ndiye pambuyo pake iye anakwawira pabedi ndi kudziphimba ndi bulangete kufikira munsi mwa cigama cake."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "It was not long before Little Red Riding-Hood came running along, and she was in a great hurry, for she had spent a long time gathering flowers. The grandmother did not see her, however, for she was asleep in the garden. The little girl ran up to the door and knocked upon it, rat-tat-tat! Then the old hyena made his voice very faint and weak like the grandmother’s.",
+        "S2": "It was not long before Little Red Riding-Hood came running along, and she was in a great hurry, for she had spent a longtime gathering flowers. The grandmother did not see her, however, for she was asleep in the garden. The little girl ran up to the door and knocked upon it, rat-tat-tat! Then the old hyena made his voice very faint and weak like the grandmother’s.",
+        "T1": "Panali pasanapite nthawi pomwe Little Red Riding-Hood anabwera akuthamanga, ndipo iye anali mu liwiro lalikulu, cifukwa anali atataya nthawi yaitali kutola maluwa. Agogo ake aakazi sanamuone, cifukwa cakuti iwo anali atagona m’dimba. Kamtsikana aka kanathamangira kucitseko ndi kugogoda pomwepo, go-go-go! Pambuyo pake, fisi wokalamba anacititsa liwu lake kumveka lofewa ndi lofooka ngati liwu la agogo ake aakazi.",
+        "T2": "Panali pasanapite nthawi pomwe Little Red Riding-Hood anabwera akuthamanga, ndipo iye anali mu liwiro lalikulu, cifukwa anali atataya nthawi yaitali kutola maluwa. Agogo ake aakazi sanamuone, cifukwa cakuti iwo anali atagona m’dimba. Kamtsikana aka kanathamangira kucitseko ndi kugogoda pomwepo, go-go-go! Pambuyo pake, fisi wokalamba anacepetsa liwu lake kumveka lofewa ndi lofooka ngati liwu la agogo ake aakazi."
+      }
+    },
+    {
+      "verse": 11,
+      "text": {
+        "S1": "“Who is there?” he asked. “It is I, grandmother; Little Red Riding-Hood,” answered the child. “Pull the latchstring, and lift the latch,” said the hyena. Red Riding-Hood lifted the latch and pushed the door open and went in.",
+        "S2": "“Who is there?” he asked. “It is I, grandmother; Little Red Riding-Hood,” answered the child. “Pull the latchstring, and lift the latch,” said the hyena. Red Riding-Hood lifted the latch and pushed the door open and went in.",
+        "T1": "“Kodi ndani amene ali kunjako?” anafunsa fisi. “Ndine mdzukulu wanu agogo; Little Red Riding-Hood,” anayankha mwanayo. “Guza unyolo wa mpiringidzo, ndipo unyamule mpiringidzowo,” anatero Fisi. Red Riding-Hood ananyamula mpiringidzo ndi kukankha citseko, ndi kulowa m’kati.",
+        "T2": "“Kodi ndani amene ali kunjako?” anafunsa fisi. “Ndine mdzukulu wanu agogo; Little Red Riding-Hood,” anayankha mwanayo. “Guza unyolo wa mpiringidzo, ndipo unyamule mpiringidzowo,” anatero Fisi. Red Riding-Hood ananyamula mpiringidzo ndi kukankha citseko, ndi kulowa m’kati."
+      }
+    },
+    {
+      "verse": 12,
+      "text": {
+        "S1": "There was not much light in the room, for the hyena had pulled the curtains across the window. “I am not able to get up, dear child,” said the hyena, still in the same weak voice. “Put your basket on the table and come over here.” Red Riding-Hood did as she was told. She put the basket on the table and came over to the bedside, but as she came closer she thought her grandmother looked very strange.",
+        "S2": "There was not much light in the room, for the hyena had pulled the curtains across the window. “I am not able to get up, dear child,” said the hyena, still in the same weak voice. “Put your basket on the table and come over here.” Red Riding-Hood did as she was told. She put the basket on the table and came over to the bedside, but as she came closer she thought her grandmother looked very strange.",
+        "T1": "Munalibe kuwala kokwanira m’cipindaco, cifukwa Fisi anali ataguzira pansi makatani a m’mazenera. “Sindikutha kuuka, mwana wanga wokondedwa,” anatero Fisi, m’liwu lofooka. “Ika dengu lako patebulo ndipo ubwere kuno.” Red Riding-Hood anacita monga momwe anamuuzira. Mtsikanayo anayika dengu patebulo ndi kubwera pambali pabedi, koma pomwe amafika pafupi, anaganiza kuti agogo akewo anawoneka wodabwitsa kwambiri.",
+        "T2": "Munalibe kuwala kokwanira m’cipindaco, cifukwa Fisi anali ataguzira pansi makatani a m’mazenera. “Sindikutha kuuka, mwana wanga wokondedwa,” anatero Fisi, m’liwu lofooka. “Ika dengu lako patebulo ndipo ubwere kuno.” Red Riding-Hood anacita monga momwe anamuuzira. Mtsikanayo anayika dengu patebulo ndi kubwera pambali pabedi, koma pomwe amafika pafupi, anaganiza kuti agogo akewo anawoneka wodabwitsa kwambiri."
+      }
+    },
+    {
+      "verse": 13,
+      "text": {
+        "S1": "“Oh, grandmother, what big eyes you have,” she said. “The better to see you, my dear,” answered the hyena. “And, grandmother, what long, long ears you have.” “The better to hear you, my dear!” “But, grandmother, what big sharp white teeth you have!”",
+        "S2": "“Oh, grandmother, what big eyes you have,” she said. “The better to see you, my dear,” answered the hyena. “And, grandmother, what long, long ears you have.” “The better to hear you, my dear!” “But, grandmother, what big sharp white teeth you have!”",
+        "T1": "“Ooo, agogo aakazi, maso kukula omwe muli nawo,” anatero iye. “Ndi bwino kukuwona wokondewa wanga,” anayankha Fisi. “Ndipo, agogo aakazi, ndi makutu otani aakulu omwe muli nawo.” “Ndi bwino kukumva wokondedwa wanga!” “Koma, agogo aakazi, mano anu aakulu, oyera ndi akuthwa omwe muli nawo!”",
+        "T2": "“Ooo, agogo aakazi, maso kukula omwe muli nawo,” anatero iye. “Ndi bwino kukuwona wokondewa wanga,” anayankha Fisi. “Ndipo, agogo aakazi, ndi makutu otani aakulu omwe muli nawo.” “Ndi bwino kukumva wokondedwa wanga!” “Koma, agogo aakazi, mano anu aakulu, oyera ndi akuthwa omwe muli nawo!”"
+      }
+    },
+    {
+      "verse": 14,
+      "text": {
+        "S1": "“The better to eat you!” howled the hyena, and he sprang out of bed and caught Red Riding-Hood by the cloak. The little girl cried out, but at this moment the grandmother burst open the door and rushed in. The howl had awakened her from her sleep, and just in time. She struck the hyena with such a blow to the head that it fell down dead.",
+        "S2": "“The better to eat you!” howled the hyena, and he sprang out of bed and caught Red Riding-Hood by the cloak. The little girl cried out, but at this moment the grandmother burst open the door and rushed in. The howl had awakened her from her sleep, and just in time. She struck the hyena with such a blow to the head that it fell down dead.",
+        "T1": "“Ndibwino kukudya iwe!” anabuula Fisi, ndipo analumpha kucoka pabedi ndi kugwira Red Riding-Hood pacovala. Kamtsikana kaja kanalira, koma pamphindi imeneyi agogo ake aakazi analowa ndi kuthamangira m’kati. Kubuula kwa Fisi kunawautsa mtulo tawo, ndipo pa nthawi yoyenera. Iwo anamumenya Fisi uja ndi khofi kumutu kwambiri kwakuti anagwera pansi, nafa pomwepo.",
+        "T2": "“Ndibwino kukudya iwe!” anabuula Fisi, ndipo analumpha kucoka pabedi ndi kugwira Red Riding-Hood pacovala. Kamtsikana kaja kanalira, koma pamphindi imeneyi agogo ake aakazi analowa ndi kuthamangira m’kati. Kubuula kwa Fisi kunawautsa mtulo tawo, ndipo pa nthawi yoyenera. Iwo anamumenya Fisi uja ndi khofi kumutu kwambiri kwakuti anagwera pansi, nafa pomwepo."
+      }
+    },
+    {
+      "verse": 15,
+      "text": {
+        "S1": "And indeed, if it had not been for her grandmother, the little girl would certainly have been eaten by the hyena. But from then on Little Red Riding-Hood was careful to obey her mother, and not to loiter on the way when she was sent on errands.",
+        "S2": "And indeed, if it had not been for her grandmother, the little girl would certainly have been eaten by the hyena. But from then on Little Red Riding-Hood was careful to obey her mother, and not to loiter on the way when she was sent on errands.",
+        "T1": "Ndipo, kuti agogo ake aakazi sanalipo, kamtsikana kaja zoonadi kakadyedwa ndi Fisi. Koma, kucokera pa nthawiyo Little Red Riding-Hood anali wosamala kumvera amayi ake, kusasewera m’njira pamene watumidwa paulendo.",
+        "T2": "Ndipo, kuti agogo ake aakazi sanalipo, kamtsikana kaja zoonadi kakadyedwa ndi Fisi. Koma, kucokera pa nthawiyo Little Red Riding-Hood anali wosamala kumvera amayi ake, kusasewera m’njira pamene watumidwa paulendo."
+      }
+    }
+  ]
+}

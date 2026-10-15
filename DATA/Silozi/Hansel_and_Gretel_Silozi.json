@@ -1,0 +1,418 @@
+{
+  "header": {
+    "Title (Source)": "Hansel and Gretel",
+    "Title (Target)": "Hanselu ni Giritelu",
+    "Original Author": "Brother Grimm",
+    "Source Language": "English",
+    "Target Language": "Silozi",
+    "Translator 1": "Sir. Mubita Muleta",
+    "Translator 2": "Sir. Uyoya Wamuwi"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "Near a great forest dwelt a poor woodcutter with his wife and his two children. The boy was called Hansel and the girl Gretel.",
+        "S2": "Near a great forest dwelt a poor woodcutter with his wife and his two children. The boy was called Hansel and the girl Gretel.",
+        "T1": "Kwa tuko a mushitu wo mutuna nekupila muuna wa mubotana yanapila kakupumaka likota. Na pila ni musalaa hae ni bana bababeli. Mushimani neli Hazelu mi musizana neli Kilitelu.",
+        "T2": "Kwatuko ni mushitu womutuna neku pila muuna wa mubotana yanaa pila ka kupumaka likota. Naa pila ni musalaahae ni bana bababeli. Mushimani neeli Hanselu mi musizana neeli Giritelu."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "He had little to bite and to break, and when great scarcity fell on the land, he could no longer procure daily bread. Now when he thought over this at night in his bed, and tossed about in his anxiety.",
+        "S2": "He had little to bite and to break, and when great scarcity fell on the land, he could no longer procure daily bread. Now when he thought over this at night in his bed, and tossed about in his anxiety.",
+        "T1": "Nana ni zenyinyni za kulima ni kuloba, mi linanga lelituna haliwezi fafasi, na sakoni kuleka sinkwa zazi ni zazi. Cwale hato hupula zataba ye busihu halobezi fa mumbeta, mi kia iposa kuba pilaelo ya hae.",
+        "T2": "Naana ni zenyinyani za kuca ni kushanyauna, mi linanga lelituna hali taha mwa naha, naa sakoni kuleka buhobe bwa zazi ni zazi. Cwale haato nahana za buino bo busihu halobezi fa mumbeta, ni kuposa pilaelo yahae."
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "He groaned and said to his wife, “What is to become of us? How are we to feed our poor children, when we no longer have anything even for ourselves?”",
+        "S2": "He groaned and said to his wife, “What is to become of us? How are we to feed our poor children, when we no longer have anything even for ourselves?”",
+        "T1": "Atongoka mi ali kumusalaa hae, kin͂i sesitaha kuluna? Luka uta cwani bana baluna bababotana haiba alusana ni haiba saluna feela?",
+        "T2": "Atongokela musalaahae ali, “Ki n͂i sesi lukenela? Luka uta cwañi bana baluna bababotana haiba nji halusana ni haiba saluna feela?”"
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "“I’ll tell you what, husband,” answered the woman, “Early tomorrow morning we will take the children out into the forest where it is the thickest. There we will light a fire for them, and give each of them one piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them.”",
+        "S2": "“I’ll tell you what, husband,” answered the woman, “Early tomorrow morning we will take the children out into the forest where it is the thickest. There we will light a fire for them, and give each of them one piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them.”",
+        "T1": "Ni kakubulelela cwana, muunaka,” kwalaba musali, “kamuso kakusasana-sasana lukaisa banana mwa mushitu kwale kokutibani luli. Kwateni lukayo batukiseza mulilo, nikufa yomumwi ni yomumwi siemba sa sinkwa, mi cwale lukaya kwa musebzi waluna ni kubasiya banosi. Habana ku fumana nzila ye liba kwa hae hape, mi halusana kuba ni bona.",
+        "T2": "“Nika kubulelela cwana, muunaaka,” kwaalaba wa musali, “kamuso kakusasana-sasana luka isa bana baluna mwa mushitu kokutibani hahulu. Koo lukayo batukiseza mulilo ni kufa yomuñwi ni yomuñwi siemba sa buhobe ki hona luka ikela kwa musebezi waluna ni kuba ambuka. Habana kufumana nzila yeliba kwa hae hape, mi lukaba leleka cwalo.”"
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "“No, wife,” said the man, “I will not do that; how can I bear to leave my children alone in the forest? The wild animals would soon come and tear them to pieces.”",
+        "S2": "“No, wife,” said the man, “I will not do that; how can I bear to leave my children alone in the forest? The wild animals would soon come and tear them to pieces.”",
+        "T1": "“Batili, musalaa ka “kwa bulela muuna,” Hanina kweza cwalo, nikona cwani kulwala ni kuyo siya bana baka banosi mwa mushitu? Libatana za mwanahen͂i likataha kuto bapumaka bibindi-bindi.",
+        "T2": "“Batili, musalaaka, “kwaalaba wa muuna, “hanina kueza cwalo. Nika hupula cwañi kusiya bana baaka banosi mwa mushitu? Libatana za mwa nahen͂i lika tuha litaha kutoba pumaka tubindi-bindi.”"
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "“O, you fool!” she said, “Then we must all four die of hunger. You may as well plane the planks for our coffins,” and she left him no peace until he consented. “But I feel very sorry for the poor children, all the same,” said the man.",
+        "S2": "“O, you fool!” she said, “Then we must all four die of hunger. You may as well plane the planks for our coffins,” and she left him no peace until he consented. “But I feel very sorry for the poor children, all the same,” said the man.",
+        "T1": "“Oho sangani tuwe!” musali alaba, “kacwalo luswanela kushwa kwa tala kaufela luna luba bane. Uswanela kubebula mabala abe makwati aluna,” mi amusiya asina kozo kufitela alumela. “Kono ni utwela bana baka ba babotana makeke ahulu, twa swana kaufela,” muuna abulela.",
+        "T2": "“Oho! Sanganu tuwe!” musali aalaba, “kacwalo kaufelaaluna lubabane luswanela kubulaiwa ki tala. Kamukwawocwalo, uswanela kubebula mabala a makwati aluna,” mi amusiya asina kozo kufitela alumela. “Kono nihakulicwalo, nishwela hahulu bana baaka ba babotana makeke,” muuna abulela."
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "The two children had also not been able to sleep for hunger, and had heard what their stepmother had said to their father. Gretel wept bitter tears, and said to Hansel, “Now all is over for us.” “Hush, Gretel,” said Hansel, “do not distress yourself, I will soon find a way to help us.”",
+        "S2": "The two children had also not been able to sleep for hunger, and had heard what their stepmother had said to their father. Gretel wept bitter tears, and said to Hansel, “Now all is over for us.” “Hush, Gretel,” said Hansel, “do not distress yourself, I will soon find a way to help us.”",
+        "T1": "Bubeli bwa bona banana nebapalwezwi kulobala bakinisa tala, mi hape neba utwile zana bulezi mabona wa mutose kundata bona. Kilitelu a kala kulila, mi ali ku Hazelu, “Cwale zaluna halisaliyo.” Heyi, kilitelu,” usike wa ipatiseza masitapilu isaliwena. Nikafumana mukwa wa kuitusa isali luna onacwanon͂ufa.",
+        "T2": "Sibeli sabona banana, bapalelwa kulobala bakeñisa tala. Hape neba utwile bo maabona ba mutose zene babulelela bo ndataabona. Giritelu asituwa sililo mi ali ku Hanselu, “Cwanoñu, zaluna lilusiile.” “Kuza, Giritelu!” Hanselu amulaela, “usike wafilikana. Nika fumana mukwa woka lutusa onafa."
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "And when the old folks had fallen asleep, he got up, put on his little coat, opened the door below, and crept outside. The moon shone brightly, and the white pebbles which lay in front of the house glittered like real silver pennies.",
+        "S2": "And when the old folks had fallen asleep, he got up, put on his little coat, opened the door below, and crept outside. The moon shone brightly, and the white pebbles which lay in front of the house glittered like real silver pennies.",
+        "T1": "Sicaba hase silobezi, Hazelu a zuha ni kutina kabaki ka hae. A kwaulula munyako kwa tasi ni kuhohobela fande kweli nemonyehile ahulu, mi tucwe totusweu tonetuli kwa pata yandu netubenya sina mangwee a silibela ya niti.",
+        "T2": "Babahulu hase bapumuzi fa buloko, azuha ni kuapala kabaki kahae. Akwahululela sikwalo kwataasi ni kuhohobela fande. Kweli nei benya hahulu, mi tucwe totusweu tone tuli kwapata ya ndu netu benya sina buwayawaya bwa silibela yaniti."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "Hansel stooped and put as many of them in the little pocket of his coat as he could possibly get in. Then he went back and said to Gretel, “Be comforted, dear little sister, and sleep in peace, God will not forsake us,” and he lay down again in his bed.",
+        "S2": "Hansel stooped and put as many of them in the little pocket of his coat as he could possibly get in. Then he went back and said to Gretel, “Be comforted, dear little sister, and sleep in peace, God will not forsake us,” and he lay down again in his bed.",
+        "T1": "Hazelu ainama ni kunopaka tucwe totuñata inge asweli kubeya mwa kapokoto ka kabaki kahae mwaa ziba kuli twakwana. Kasamulaho, akutela ku Giritelu ni kuyomu bulelela ali, “Naku ombaomba kakaizeli kakalateha, ulobale ka kozo, Mulimu haana kulufulalela,” ki haa lobala hape mwa mumbeta wahae.",
+        "T2": "Hanselu ainama ni kunopaka tucwe totuñata, atu beya mwa kapokoto ka baki yahae ka mone tukonela kaufela. Ki hasaa kutela ku Giritelu ni kuyoli kuyena, “Ikete, kaizelaaka yomunyinyani yalateha, lobala ka kozo, Mulimu haana kulutuhelela,” ki haa lobala hape mwa mumbeta wahae."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "When day dawned, but before the sun had risen, the woman came and awoke the two children, saying, “Get up, you sluggards! We are going into the forest to fetch wood.” She gave each a little piece of bread, and said, “There is something for your dinner, but do not eat it up before then, for you will get nothing else.”",
+        "S2": "When day dawned, but before the sun had risen, the woman came and awoke the two children, saying, “Get up, you sluggards! We are going into the forest to fetch wood.” She gave each a little piece of bread, and said, “There is something for your dinner, but do not eat it up before then, for you will get nothing else.”",
+        "T1": "Masa apatalala, kono lizazi lisikapazula kale, musali muhulu ataha ni kuto zusa banana ba babeli, ali, “a muzuhe, mina biloyangundu. Lwaya mwa mushitu kuyo bata likota. “Afa yomumwi ni yomumwi kaemba ka sinkwa, mi ali, “kuna ni sico sa mulalelo, kono musike mwaca pili, kakuli hakuna se mukafiwa.”",
+        "T2": "Lizazi hali patalala, kono lizazi lisika pazula kale, musali-muhulu ataha kuto zusa bana bahae bababeli ali, “Hamuzuhe, mina bababuzwa tuni. Luya mwa mushitu kuyo lwalela likota.” Afa yomuñwi ni yomuñwi kaemba ka buhobe, mi ali, “Kuna ni sico sa mulalelo, kono musike mwasica pili, kakuli hakuna semuka fiwa.”"
+      }
+    },
+    {
+      "verse": 11,
+      "text": {
+        "S1": "Gretel took the bread under her apron, as Hansel had the stones in his pocket. Then they all set out together on the way to the forest. When they had walked a short time, Hansel stood still and peeped back at the house, and did so again and again.",
+        "S2": "Gretel took the bread under her apron, as Hansel had the stones in his pocket. Then they all set out together on the way to the forest. When they had walked a short time, Hansel stood still and peeped back at the house, and did so again and again.",
+        "T1": "Kilitelu abeya sinkwa sa hae mwa apuloni, haili, Hazelu na nani macwe mwa pokoto ya hae. Cwale kaufela abona bakala musipili wa bona hamoho kuliba mwa mushitu. Hase bazamaile nakonyana, Hazelu a yema ni kunangela kwa ndu, mi aeza cwalo ka kukutakutela.",
+        "T2": "Giritelu abeya siemba sa buhobe bwahae mwa apuloni, haili, Hanselu naana ni macwe mwa pokoto yahae. Cwale kaufelaabona bakala musipili wabona hamoho kuliba mwa mushitu. Hase bazamayile nakonyana, Hanselu ayema ni kui temuna kunangela ndu, mi aeza cwalo ka kukutakutela."
+      }
+    },
+    {
+      "verse": 12,
+      "text": {
+        "S1": "His father said, “Hansel, what are you looking at there and staying behind for? Mind yourself, and do not forget how to use your legs.”",
+        "S2": "His father said, “Hansel, what are you looking at there and staying behind for? Mind yourself, and do not forget how to use your legs.”",
+        "T1": "Bo ndatahe bali, “Hazelu, kin͂i ze utalimezi kwaale ni kusiyalela kwa mulawo? Utokomele, mi usike wa Libala moswanela kuitusiseza mahutu a hao.”",
+        "T2": "Bo ndatahe bali, “Hanselu, ki n͂i zeu itemunela kwaale ni kusiyalela mwamulawo? Utokomele, mi usike walibala mou swanela kui tusiseza mahutu ahao.”"
+      }
+    },
+    {
+      "verse": 13,
+      "text": {
+        "S1": "“Ah, father,” said Hansel, “I am looking at my little white cat, which is sitting up on the roof, and wants to say goodbye to me.” The wife said, “Fool that is not your little cat that is the morning sun which is shining on the chimneys.” Hansel, however, had not been looking back at the cat, but had been constantly throwing one of the white pebblestones out of his pocket on the road.",
+        "S2": "“Ah, father,” said Hansel, “I am looking at my little white cat, which is sitting up on the roof, and wants to say goodbye to me.” The wife said, “Fool that is not your little cat that is the morning sun which is shining on the chimneys.” Hansel, however, had not been looking back at the cat, but had been constantly throwing one of the white pebblestones out of his pocket on the road.",
+        "T1": "“Aha, tate,” kwa bulela Hazelu, nitalimezi ka kaze kaka kakanyinyani ka kasweu, kakainzi fa halimu fa situwa, mi kabata kuni laeza”. Wa muslai ali, “sitoto yale haki kaze ya hao ye nyinyani, lale ki lizazi la kakusasana leli benyisa fokuzwelanga musi.” Hazelu, nihakulicwalo na sikakutela hape ku talima kaze, kono ka linako nasweli kuposa kalikan͂wi fa tucwe totubuleta totusweu kuzwa mwa pokoto ya hae mwa mukwakwa.",
+        "T2": "“Aha! Tate,” kwabulela Hanselu, “nitalimezi kakaze kaaka kakanyinyani kakasweu, kakainzi fa situwa, kabata kuni laeza.” Wa musali ali, “Usitoto! Yale haki kaze yahao yenyinyani. Lale ki lizazi la kakusasana leli benya foku zwelanga musi.” Hanselu nihakulicwalo, naa sika kutela hape kui temuna kakaze, kono naa sweli feela kuposakelanga mwa mukwakwa kalikan͂wi ni kalikan͂wi fa tucwe tone tuli mwa pokoto yahae."
+      }
+    },
+    {
+      "verse": 14,
+      "text": {
+        "S1": "When they had reached the middle of the forest, the father said, “Now, children, pile up some wood, and I will light a fire that you may not be cold.” Hansel and Gretel gathered brushwood together, as high as a little hill.",
+        "S2": "When they had reached the middle of the forest, the father said, “Now, children, pile up some wood, and I will light a fire that you may not be cold.” Hansel and Gretel gathered brushwood together, as high as a little hill.",
+        "T1": "Hase bafitile fa hala mushitu, ndataabona ali, “cwale, banana hamukubukanye likota, mi nika tukisa mulilo kuli musike mwautwa kubata”. Hazelu ni Kilitelu ba kubukanya bwandilala hamoho, fa butelele bobulikana ni lizulu.",
+        "T2": "Hase bafitile fahalaa mushitu, ndataabona ali, “Cwale, banana hamu kubukanye likota, mi nika tumbula mulilo kuli musike mwautwa silami.” Hanselu ni Giritelu bakubukanya bwandilala hamoho fabutelele bobulikana ni lizulu."
+      }
+    },
+    {
+      "verse": 15,
+      "text": {
+        "S1": "The brushwood was lighted, and when the flames were burning very high, the woman said, “Now, children, lay yourselves down by the fire and rest. We will go into the forest and cut some wood. When we have done, we will come back and fetch you away.”",
+        "S2": "The brushwood was lighted, and when the flames were burning very high, the woman said, “Now, children, lay yourselves down by the fire and rest. We will go into the forest and cut some wood. When we have done, we will come back and fetch you away.”",
+        "T1": "Bwandilila hase butukisizwe, mi malimi a mulilo naya mwa halimu, musali ali, “cwale banana, a mulobale kwa tuko a mulilo mupumule. Lukabe lwile mwa mushitu ni ku yo puma likota cwale hase kufelile, lukataha ni kuto minga.”",
+        "T2": "Bwandilila hase butukisizwe, mi malimi a mulilo aya mwahalimu, musali ali, “Cwale banana, hamu lobale kwatuko a mulilo mupumule. Lukabe lwiile mwa mushitu kuyo lema likota cwale hase lufelize, lukataha luto miinga.”"
+      }
+    },
+    {
+      "verse": 16,
+      "text": {
+        "S1": "Hansel and Gretel sat by the fire, and when noon came, each ate a little piece of bread, and as they heard the strokes of the wood-axe they believed that their father was near. It was not, however, the axe, it was a branch which he had fastened to a withered tree which the wind was blowing backwards and forwards. And as they had been sitting such a long time, their eyes shut with fatigue, and they fell fast asleep. When at last they awoke, it was already dark night.",
+        "S2": "Hansel and Gretel sat by the fire, and when noon came, each ate a little piece of bread, and as they heard the strokes of the wood-axe they believed that their father was near. It was not, however, the axe, it was a branch which he had fastened to a withered tree which the wind was blowing backwards and forwards. And as they had been sitting such a long time, their eyes shut with fatigue, and they fell fast asleep. When at last they awoke, it was already dark night.",
+        "T1": "Hazelu ni Kilitelu baina kwa tuko a mulilo, mi kweli haiyo taha, man͂i ni man͂i anga kaemba ka kanyinyani ka sinkwa, mi aba toutwa mulumo wa kota yeteta kuwa baumela kuli ndataa bona ufakaufi. Nesi cwalo nihakulicwalo, capu, neli mutai woo natamezi kwa kota ye ne omile wonofukiswa ki moya wono fulana. Mi hane bainzi nako ye telele, meeto abona akwaela ni mabote, mi baya fa buloko kapili. Cwale kwa mafelelezo a ba totona, seli busihu mwa lififi.",
+        "T2": "Hanselu ni Giritelu baina kwatuko ni mulilo, mi hase kuli musihali, man͂i ni man͂i aanga kaemba kakanyinyani ka buhobe, mi haba utwa mulumo wa capu kota yelema kota, balumela kuli ndataabona ufakaufi. Kanti neesi cwalo kuli neeli capu yene bautwa kono neeli mutai wone atamezi kwa kota yene iomile wone ufukiswa ki moya wonoo fulana. Kacwalo, hane bainzi nako yetelele, meeto abona aitima bakeñisa mabote, mi baya fa buloko kapili. Cwale kwamafelelezo habayo tona, nese ili busihu mwa lififi."
+      }
+    },
+    {
+      "verse": 17,
+      "text": {
+        "S1": "Gretel began to cry and said, “How are we to get out of the forest now?” But Hansel comforted her and said, “Just wait a little, until the moon has risen, and then we will soon find the way.” And when the full moon had risen, Hansel took his little sister by the hand, and followed the pebbles which shone like newly-coined silver pieces, and showed them the way.",
+        "S2": "Gretel began to cry and said, “How are we to get out of the forest now?” But Hansel comforted her and said, “Just wait a little, until the moon has risen, and then we will soon find the way.” And when the full moon had risen, Hansel took his little sister by the hand, and followed the pebbles which shone like newly-coined silver pieces, and showed them the way.",
+        "T1": "Kilitelu akala kulila ni kubulela,” cwale lukazwa cwan͂i mwa mushitu? “Kono Hazelu a muomba-omba mi ali, “u litele feela hanyinyani, kufitela kweli ipazula, mi cwale anofao lukafumana nzila. “mi cwale kweli hase ipazuzi, Hazelu anga kakezeli ka hae kakuswala kwa lizoho, ni kulatelela tucwe tone tubenya sina tuemba twa silibela yenca ya mangwee, mi twa ba bonisa nzila.",
+        "T2": "Giritelu akala kulila ni kubulela ali,” Cwale lukazwa cwañ͂i mwa mushitu mo?” Kono Hanselu amuomba-omba ali, “Litela feela hanyinyani, kufitela kweli ipazula mi ono foo lukafumana nzila.” Cwale kweli hase ipazuzi, Hanselu aanga kakaizeli kahae ni kukaswala kwa lizoho ni kulatelela tucwe tone tubenya sina buwayawaya bwa silibela yenca mi twaba bonisa nzila."
+      }
+    },
+    {
+      "verse": 18,
+      "text": {
+        "S1": "They walked the whole night long, and by break of day came once more to their father’s house. They knocked at the door, and when the woman opened it and saw that it was Hansel and Gretel, she said, “You naughty children, why have you slept so long in the forest? We thought you were never coming back at all!”",
+        "S2": "They walked the whole night long, and by break of day came once more to their father’s house. They knocked at the door, and when the woman opened it and saw that it was Hansel and Gretel, she said, “You naughty children, why have you slept so long in the forest? We thought you were never coming back at all!”",
+        "T1": "Neba zamaile busihu kaufela mi nako ya musihali baipumana fandu yabo ndata bona. Ba ngongota fa munyako, mi musali Muhulu a tokwaulula a tobona kuli ki Hazelu ni Kilitelu, ali, “mina banana balikatazi, kin͂i hamulobezi ‘nako yetele mwa mushitu? Neluhupula kuli mukayoshwa musakuti hape!”",
+        "T2": "Bazamaya busihu kaufela mi lizazi hali pazula bato punyehela fa ndu ya bo ndataabona. Bangongota fa sikwalo, mi musali hato kwahulula sikwalo ato bona kuli ki Hanselu ni Giritelu ali, “Mina banana balikatazi, ki n͂i hamu lobezi nako yetelele mwa mushitu? Nelu hupula kuli hamusa kuta ni kamuta!”"
+      }
+    },
+    {
+      "verse": 19,
+      "text": {
+        "S1": "The father, however, rejoiced, for it had cut him to the heart to leave them behind alone. Not long afterwards, there was once more great scarcity in all parts, and the children heard their mother saying at night to their father, “Everything is eaten again, we have one half loaf left, and after that there is no more. The children must go. We will take them farther into the wood, so that they will not find their way out again; there is no other means of saving ourselves!”",
+        "S2": "The father, however, rejoiced, for it had cut him to the heart to leave them behind alone. Not long afterwards, there was once more great scarcity in all parts, and the children heard their mother saying at night to their father, “Everything is eaten again, we have one half loaf left, and after that there is no more. The children must go. We will take them farther into the wood, so that they will not find their way out again; there is no other means of saving ourselves!”",
+        "T1": "Ndata bona nihakulicwalo natabile, kakuli neli taba yene musisita kwa pilu kakusiya banaba hae kwa mulawo banosi. Kanakonyana feela nekuna ni butokwa bobutuna mwa maneku kaufela mi banana ba utwa mabona zana bulela kundata bona,” lika kaufela licilwe hape luna ni licika la sinkwa lelisiyezi mi kuzwafoo a kusana. Banana baswanela kuya. Luka baisa koo mwa naen͂i, kuli basike kufumana nzila ya kukuta hape, hakuna hape mukwa wolukona kuipilusa kaona!”",
+        "T2": "Haili ndataabona nihakulicwalo, naa tabile, kakuli neeli taba yene imusisita kwa pilu kusiya bana bahae mwamulawo banosi. Nako-nyana feela kasamulaho wazewo, kwaba ni lishebo lelituna hape mwa maneku kaufela mi banana busihu bautwa bo maabona inge babulela bo ndataabona bali, “Lika kaufela licilwe mi luna ni licika feela la buhobe lelisiyezi mi kuzwa foo hakusana. Banana baswanela kuya. Lukaba isa kwahule luli mwa mushitu kuli basike bafumana nzila ya kukuta hape. Hakuna hape mukwa wolukona kuipulusa kawona!”"
+      }
+    },
+    {
+      "verse": 20,
+      "text": {
+        "S1": "The man’s heart was heavy, and he thought, “It would be better for you to share the last mouthful with your children.” The woman, however, would listen to nothing that he had to say, but scolded and reproached him. He who says what must say what, likewise, and as he had yielded the first time, he had to do so a second time also.",
+        "S2": "The man’s heart was heavy, and he thought, “It would be better for you to share the last mouthful with your children.” The woman, however, would listen to nothing that he had to say, but scolded and reproached him. He who says what must say what, likewise, and as he had yielded the first time, he had to do so a second time also.",
+        "T1": "Pilu ya muuna muhulu ne bile ni bukiti, mi a hupula, “nekaba hande kuwena kuikabela manzwinyana amafelelezo ni bana ba hao. Musali muhulu, nihakulicwalo hakuna zana teleza ku muuna za bulela, kono ki kuomanya ni kunyaza muuna. Yoo abulela sesi swanela kubulelwa kaswanelo mi sina mwanaa konezi lwapili, uswanela kukona cwalo hape lwabubeli.",
+        "T2": "Pilu ya muuna yaaba bukiti, ki haa hupula ali, “Neku kaba hande kuwena kui kabela zeciwa zamafelelezo ni bana bahao.” Nihakulicwalo, musali yena hakuna zanaa teeleza ku zanaa bulela muunaahae, konji kuomanya ni kunyaza wa muuna. Yoo abulela sesiswanelwa kubulelwa kaswanelo mi sina mwanaa konezi pili, uswanela kukona cwalo hape lwabubeli."
+      }
+    },
+    {
+      "verse": 21,
+      "text": {
+        "S1": "The children were, however, still awake and had heard the conversation. When the old folks were asleep, Hansel again got up, and wanted to go out and pick up pebbles as he had done before, but the woman had locked the door, and Hansel could not get out. Nevertheless he comforted his little sister, and said, “Do not cry, Gretel, go to sleep quietly, the good God will help us.”",
+        "S2": "The children were, however, still awake and had heard the conversation. When the old folks were asleep, Hansel again got up, and wanted to go out and pick up pebbles as he had done before, but the woman had locked the door, and Hansel could not get out. Nevertheless he comforted his little sister, and said, “Do not cry, Gretel, go to sleep quietly, the good God will help us.”",
+        "T1": "Banana neba satona ni ku utwa ngambolo. Nako yeo sicaba sa macembele nesili fa buloko, hazelu hape a zuha, mi nabata kuya fande ni kuyo nopa macwe sina mwanakile aezeza pili. Kono kabumai musali muhulu na kiile sikwalo, mi Hazelu na palezwi kuzwa. Nihakulicwalo Hazelu a ombaomba ka kezeli ka hae, mi ali, “Usike wa lila, kiliteli, uye inge ukuzize kwa kulobala, mulimu ya sishemo ukalutusa.”",
+        "T2": "Banana neba satona ni kui kutwela ngambolo. Nako yewo babahulu nese balobezi fa buloko, Hanselu hape azuha, mi naa bata kuya fande kuyo nopa macwe sina mwanaa kile aezeza lwapili kono kabumai musali nakiile sikwalo, mi kacwalo, Hanselu apalelwa kuzwela fa nde. Nihakulicwalo, Hanselu aombaomba ka kaizeli kahae ali, “Silili, Giritelu. Zamaya inge ukuzize kwa kulobala, Mulimu yomunde ukalutusa.”"
+      }
+    },
+    {
+      "verse": 22,
+      "text": {
+        "S1": "Early in the morning came the woman, and took the children out of their beds. Their bit of bread was given to them, but it was still smaller than the time before. On the way into the forest Hansel crumbled his in his pocket, and often stood still and threw a morsel on the ground. “Hansel, why do you stop and look round?” said the father, “go on.”",
+        "S2": "Early in the morning came the woman, and took the children out of their beds. Their bit of bread was given to them, but it was still smaller than the time before. On the way into the forest Hansel crumbled his in his pocket, and often stood still and threw a morsel on the ground. “Hansel, why do you stop and look round?” said the father, “go on.”",
+        "T1": "Isali kakusasana kwa taha musali ni kunga banana kuba zusa fa mimbeta ya bona. Tuemba twa sinkwa netufilwe kubona, kono netusali totunyinyani kufita kwa makalelo. Mwa musipili wa kuya mwa mushitu Hazelu a shanyaunena bwa hae mwa pokoto, mi han͂ata na yemi ni kuposa musulonyana fa fasi.” Hazelu, kin͂i zoyemela ni kutalima-talima? “Kwa bulela bondatahe,” zwelapili.",
+        "T2": "Kakusasana-sasana kwataha musali ni kuunga banana kuba zusa fa mimbeta yabona. Twafiwa tuemba twa buhobe bwatona, nihaike netusali totunyinyani kufita kwamakalelo. Mwa musipili wa kuya mwa mushitu, Hanselu ashanyaunena buhobe bwahae mwa pokoto, mi han͂ata naa yema ni kuposeza tukoto fafasi.” “Hanselu, ki n͂i seu yemela ni kutalima-talima?” bo ndatahe bamubuza, “zwelapili.”"
+      }
+    },
+    {
+      "verse": 23,
+      "text": {
+        "S1": "“I am looking back at my little pigeon which is sitting on the roof, and wants to say goodbye to me,” answered Hansel.",
+        "S2": "“I am looking back at my little pigeon which is sitting on the roof, and wants to say goodbye to me,” answered Hansel.",
+        "T1": "“Nitalimela kwa mulawo kwa kankwilimba kaka kakanyinyani ka kiinzi fa situwa, mi kabata ku nilaeza, “kwalaba Hazelu.”",
+        "T2": "“Niitemuna kwamulawo kubona kankwilimba kaaka kakanyinyani kakainzi fa situwa, kabata kuni laeza,” Hazelu aalaba."
+      }
+    },
+    {
+      "verse": 24,
+      "text": {
+        "S1": "“Simpleton!” said the woman, “that is not your little pigeon that is the morning sun that is shining on the chimney.” Hansel, however, little by little, threw all the crumbs on the path.",
+        "S2": "“Simpleton!” said the woman, “that is not your little pigeon that is the morning sun that is shining on the chimney.” Hansel, however, little by little, threw all the crumbs on the path.",
+        "T1": "“Kutokwa ngana!” kwa bulela musali, “yale haki nkwilimba ya hao ye nyinyani, lale ki lizazi la kakusasana lelibenyeza fo kuzwelanga musi” Hazelu, nihakulicwalo, kakanyinyani, a yumba bungululwa kaufela mwa nzila.",
+        "T2": "“Sikuba tuwe!” musali amuomanya, “yale haki nkwilimba yahao yenyinyani. Lale ki lizazi la kakusasana lelibenyeza foku zwelanga musi.” Nihakulicwalo, Hanselu hanyinyani, hanyinyani inge ayumbelanga buungululwa bwa buhobe kaufela mwa nzila."
+      }
+    },
+    {
+      "verse": 25,
+      "text": {
+        "S1": "The woman led the children still deeper into the forest, where they had never in their lives been before. Then a great fire was again made, and the mother said, “Just sit there, you children, and when you are tired you may sleep a little; we are going into the forest to cut wood, and in the evening when we are done, we will come and fetch you away.”",
+        "S2": "The woman led the children still deeper into the forest, where they had never in their lives been before. Then a great fire was again made, and the mother said, “Just sit there, you children, and when you are tired you may sleep a little; we are going into the forest to cut wood, and in the evening when we are done, we will come and fetch you away.”",
+        "T1": "Musali naetelezi banana mwaala mushitu, koo basamba baba bapile ten͂I mwa bupilo bwa bona, cwale mulilo wo mutuna hape wa pangiwa, mi kwa bulela mahe, “Mwine feela onafo, mina banana, mi hamukatezi mwa kona kulobala hanyinyani, luya mwa mushitu kuyo lema likota, mi mazibwana haselwezize, lukataha kuto minga”.",
+        "T2": "Haili musali yena aetelela banana mwahalaa mushitu wotibani, koo basamba kupepwa basa piliten͂I mwa bupilo bwabona. Cwale mulilo wa litumbutumbu womutuna hape watumbulwa mi maabona abalaela ali, “Banana-tuñi, mwiine feela onafo, mi hamukatezi mwakona kulobala hanyinyani. Lukena mushitu kuyo lema likota, mi manzibwana cwale hase lufelize, lukataha luto miinga.”"
+      }
+    },
+    {
+      "verse": 26,
+      "text": {
+        "S1": "When it was noon, Gretel shared her piece of bread with Hansel, who had scattered his by the way. Then they fell asleep and evening came and went, but no one came to the poor children. They did not awake until it was dark night, and Hansel comforted his little sister and said, “Just wait, Gretel, until the moon rises, and then we shall see the crumbs of bread which I have strewn about, they will show us our way home again.” When the moon came they set out, but they found no crumbs.",
+        "S2": "When it was noon, Gretel shared her piece of bread with Hansel, who had scattered his by the way. Then they fell asleep and evening came and went, but no one came to the poor children. They did not awake until it was dark night, and Hansel comforted his little sister and said, “Just wait, Gretel, until the moon rises, and then we shall see the crumbs of bread which I have strewn about, they will show us our way home again.” When the moon came they set out, but they found no crumbs.",
+        "T1": "Haitoba musihali-tuna, Kilitelu haikabela siemba sa hae sa sinkwa ni Hazelu yana hasanyize sa hae mwa nzila. Cwale balobala mi mazibwana afita ni kuya, kono akuna yanatile kwa banana ba babotana. Neba sikazuha kufitela kuba busihu mwa lififi, mi Hazelu aomba-aomba ka kaizeli kahae mi ali, ilitele feela, kilitelu, kufitela kweli ipazula, mi cwale luka bona bungululwa bwa sinkwa bone ni yumbakile, bukalubonisa nzila ya kuliba kwa hae hape,” kono kweli haitaha bwa likela, mi hakuna bungululwa bone bufumaneile…",
+        "T2": "Hase ili musihali, Giritelu aikabela siemba sa buhobe bwahae ni Hanselu yanaa hasanyelize bwahae mwa nzila. Balobala mi mane lizazi lalikela kusina yanaa tile kwa banana bababotana. Neba sikazuha kufitela kuba busihu mwa lififi, mi Hanselu aomba-omba kakaizeli kahae ali, “Libelela feela Giritelu, kufitela kweli ipazula, mi cwale luka bona buungululwa bwa buhobe bone niyumbakile. Bukalu bonisa nzila ya kuliba kwa hae hape.” Kono kweli hai taha bafunduka mi hakuna bungululwa bone bufumanehile."
+      }
+    },
+    {
+      "verse": 27,
+      "text": {
+        "S1": "For the many thousands of birds which fly about in the woods and fields had picked them all up. Hansel said to Gretel, “We shall soon find the way,” but they did not find it. They walked the whole night and all the next day too from morning till evening, but they did not get out of the forest, and were very hungry, for they had nothing to eat but two or three berries, which grew on the ground. And as they were so weary that their legs would carry them no longer, they lay down beneath a tree and fell asleep.",
+        "S2": "For the many thousands of birds which fly about in the woods and fields had picked them all up. Hansel said to Gretel, “We shall soon find the way,” but they did not find it. They walked the whole night and all the next day too from morning till evening, but they did not get out of the forest, and were very hungry, for they had nothing to eat but two or three berries, which grew on the ground. And as they were so weary that their legs would carry them no longer, they lay down beneath a tree and fell asleep.",
+        "T1": "Baken͂isa bo lule ban͂ata ba linyunywani ba basweli ku fufa-fufa kwa likota ni masimu libunopile kaufela. Hazelu abulela ku kilitelu, “katuha lufumana nzila onafa,” kono neba sika ifumana. Neba zamaile busihu kaufela mane ni lizazi lelitatama kuzwa kakusasana kuyofita mazibwana, bapalelwa kuzwa mwa mushitu, mi neba nshwile ahulu tala, bakin͂isa kuli neba sina sakuca kwanda miselo ye mibeli kapa yemilalu yene melile fa fasi. Cwale hane bakatezi cwalo kuli mane mahutu abona akuna kwa nakabaisa, balobala mwaatasa kota ni kuya fa buloko.",
+        "T2": "Ki baken͂isa bolule baban͂ata-ñata ba linyunywani babasweli kufufa-fufa kwa likota ni masimu mi libunopile buhobe kaufelaabona. Hanselu abulelela Giritelu ali, “Lukatuha lufumana nzila onafa.” Ka bumai neba sika fumana nzila. Bazamaya busihu kaufela mane ni lizazi lelitatama kuzwa kakusasana kuyofita manzibwana, mane bapalelwa kuzwa mwa mushitu. Bashwa hahulu tala baken͂isa kuli neba sina sakuca kwandaa miselo yemibeli kapa yemilaalu yene imelile fafasi. Cwale hane bakatezi cwalo kuli mane mahutu abona hakuna kwanaa kabayisa, balobala mwaatasa kota ni kuya fa buloko."
+      }
+    },
+    {
+      "verse": 28,
+      "text": {
+        "S1": "It was now three mornings since they had left their father’s house. They began to walk again, but they always got deeper into the forest, and if help did not come soon, they would die of hunger and weariness. When it was midday, they saw a beautiful snow-white bird sitting on a bough, which sang so delightfully that they stood still and listened to it. And when it had finished its song, it spread its wings and flew away before them, and they followed it until they reached a little house, on the roof of which it alighted; and when they came quite up to the little house they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar.",
+        "S2": "It was now three mornings since they had left their father’s house. They began to walk again, but they always got deeper into the forest, and if help did not come soon, they would die of hunger and weariness. When it was midday, they saw a beautiful snow-white bird sitting on a bough, which sang so delightfully that they stood still and listened to it. And when it had finished its song, it spread its wings and flew away before them, and they followed it until they reached a little house, on the roof of which it alighted; and when they came quite up to the little house they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar.",
+        "T1": "Neseli makakusasana a malalu kuzwa fobasiyezi ndu ya ndatabona. Sebakala kuzamaya hape, kono nako kaufela nebaya mwa butungi bwa mushitu, mi tuso hanesike kutaha kapili, neba kashwa kwatala ni mukatalo. Hakutoba musihali tuna batobona kanyunywani kakande ka litwa-leliswe kainzi fa mutai wo mutuna wa kota, ne kaopela hande ahulu kuli mane sebayema ni kuteeleza kukona. Cwale hase kafelize pina ya kona, ka yandulula mafufa akona ni ku fufa kuba siya, mi bakalatelela kufitela ba yofita fa kandu kakanyinyani, fa situwa neku benya, mi habaya ba sutelela kwa kandu kakanyinnyani babona kuli ka yailwe fa sinkwa ni kukwaelwa ki keke, kono cwale mahaulo nabonahala kukena sina swikili.",
+        "T2": "Lizazi nese lipazuzi mazazi amalaalu kuzwa fone basiyezi ndu ya bo ndataabona. Bakala kuzamaya hape cwalo, nihaike kuli nako kaufela nebanze baya mwa mushitu wotibani, mi kacwalo haiba nji tuso nei sike kutaha kapili, neba kabulaiwa ki tala ni mabote. Hakutoba musihali-tuna babona nyunywani yende ya mubala wa nalwange inge iinzi fa mutai womutuna wa kota, yene iopela hande hahulu kuli mane seba yema ni kuiteeleza. Cwale hase ifelize kuopela pina yayona, ya yandulula mafufa ayona ni kufufa kuba fitelela kwapili, mi bai latelela kufitela bayo fita fa kandu kakanyinyani, foo yayolulela fa situwa. Cwale habanze basutelela kandu kakanyinyani babona kuli kayailwe fa sinkwa ni kukwahelwa ki keke, kono cwale mahaulo naa bonahala kukena sina swikili yesweu."
+      }
+    },
+    {
+      "verse": 29,
+      "text": {
+        "S1": "“We will set to work on that,” said Hansel, “and have a good meal. I will eat a bit of the roof, and you, Gretel, can eat some of the window, it will taste sweet.” Hansel reached up above, and broke off a little of the roof to try how it tasted, and Gretel leaned against the window and nibbled at the panes. Then a soft voice cried from the room.",
+        "S2": "“We will set to work on that,” said Hansel, “and have a good meal. I will eat a bit of the roof, and you, Gretel, can eat some of the window, it will taste sweet.” Hansel reached up above, and broke off a little of the roof to try how it tasted, and Gretel leaned against the window and nibbled at the panes. Then a soft voice cried from the room.",
+        "T1": "Luka lukisa kuli lubeleke fateni, “kwa bulela Hazelu,” nikuba ni sico sesinde. Ni kala hanyinyani twa situwa ni wena, kilitelu wa kona kuca kalulo ya lihaulo, ika utwala munati” Hazelu hafita fa halimu, ni kuloba hanyinyani kwa sitwa kuli autwe utwa mosi utwalela, mi kilitelu ayendemena fa lihaulo ni kunyuntula kwa ngilasi cwale linzwi lelibumolo la kulila lazwelela mwa muzuzu.",
+        "T2": "“Luka lukisa kuli lusebeze fateñi,” kwabulela Hanselu, “nikuba ni sico sesinde. Nikaca hanyinyani kwa situwa mi wena, Giritelu wakona kuca kalulo ya lihaulo, ika utwahala munati.” Hanselu afita fahalimu ni kuloba hanyinyani kwa situwa kuli aikutwise mosi utwahalela, mi Giritelu yena ayendamena fa lihaulo ni kunyuntula kwa mangilasi. Cwale linzwi leli ombami lalila inge lizwelela mwa muzuzu."
+      }
+    },
+    {
+      "verse": 30,
+      "text": {
+        "S1": "“Nibble, nibble, gnaw, who is nibbling at my little house?” The children answered, “The wind, the wind, The heaven-born wind,” and went on eating without disturbing themselves. Hansel, who thought the roof tasted very nice, tore down a great piece of it, and Gretel pushed out the whole of one round windowpane, sat down, and enjoyed herself with it.",
+        "S2": "“Nibble, nibble, gnaw, who is nibbling at my little house?” The children answered, “The wind, the wind, The heaven-born wind,” and went on eating without disturbing themselves. Hansel, who thought the roof tasted very nice, tore down a great piece of it, and Gretel pushed out the whole of one round windowpane, sat down, and enjoyed herself with it.",
+        "T1": "“Nyuntula, nyuntula, nyuntula, kiman͂i ya nyuntula kwa kandu kaka? “Banana baala, ki moya ki moya, ki moya wo pepilwe ki lihalimu,” ni kuzwelapili kuca kusina kuikataza isalibona. Hazelu, utilo hupula kuli situwa si utwala ahulu munati, kupazula siemba sesituna kwateni, mi kilitelu nakashize ngilasi ya lihaulo kaufela kuina ni kuikola isali yena ni yona.",
+        "T2": "“Nyuntula! Nyuntula! Kukunya!” ki man͂i yanyuntulela kwa kandu kaaka?” Banana baalaba bali, “Ki moya! Ki moya! Ki moya wopepilwe ki lihalimu.” Bazwelapili kuca basa ikatazi isali bona. Hanselu, yai kutwisize ni kuhupula kuli situwa siutwahala hahulu munati, apazula siemba sesituna sa situwa mi Giritelu yena akasha ngilasi ya lihaulo kaufela ni kuina fafasi kuikola yona alinosi."
+      }
+    },
+    {
+      "verse": 31,
+      "text": {
+        "S1": "Suddenly the door opened, and a very, very old woman, who supported herself on crutches, came creeping out. Hansel and Gretel were so terribly frightened that they let fall what they had in their hands. The old woman, however, nodded her head, and said, “Oh, you dear children, who has brought you here? Do come in, and stay with me. No harm shall happen to you.” She took them both by the hand, and led them into her little house. Then good food was set before them, milk and pancakes, with sugar, apples, and nuts. Afterwards two pretty little beds were covered with clean white linen, and Hansel and Gretel lay down in them, and thought they were in heaven.",
+        "S2": "Suddenly the door opened, and a very, very old woman, who supported herself on crutches, came creeping out. Hansel and Gretel were so terribly frightened that they let fall what they had in their hands. The old woman, however, nodded her head, and said, “Oh, you dear children, who has brought you here? Do come in, and stay with me. No harm shall happen to you.” She took them both by the hand, and led them into her little house. Then good food was set before them, milk and pancakes, with sugar, apples, and nuts. Afterwards two pretty little beds were covered with clean white linen, and Hansel and Gretel lay down in them, and thought they were in heaven.",
+        "T1": "Kasindumukela munyako nokwauluhile, mi mucembele mumbulu wa musali yana tiyezi fa makilacezi ataha a hooba. Hazelu ni kilitelu neba sabile maswe kuli nebona ni kutuwela zeneli mwa mazoho a bona kuli liwe. Mucembele wa musali, nihakulicwalo, a ngumokisa toho yahae, mi ali, “Oho, mina banana ba balateha ya mitisize fa kiman͂i? amweze mukene ni kupila nina. Hakuna butata bo bukaezala ku mina.” A baswala kwa mazoho kaufela ni kuba libisa kwa kandu ka hae. Cwale lico zende za lukisezwa bona, mabisi, masikono akeke ni swikili, maapule ni dongo. Kasamulaho tumbeta totubeli totunde tone tuapezizwe likubo ze sweu, ni Hazelu ni Kilitelu balobala fateni ni kuhupula kuli ba kwa lihalimu.",
+        "T2": "Kasipundumukela, munyako wakwaluha, ni mucembele mumbulu wa musali yanaa tiyezi fa likota za kuzamayela ataha ahooba. Hanselu ni Giritelu neba sabile hahulu kuli mane zene basweli mwa mazoho abona seliwa. Mucembele wa musali, nihakulicwalo, akobeta ka toho yahae, mi ali, “Ehe! Mina banana babalateha yamitisize fa ki man͂i? Hamukene mupile ni na. Hakuna butaata bobuka ezahala kumina.” Abaswala kwa mazoho kaufela ni kuba libisa kwa kandu kahae. Cwale lico zende zalukisezwa bona: mabisi ni masikono a keke abeilwe swikili, maapule ni ndongo. Kasamulaho, tumbeta totubeli totunde twa apeswa masila akenile amasweu ili moo Hanselu ni Giritelu balobalateñi ni kuhupula kuli inge bainzi kwalihalimu."
+      }
+    },
+    {
+      "verse": 32,
+      "text": {
+        "S1": "The old woman had only pretended to be so kind; she was in reality wicked. When a child fell into her power, she killed it, cooked and ate it, and that was a feast day with her. Witches have red eyes, and cannot see far, but they have a keen scent like the beasts, and are aware when human beings draw near. When Hansel and Gretel came into her neighborhood, she laughed maliciously, and said mockingly, “I have them, they shall not escape me again!”",
+        "S2": "The old woman had only pretended to be so kind; she was in reality wicked. When a child fell into her power, she killed it, cooked and ate it, and that was a feast day with her. Witches have red eyes, and cannot see far, but they have a keen scent like the beasts, and are aware when human beings draw near. When Hansel and Gretel came into her neighborhood, she laughed maliciously, and said mockingly, “I have them, they shall not escape me again!”",
+        "T1": "Musali muhulu naipumisanga inge yana ni sishemo, neli sisinyi sa niti luli. Haiba mwanana a wela mwa mata hae ushwile, kwapeha ni kuca, mi woo ukaba mukiti wahae. Baloi bana ni meto a mafubelu, ni kusabonela kwahule, kono bana ni muunko wa buhali sina libatana ni kuziba haiba batu basutelela bukaofi. Kana koonyana Hazelu ni Kilitelu neba sutelezi kuyena, na seile ka sitoyo, ni kubulela ka kusheununa, “niinzi ni bona, hakuna kobakaya hape!",
+        "T2": "Musali-muhulu aipumisa inge yaana ni sishemo kono kanti ki sisinyi saniti luli. Haiba nji mwanana awela mwa maata ahae kipeto uka mubulaya, kumu apeya ni kumuca, mi lewo likaba lizazi la mukiti wahae wa malyalya. Baloyi bana ni meeto amafubelu, mi haba boneli kwahule, kono bakona kulupelela muunko sina libatana ni kuziba haiba batu babasutelela bukaufi. Cwale Hanselu ni Giritelu hane basutelezi mwa sibaka sanaa pila musali-muhulu, abaseha ka lutimbo ni kuba sheununa ali, “Niba fumani. Habana kuni baleha hape.”"
+      }
+    },
+    {
+      "verse": 33,
+      "text": {
+        "S1": "Early in the morning before the children were awake, she was already up, and when she saw both of them sleeping and looking so pretty, with their plump red cheeks, she muttered to herself, “That will be a dainty mouthful!” Then she seized Hansel with her shriveled hand, carried him into a little stable, and shut him in with a grated door. He might scream as he liked, that was of no use. Then she went to Gretel, shook her till she awoke, and cried, “Get up, lazy thing, fetch some water, and cook something good for your brother, he is in the stable outside, and is to be made fat. When he is fat, I will eat him.”",
+        "S2": "Early in the morning before the children were awake, she was already up, and when she saw both of them sleeping and looking so pretty, with their plump red cheeks, she muttered to herself, “That will be a dainty mouthful!” Then she seized Hansel with her shriveled hand, carried him into a little stable, and shut him in with a grated door. He might scream as he liked, that was of no use. Then she went to Gretel, shook her till she awoke, and cried, “Get up, lazy thing, fetch some water, and cook something good for your brother, he is in the stable outside, and is to be made fat. When he is fat, I will eat him.”",
+        "T1": "Kakusasani-sasani pili banana basila zuha kale, yena nasazuhile kale, mi habona kuli bubeli bwabona nebalobezi ni kubona hala bunde, ni mibili ya lilama zefubelu, an͂un͂una isali yena, ye itaba sico sa mulumo!, “cwale aswala Hazelu ni lizoho lahae leliputani, amukwalela mwa kandu, ni kumukwalela ka munyako wo limbilwe. Kaswana ahuwa sina hanalata, mi seo nesisina tuso. Cwale aya ku kilitelu, amunyunga kufitela azuha, ni kulila, “zuha nto ye buzwa, ka mezi, ni kusoka zende za kaezela hao, umwa kandu kaka inzi kwande, mi uswanela kubiswa bukima. Hakaba yo mukima, nika muca”.",
+        "T2": "Kakusasana-sasana pili banana basika zuha kale, yena nasaa zuhile kale. Mi habona kuli sibeli sabona neba lobezi ni kubonahala bunde, ni mibili ya malama anunile amafubelu, ain͂un͂unela isali yena ali, “Ba bakaba mukushalu woka tala mulumo!” Ki haa swala Hanselu ka lizoho lahae leli fokozi, amuisa kwa kandu kakalobala lifolofolo ni kumukwalela mwateñi ka sikwalo sa sipi. Naa kahuwa ka mwanaa kalatela kono nekusike kwaba ni tuso. Cwale aya ku Giritelu, amunyunga kufitela azuha, ni kuhuwa ali, “Zuha! Nto yebuzwa. Yoka mezi, usokele kaizelaahao zende, yena umwa kandu kakalobala lifolofolo kwande, mi uswanelwa kununiswa. Haaba yomukima, nika muca.”"
+      }
+    },
+    {
+      "verse": 34,
+      "text": {
+        "S1": "Gretel began to weep bitterly, but it was all in vain; she was forced to do what the wicked witch ordered her.",
+        "S2": "Gretel began to weep bitterly, but it was all in vain; she was forced to do what the wicked witch ordered her.",
+        "T1": "Kilitelu akala kusituwa sililo kono nekusina tuso, na hapelelizwe kueza zeo sisinyi sa muloi nesi mulaela.",
+        "T2": "Giritelu akala kusituwa sililo, kono neku sina tuso. Ahapelezwa kueza zewo sisinyi sa muloi nesi mulaela."
+      }
+    },
+    {
+      "verse": 35,
+      "text": {
+        "S1": "And now the best food was cooked for poor Hansel, but Gretel got nothing but crab shells. Every morning the woman crept to the little stable, and cried, “Hansel, stretch out your finger that I may feel if you will soon be fat.” Hansel, however, stretched out a little bone to her, and the old woman, who had dim eyes, could not see it, and thought it was Hansel’s finger, and was astonished that there was no way of fattening him.",
+        "S2": "And now the best food was cooked for poor Hansel, but Gretel got nothing but crab shells. Every morning the woman crept to the little stable, and cried, “Hansel, stretch out your finger that I may feel if you will soon be fat.” Hansel, however, stretched out a little bone to her, and the old woman, who had dim eyes, could not see it, and thought it was Hansel’s finger, and was astonished that there was no way of fattening him.",
+        "T1": "Cwanon͂ufa sico sesinde sa sokelwa Hazelu, kono Kilitelu akuna sanangile kono ashombota makapi. Kakusasana ni kukusasana musali muhulu nahohobela kwa katungu ni kulila,” Hazelu, otolola minwana ya hao kuli ni utwe kuli katuha ununa onafa”. Hazelu, amunamululela kasapo ka kanyinyani, mi mucembele wa musali, ya nana ni meto asaboni hande, nasikakabona, ni kuhupula kuli neli munwana wa Hazelu, mi nakomokile ahulu nekusina mukwa wa ku mununisa.",
+        "T2": "Cwanon͂u, lico zende zasokelwa Hanselu wa mubotana. Haili Giritelu hakuna sanaa ngile konji makapi a nkala. Kakusasana zazi ni zazi musali-muhulu nahohobelanga kwa katungu kakalobala lifolofolo ni kuhuwa ali, “Hanselu, otolola minwana yahao kuli niutwe kuli seu tuha ununa onafa.” Haili Hanselu yena amu namululela kasapo kakanyinyani, mi mucembele wa musali, yanaa na ni meeto asaboni hande, naa sikakabona, mi ahupula kuli mwendi neeli munwana wa Hanselu, mi akomoka hahulu kuli neku sina mukwa wa kumununisa."
+      }
+    },
+    {
+      "verse": 36,
+      "text": {
+        "S1": "When four weeks had gone by, and Hansel still stayed thin, she was seized with impatience and would not wait any longer. “Now, Gretel,” she cried to the girl, “be active, and bring some water. Let Hansel be fat or lean, tomorrow I will kill him, and cook him.”",
+        "S2": "When four weeks had gone by, and Hansel still stayed thin, she was seized with impatience and would not wait any longer. “Now, Gretel,” she cried to the girl, “be active, and bring some water. Let Hansel be fat or lean, tomorrow I will kill him, and cook him.”",
+        "T1": "Hase kufitile lisunda zene ni Hazelu nasa otile, musali na hapilwe ki kacimacima ni kuli nasike kulite nako yetelele. “Cwanon͂u, Kilitelu,” musali alilela musizana,” ushanganane, ni kuota, kamuso na mubulaya, ni ku muapeha.”",
+        "T2": "Hase kufitile lisunda zene mi Hanselu naasa otile, musali naana ni kacimacima mi naa sakoni kulitela nako yetelele. “Cwanon͂u, Giritelu,” musali ahuweleza musizana, “ube ni mafulofulo. Tisa mezi. Hanselu ni kwaka nuna kapa kuñwañuluka ne, kamuso namubulaya, ni kumutateha.”"
+      }
+    },
+    {
+      "verse": 37,
+      "text": {
+        "S1": "Ah, how the poor little sister did lament when she had to fetch the water, and how her tears did flow down over her cheeks! “Dear God, do help us,” she cried. “If the wild beasts in the forest had devoured us, at least we should have died together.”",
+        "S2": "Ah, how the poor little sister did lament when she had to fetch the water, and how her tears did flow down over her cheeks! “Dear God, do help us,” she cried. “If the wild beasts in the forest had devoured us, at least we should have died together.”",
+        "T1": "Aha, mone kabulelezi kasizana ka mubotana hanekaka mezi ni kamo mioko nelotela fa mubili wa hae!” mulatiwa mulimu, lutuse”, alila. “Kambe libatana za mwa mushitu neli lufunjezi, fa kambe lushwile kaufela.",
+        "T2": "“Aha!” mone kamakalezi kasizana ka mubotana hane kaka mezi ni kamoo mioko yakona nei lotela fa mubili wakona, “Mulimu yalateha, lutuse,” kalila. “Kambe libatana za mwa mushitu neli lufunjezi, faa kambe nelu shwile hamoho."
+      }
+    },
+    {
+      "verse": 38,
+      "text": {
+        "S1": "“Just keep your noise to yourself,” said the old woman, “all that won’t help you at all.” Early in the morning, Gretel had to go out and hang up the cauldron with the water, and light the fire. “We will bake first,” said the old woman. “I have already heated the oven, and kneaded the dough.” She pushed poor Gretel out to the oven, from which flames of fire were already darting. “Creep in,” said the witch, “and see if it is properly heated, so that we can shut the bread in.” And once Gretel was inside, she intended to shut the oven and let her bake in it, and then she would eat her, too.",
+        "S2": "“Just keep your noise to yourself,” said the old woman, “all that won’t help you at all.” Early in the morning, Gretel had to go out and hang up the cauldron with the water, and light the fire. “We will bake first,” said the old woman. “I have already heated the oven, and kneaded the dough.” She pushed poor Gretel out to the oven, from which flames of fire were already darting. “Creep in,” said the witch, “and see if it is properly heated, so that we can shut the bread in.” And once Gretel was inside, she intended to shut the oven and let her bake in it, and then she would eat her, too.",
+        "T1": "“Weze feela lilata isali wena kwa bulela musali wa mucembele,” zeo kaufela halina kukutusa sesin͂wi “kikakusasana-sasana, kilitelu nana nikuya ni kuyo paheka njungula ya mezi, ni kutukisa mulilo. “Luka mubesa pili,” kwa bulela musali wa mucembele,” kikale ni futumaza sitofu, ni kuluba fulawa” musali akasheza Kilitelu mubotana kwa sitofu koo malimi naasali amatuna. Hahobela mwahali kwa bulela muloi, mi ubone haiba sicisize hande kuli cwale lukwalele sinkwa mwahali”. Kanako ya cwale kilitelu nail mwa hali, nabata ku mukwalela mwa sitofu ni ku mutuhela kuli abesehe, mi cwale musali nakamuca, hamoho.",
+        "T2": "“Uipulukele feela lilata lahao,” kwabulela musali wa mucembele, “zewo kaufela halina kukutusa sesin͂wi.” Kakusasana-sasana, Giritelu naana ni kuya kuyo paheka njungula ya mezi ni kutumbula mulilo. “Pili luka yowa,” musali wa mucembele abulela, “kikale nifutumaza sitofu, ni kuluba fulawa.” Musali akasheza Giritelu wa mubotana kwa sitofu koo malimi a mulilo nasaa tatalakana. “Hohobela mwahali,” kwabulela muloi, “mi ubone haiba sicisize hande kuli cwale lukwahelele sinkwa mwahali.” Kanako yewo Giritelu naali mwahali, musali naalela kumukwalela mwa sitofu ni kumutuhela kuli abesehe, mi cwale kihona musali hanaa kamuca.."
+      }
+    },
+    {
+      "verse": 39,
+      "text": {
+        "S1": "But Gretel saw what she had in her mind, and said, “I do not know how I am to do it; how do you get in?”",
+        "S2": "But Gretel saw what she had in her mind, and said, “I do not know how I am to do it; how do you get in?”",
+        "T1": "Kono Kilitelu naboni seo musali muhulu nana nisona mwa muhupulo wa hae, mi ali, “Anizbi moniswanela kwezeza; mukona kunga cwani?”",
+        "T2": "Kono Giritelu naa lemuhile sewo musali-muhulu naa lelile mwa muhupulo wahae mi ali, “Hani zbi moni swanela kuezeza; mukona kukena cwañi mwateñi?”"
+      }
+    },
+    {
+      "verse": 40,
+      "text": {
+        "S1": "“Silly goose,” said the old woman, “The door is big enough; just look, I can get in myself!” and she crept up and thrust her head into the oven. Then Gretel gave her a push that drove her far into it, and shut the iron door, and fastened the bolt. Oh! Then she began to howl quite terribly, but Gretel ran away, and the godless witch was miserably burnt to death.",
+        "S2": "“Silly goose,” said the old woman, “The door is big enough; just look, I can get in myself!” and she crept up and thrust her head into the oven. Then Gretel gave her a push that drove her far into it, and shut the iron door, and fastened the bolt. Oh! Then she began to howl quite terribly, but Gretel ran away, and the godless witch was miserably burnt to death.",
+        "T1": "Sanganu sa pato,” kwa bulela mucembele wa musali, “munyako kiwo mutuna luli talima feela, na nakona kukena!” mi a hahobela ni kukasheza toho ya hae mwa sitofu. Cwale Kilitelu atusa ku mukasha seo nesitisize ku musuteleza mwahali luli, ni kukwala sikwalo sa sipi, ni kutama sipakiso. Oho! Cwale musali akala kuhuwa hahulu kakusabisa, kono Kilitelu a mata kusaba, mi muloi ya salumeli za silumeli na nyandile nikuca mulilo kushwela onafo.",
+        "T2": "“Sanganu sa nameke,” kwashwaula mucembele wa musali, “munyako ki womutuna luli. Talima feela kuli na nakona kukena mwateñi.” Musali ki haa hohoba ni kukasheza toho yahae mwa sitofu. Kayona nako yewo, Giritelu atusa musali ka kumukasha kumu suteleza mwahalaa sitofu luli, ni kukwala sikwalo sa sipi, ni kutama sipakiso sa mapo. Oho! Cwale musali akala kuhuwa hahulu ka kusabisa, kono Giritelu amatela kusili, mi muloi yasalumeli ku Mulimu naa cisizwe ki mulilo ni kushwela onafo."
+      }
+    },
+    {
+      "verse": 41,
+      "text": {
+        "S1": "Gretel, however, ran like lightning to Hansel, opened his little stable, and cried, “Hansel, we are saved! The old witch is dead!” Then Hansel sprang out like a bird from its cage when the door was opened for it. How they did rejoice and embrace each other, and dance about and kiss each other! And as they had no longer any need to fear her, they went into the witch’s house, and in every corner there stood chests full of pearls and jewels.",
+        "S2": "Gretel, however, ran like lightning to Hansel, opened his little stable, and cried, “Hansel, we are saved! The old witch is dead!” Then Hansel sprang out like a bird from its cage when the door was opened for it. How they did rejoice and embrace each other, and dance about and kiss each other! And as they had no longer any need to fear her, they went into the witch’s house, and in every corner there stood chests full of pearls and jewels.",
+        "T1": "Kilitelu, nihakulicwalo, namatile sina lumonyi ku Hazelu, ni kuyo kwalula kandu, ni kulila. “Hazelu, lusilelelizwe! Mucembele wa muloi ushwile!” “Cwale Hazelu alompoka kapili-pili sina nyunywani yezwa mwa sitantwe munyako haukwauluzwi. Mone ba tonyakalalela ni kuswalana ni kubina-bina ni kutubetana! Mi nekusina taba hape ya kumusaba, sebakena mwandu ya muloi, mi mwa sikutwana ni sikutwana ne kuyemi makwati a tezi lin͂ongolo ni lifaha.",
+        "T2": "Giritelu nihakulicwalo, amata sina lumonyi lwa pula kuliba ku Hanselu, akwalula kandu moku lobala lifolofolo ni kulila, “Hanselu! Lusilelelizwe! Mucembele wa muloi ushwile!” Cwale Hanselu alumpuka kapili-pili sina nyunywani yezwa mwa sitantwe munyako hau kwahuluzwi kuli izwe mwateñi. Banyakalala ni kuswalana ni kubina-bina ni kutubetana! Mi neku sina taba hape ya kumusaba, seba kena mwa ndu ya muloi, mi mwa sikutwana ni sikutwana yayona neku yemi makwati atezi lin͂ongolo ni lifaha."
+      }
+    },
+    {
+      "verse": 42,
+      "text": {
+        "S1": "“These are far better than pebbles!” said Hansel, and thrust into his pockets whatever could be got in, and Gretel said, “I, too, will take something home with me,” and filled her pinafore full. “But now we will go away,” said Hansel, “that we may get out of the witch’s forest.” When they had walked for two hours, they came to a great body of water. “We cannot get over,” said Hansel, “I see no foot-plank, and no bridge.” “And no boat crosses either,” answered Gretel.",
+        "S2": "“These are far better than pebbles!” said Hansel, and thrust into his pockets whatever could be got in, and Gretel said, “I, too, will take something home with me,” and filled her pinafore full. “But now we will go away,” said Hansel, “that we may get out of the witch’s forest.” When they had walked for two hours, they came to a great body of water. “We cannot get over,” said Hansel, “I see no foot-plank, and no bridge.” “And no boat crosses either,” answered Gretel.",
+        "T1": "“Ze nelilihande kufita tucwe!” kwa bulela Hazelu, ni kukasheza mwa lipokoto za hae kuli se sikafumaneha kaufela, mi Kilitelu abulela, “Nina nikanga seni kalwalela kwa hae,” mi ataza sitenge sa hae. “Kono cwale lukaya,” kwa bulela Hazelu, “kuli luzwe mwa mushitu wa muloi.” Hase bazamahile lihola zepeli, ba tofumana sibaka sa mezi aman͂ata. “Halukoni kusila,” kwa bulela Hazelu, “haniboni mutano, mi akuna kalani”. “Mi nihaiba mukolo wa kusilisa akuna,” kwaalaba Kilitelu,",
+        "T2": "Ze ki zende kufita tucwe!” kwabulela Hanselu. Abeya mwa mapokoto ahae zene likonahala kukwana mwateñi kaufela. Giritelu ali, “Ni na nikaanga senika lwalela kwa hae.” Ataza sitenge sahae. “Cwale lwakona kuikela,” kwabulela Hanselu, “kuli luzwe mwa mushitu wa muloi.” Hase bazamayile lihola zepeli, bato fumana sibaka sa mezi aman͂ata. “Halukoni kusilela mwabuse,” kwabulela Hanselu, “haniboni mabala a kusilela kapa mutano.” “Mi nihaiba lonji yesila hakuna,” kwaalaba Giritelu,"
+      }
+    },
+    {
+      "verse": 43,
+      "text": {
+        "S1": "“But a white duck is swimming there; if I ask her, she will help us over.” Then she cried.",
+        "S2": "“But a white duck is swimming there; if I ask her, she will help us over.” Then she cried.",
+        "T1": "“Kono pato ye sweu ya tapa faale, kambe naikupa, ikalutusa kusila,” cwale alila.",
+        "T2": "“Kono pato yesweu yatapa faale, kambe nai kupa, ikalu tusa kulusilisa,” Ki haa biza."
+      }
+    },
+    {
+      "verse": 44,
+      "text": {
+        "S1": "“Little duck, little duck, do you see, Hansel and Gretel are waiting for you? There’s never a plank, or bridge in sight, Take us across on your back so white.”",
+        "S2": "“Little duck, little duck, do you see, Hansel and Gretel are waiting for you? There’s never a plank, or bridge in sight, Take us across on your back so white.”",
+        "T1": "“Kapato, kapato, wabona Hazelu ni Kilitelu ba kulitezi? Akuna Libala, kapa kalani sesibonahala, lwise mwabuse fa mukokoto wa hao woli twaa.”",
+        "T2": "“Kapato! Kapato! Kana wabona Hanselu ni Giritelu baba kulitezi? Hakuna Libala la kusilela, kapa mutano wobonahala. Lwiise mwabuse fa mukokoto wahao womusweu luli.”"
+      }
+    },
+    {
+      "verse": 45,
+      "text": {
+        "S1": "The duck came to them, and Hansel seated himself on its back, and told his sister to sit by him. “No,” replied Gretel, “that will be too heavy for the little duck; she shall take us across, one after the other.” The good little duck did so, and when they were safely across and had walked for a short time, the forest seemed to be more and more familiar to them, and at length they saw from afar their father’s house. Then they began to run, rushed into the parlor, and threw themselves into their father’s arms. The man had not known one happy hour since he had left the children in the forest; the woman, however, was dead. Gretel emptied her pinafore until pearls and precious stones ran about the room, and Hansel threw one handful after another out of his pocket to add to them. Then all anxiety was at an end, and they lived together in perfect happiness. My tale is done, see the mouse run, whoever catches it, may make himself a big fur cap out of it.",
+        "S2": "The duck came to them, and Hansel seated himself on its back, and told his sister to sit by him. “No,” replied Gretel, “that will be too heavy for the little duck; she shall take us across, one after the other.” The good little duck did so, and when they were safely across and had walked for a short time, the forest seemed to be more and more familiar to them, and at length they saw from afar their father’s house. Then they began to run, rushed into the parlor, and threw themselves into their father’s arms. The man had not known one happy hour since he had left the children in the forest; the woman, however, was dead. Gretel emptied her pinafore until pearls and precious stones ran about the room, and Hansel threw one handful after another out of his pocket to add to them. Then all anxiety was at an end, and they lived together in perfect happiness. My tale is done, see the mouse run, whoever catches it, may make himself a big fur cap out of it.",
+        "T1": "Pato yataha kubona, mi Hazelu ainafa mukokoto wa yona, ni kubulela kaezela hae kuli aine kwa tuko ni yena. “Batili,” kwalaba Kilitelu, “sesikabisa bukiti kwa pato; ukalwisa mwabuse, alimun͂wi kaalimun͂wi,” kapato ka kasishemo kaeza cwalo, mi kanako yeo hase ba silile hande ni kuzamaya nakonyana, mushitu wa bonahala kuli wazibahala kubona, mi isale kwahule ba bonela ndu ya ndataa bona kwahule hulwe. Cwale bakala kumata, nikuyo kena mwa ndu kaputako, ni kuyowela mwa mazoho a ndata bona muuna muhulu nasika ziba tabo ya hola ilimwi kakuli nakile a siya banana mwa mushitu, musali, nihakulicwalo na shwile. Kilitelu atamulula mulepo kufitela lin͂ongolo ni macwe abutokwa amatamata mwa muzuzu, mi Hazelu a posaka lizoho lelitezi kakuswalelela kuzusa mwa pokoto ya hae kwekeza kuaho. Cwale pilaelo kaufela ya fita mwa mafelelezo, ni bapila hamoho mw atabo ye nde. Litangu laka lifelile, bona peba ye mata, yakaiswala kaufela, wakona kuipangela kuwani yetuna kuzwa fa boya bwa yona.",
+        "T2": "Pato yataha kubona, mi Hanselu aina fa mukokoto wayona, ni kubulelela kaizelaahae kuli aine kwatuko ni yena. “Batili,” kwaalaba Giritelu, “se sika bisa bukiti kwa pato; ikalwiisa mwabuse, alimun͂wi ka alimun͂wi,” Kapato kakasishemo kaeza cwalo, mi ka nako yewo hase basilile hande ni kuzamaya nako-nyana, mushitu wabonahala kuli wazibahala kubona, mi isale kwahule babonela ndu ya ndataabona kwahule-hule. Cwale bakala kumata, ni kuyo kena mwa ndu ka putako ni kuyowela mwa mazoho a ndataabona. Muuna-muhulu naa sika ziba tabo ya hola iliñwi kakuli naakile asiya banana mwa mushitu, haili wa musali, nihakulicwalo naa shwile. Giritelu atamulula mulepo wa siputu kufitela lin͂ongolo ni macwe abutokwa abulumukela mwa muzuzu, haili Hanselu yena aposakanga lizoho lelitezi ka lizoho lelizezi kukuta kutela inge azusa mwa pokoto yahae kuekeza kuzeo. Cwale pilaelo kaufela yafita kwamafelelezo, mi bapila hamoho ka tabo yende. Litangu laaka lifelile, bona peba yemata, yaka iswala kaufela wakona kupanga kuwani yetuna kuzwa fa boya bwayona."
+      }
+    }
+  ]
+}
