@@ -1,7 +1,7 @@
 # Zambia-Storybook-Corpus
 The Zambia Storybook Corpus is a structured, bilingual parallel dataset of classic children's literature in Zambian languages: Icibemba, Chinyanja, Sitonga, and Silozi. I worked with Zambian translators to produce this project to inspire educators and learners worldwide. I hope these translations will be published along with many others someday.
 
-Developed as part of an independent non-profit initiative for educational equity by Books & Friends Publishing House Inc., this corpus aligns English public domain source texts—such as The Tale of Peter Rabbit, Hansel and Gretel, and Little Red Riding-Hood—with their respective translations in four major Zambian languages: Icibemba, Chinyanja, Silozi, and Chitonga.
+Developed as part of an independent non-profit initiative for educational equity by Books & Friends Publishing House Inc., this corpus aligns English public domain source texts—such as The Tale of Peter Rabbit, Hansel and Gretel, and Little Red Riding-Hood—with their respective translations in four major Zambian languages: Icibemba, Chinyanja, Silozi, and Sitonga.
 
 ## Data Structure
 
