@@ -23,6 +23,10 @@ Special acknowledgment is given to the dedicated translation team—including Mu
 
 ## Data Access & Source Files
 
-The parallel corpus is provided in parsed JSON format in this repository for immediate NLP and programmatic use.
+The parallel corpus is provided in parsed JSON format in this repository for immediate NLP and programmatic use. The "ANNOTATED DATA" section of the corpus includes direct annotation categories "So" and "To" that stem from the outputs of Helsinki OPUS MT models for english <> bemba, nyanja, lozi, and tonga. 
 
 If you require the original `.docx` translation manuscripts to review formatting or raw text boundaries, please contact me directly.
+
+```
+Tiedemann, J. and Thottingal, S. (2020) ‘OPUS-MT – Building open translation services for the World’, in Proceedings of the 22nd Annual Conference of the European Association for Machine Translation. Lisboa, Portugal, 3–5 November. European Association for Machine Translation, pp. 479–480. Available at: aclanthology.org (Accessed: 20 November 2026).
+```
