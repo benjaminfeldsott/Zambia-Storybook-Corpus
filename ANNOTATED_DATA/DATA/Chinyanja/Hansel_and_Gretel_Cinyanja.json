@@ -1,0 +1,435 @@
+{
+  "header": {
+    "Title (Source)": "Hansel and Gretel",
+    "Title (Target)": "",
+    "Original Author": "Brothers Grimm",
+    "Source Language": "English",
+    "Target Language": "Cinyanja",
+    "Translator 1": "Agnes Nankhoma Singine",
+    "Translator 2": "Clarence K. Phiri"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "Near a great forest dwelt a poor woodcutter with his wife and his two children. The boy was called Hansel and the girl Gretel.",
+        "S2": "Near a great forest dwelt a poor woodcutter with his wife and his two children. The boy was called Hansel and the girl Gretel.",
+        "T1": "Pafupi ndi nkhalango yaikulu pamakhala wotema nkhuni ndi mkazi wake ndi ana ake awiri.Mnyamata dzina lake linali Hensel ndipo dzina la mtsikana linali Gretel.",
+        "T2": "Pafupi ndi nkhalango yaikulu pamakhala wotema nkhuni wosauka ndi mkazi wake ndi ana ake awiri.Mnyamata dzina lake linali Hensel ndipo dzina la mtsikana linali Gretel.",
+        "To": "Pafupi ndi nkhalango ina yaikulu panali mwana wina wa mitengo dzina lake Gretel.",
+        "So": "Near the forest is a poor wood - cutting plant with his wife and two children - a young woman named Gretel."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "He had little to bite and to break, and when great scarcity fell on the land, he could no longer procure daily bread. Now when he thought over this at night in his bed, and tossed about in his anxiety...",
+        "S2": "He didn’t have enough food, and when great scarcity fell on the land, he could no longer procure daily bread. Now when he thought over this at night in his bed, and tossed about in his anxiety...",
+        "T1": "Iye anali anali ndi cakudya cosakwanira,ndipo pamene njala inayamba m’dziko,samakwanitsa kupeza cakudya catsiku ndi tsiku.Ndipo pamene anaganizirapo usiku wonse ali gone pa kama lake, ndipo anasandamuka ali ndi nkhawa yake...",
+        "T2": "Iye analibe cakudya cokwanira,ndipo pamene njala inayamba m’dziko,samakwanitsa kupeza cakudya catsiku ndi tsiku.Ndipo pamene anaganizirapo usiku wonse ali gone pa kama lake, ndipo anasandamuka ali ndi nkhawa yake...",
+        "To": "Iye anali ndi chakudya chokwanira, ndipo pamene njala yaikulu inagwa pa dziko, sanathenso kulandira chakudya cha tsiku ndi tsiku; koma pamene analingalira za ichi usiku m'bedi mwake, nagwa ndi nkhaŵa yake...",
+        "So": "He had no graph, and when famine began to strike the land, he could not afford to eat caca every day; and when he thought all night upon his bed, and he went to his bed, full of anxiety..."
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "He groaned and said to his wife, “What is to become of us? How are we to feed our poor children, when we no longer have anything even for ourselves?”",
+        "S2": "He groaned and said to his wife, “What is to become of us? How are we to feed our poor children, when we no longer have anything even for ourselves?”",
+        "T1": "Iye anakuwira mkazi wake kuti “Kodi n’ciyani cidzacititika kwa ife? Kodi tidzadyetsa bwanji ana athu, pamene tilibe cakudya ngakhale ife?”",
+        "T2": "Iye anabuula ndi kunena kwa mkazi wake kuti “Kodi n’ciyani cidzacitika kwa ife? Kodi tidzadyetsa bwanji ana athu, pamene tilibe cakudya ngakhale ife omwe?”",
+        "To": "Iye anadandaula n'kunena kwa mkazi wake kuti, \" Kodi n'chiyani chimene chidzatichitikira? '",
+        "So": "He lamented and said to his wife: \"Who are we to get a coclaciti, and how will we feed our children, when we don't eat even ourselves?"
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "“I'll tell you what, husband,” answered the woman, “Early tomorrow morning we will take the children out into the forest where it is the thickest. There we will light a fire for them, and give each of them one piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them.”",
+        "S2": "“I'll tell you what, husband,” answered the woman, “Early tomorrow morning we will take the children out into the forest where it is the thickest. There we will light a fire for them, and give each of them one piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them.”",
+        "T1": "“Ndidzakuwuzani cinacake, amuna anga, anayankha mkazi wake, “Mawa m’mamawa tidatenga ana athu ndikupita nawo m’nkhalango komwe kuli mitengo yambiri. Tidzawatsira moto, ndipo aliyense tidzamupatsa buledi m’modzi, ndipo ife tidzapita kunchito yathu ndi kuwasiya okha. Sadzakwanitsa kubwerera kunyumba, ndipondi mmene adzafera”",
+        "T2": "“Ndidzakuwuzani cinacake, amuna anga, anayankha mkazi wake, “Mawa m’mamawa tidzatenga ana athu ndikupita nawo m’nkhalango komwe kuli mitengo yambiri. Tidzayawatsira moto, ndipo aliyense tidzamupatsa cingwa m’modzi, ndipo ife tidzapita kunchito yathu ndi kuwasiya okha. Sadzakwanitsa kubwerera kunyumba, ndipo ndi mmene adzafera”",
+        "To": "M'MASIKU, ine ndi mwamuna, tinayankha mwamphamvu mkaziyo, titadzuka m'mawa kwambiri, tidzachotsa anawo m'nkhalango mmene muli mochindikala kwambiri, kumeneko tidzawaphikira moto, ndi kuwapatsa chakudya chimodzi, ndiyeno tidzapita kuntchito yathu ndi kuwasiya okha.",
+        "So": "I'll tell you to take a fire, my husband, his wife answered, and we'll take Mawa in the morning and take our children out into the forest, where there are many trees; we will set them on fire, and each one will give them a single piece, and we'll go to our shop and leave them alone. They'll never be able to return home, and it'll never be done to them."
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "“No,wife,” said the man, “I will not do that; how can I bear to leave my children alone in the forest?-the wild animals would soon come and tear them to pieces.”",
+        "S2": "“No,wife,” said the man, “I will not do that; how can I bear to leave my children alone in the forest?-the wild animals would soon come and tear them to pieces.”",
+        "T1": "\"Iyayi mkazi wanga,” anatero mwamuna, “Sindingachite cimeneci; zingatheke bwanji kukhala ndi ana ndipo pambuyo pake kuwasiya m’nkhalango?- nyama zamthengo zingabwere msanga ndi kuwang’amba ndikuwasiya zidutswa.”",
+        "T2": "“Iyayi mkazi wanga,” anatero mwamuna, “Sindingacite cimeneci; zingatheke bwanji kukhala ndi ana ndipo pambuyo pake kuwasiya m’nkhalango?- nyama zamthengo zingabwere msanga ndi kuwang’amba ndikuwasiya zidutswa.”",
+        "To": "N'chifukwa chake munthu uja ananena kuti: \"Sindingachite zimenezo, kodi ndingapirire bwanji kuti ndisiye ana anga ali okha m'nkhalangomo?",
+        "So": "MY wife, the emperor, said a husband, a SICIcco; how could it be possible to have children and later leave them in the woods?-Gen animals can come quickly and tear them up and leave them in pieces."
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "“O, you fool!” said she, “Then we must all four die of hunger. You maynas well plane the planks for our coffins,” and she left him no peace until he consented. “But I feel very sorry for the poor children, all the same,” said the man.",
+        "S2": "“O, you fool!” said she, “Then we must all four die of hunger. You may as well plane the planks for our coffins,” and she left him no peace until he consented. “But I feel very sorry for the poor children, all the same,” said the man.",
+        "T1": "“O, citsiru iwe, Anati, ‘ndiye tonse anayi tiyenera kufa ndi njala, Mukhozanso kupanga matabwa a mabokosi ath ndipo sanamulole kuti akhale ndi mtendere mpaka atavomera “Koma ndikumva cisoni kwambiri ndi ana osaukawa, cimodzimodzi, adatero bamboyo.",
+        "T2": "“O, citsiru iwe, Anati, ‘ndiye tonse anayi tiyenera kufa ndi njala, Mukhozanso kupanga matabwa a mabokosi ath ndipo sanamulole kuti akhale ndi mtendere mpaka atavomera “Koma ndikumva cisoni kwambiri ndi ana osaukawa, cimodzimodzi, adatero bamboyo.",
+        "To": "MOSE, inu mwapusa, munamuuza kuti, nthaŵi yomweyo tonse anayi tiyenera kufa ndi njala; mungapatulirenso matabwa a mabokosi athu amaliro, ndipo sanam'patse mtendere kufikira atavomereza.",
+        "So": "THE Devil said to you: \" Only the four of us must die from hunger, and you can make wood for the first boxes of wood and let them have peace until they agree to the wedding, but I feel so sorry for these poor children, the same word. '"
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "The two children had also not been able to sleep for hunger, and had heard what their stepmother had said to their father. Gretel wept bitter tears, and said to Hansel, “Now all is over for us.”“Hush,Gretel,” said Hansel, “do not distress yourself, I will soon find a way to help us.”",
+        "S2": "The two children had also not been able to sleep for hunger, and had heard what their stepmother had said to their father. Gretel wept bitter tears, and said to Hansel, “Now all is over for us.”“Hush,Gretel,” said Hansel, “do not distress yourself, I will soon find a way to help us.”",
+        "T1": "Ana awiri aja sanakwanitse kugona cifukwa ca njala, ndipo anamva zones zimene amayi awo wopeza ananena kwa atate awo. Gretel analira kwambiri ndipo misozi inagwa, ndipo anati kuli Hansel. “Kwaife tsopano kwatha.” “Khala cete, Gretel, anateroHansel, “osada nkhawa ayi, posacedwapa ndidzapeza njira mmene tingadzithandizire,”",
+        "T2": "Ana awiri aja sanakwanitse kugona cifukwa ca njala, ndipo anamva zonse zimene amayi awo wopeza ananena kwa atate awo. Gretel analira kwambiri ndipo misozi inagwa, ndipo anati kuli Hansel. “Kwaife tsopano kwatha.” “Khala cete, Gretel, anateroHansel, “osada nkhawa ayi, posacedwapa ndidzapeza njira mmene tingadzithandizire,”",
+        "To": "Ana aŵiriwo sanalinso okhoza kugona chifukwa cha njala, ndipo anali atamva zimene amayi awo aang'ono ananena kwa atate wawo. Gretel analira kwambiri, ndipo anati kwa Hansel, \"Tsopano zonse zatheka kwa ife. \" Mulvin, Gretel, Bretel, Brel, redom, osati kuvutika maganizo, ndipeza njira yotithandiza.",
+        "So": "The two children were unable to go to bed hungry, and they heard of all that their adoptive mother said to her father. Gretel cried bitterly and wept, and said there was Hansel. The result is now gone."
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "And when the old folks had fallen asleep, he got up, put on his little coat, opened the door below, and crept outside. The moon shone brightly, and the white pebbles which lay in front of the house glittered like real silver pennies.",
+        "S2": "And when the old folks had fallen asleep, he got up, put on his little coat, opened the door below, and crept outside. The moon shone brightly, and the white pebbles which lay in front of the house glittered like real silver pennies.",
+        "T1": "Ndipo pamene nkhalamba zinali gone, anawuka, ndikuvala khoti lake lopepuka, anatsekula citseko m’munsi, ndikutuluka panja. Mwezi unali unawala kwambiri, ndipo miyala yoyera imeneinali kutsogolo kwa nyumba inawala ngati ndalama zenizenizasiliva.",
+        "T2": "Ndipo pamene nkhalamba zinali gone, anawuka, ndikuvala khoti lake locepekela, anatsekula citseko m’munsi, ndikutuluka panja. Mwezi unali unawala kwambiri, ndipo miyala yoyera imene inali kutsogolo kwa nyumba inawala ngati ndalama zenizeniza siliva.",
+        "To": "Ndipo pamene makolo okalamba anagona, iye ananyamuka, navala malaya ake aang'ono, natsegula chitseko, naloŵa kunja; mwezi unawala, ndi miyala yoyera imene inali kutsogolo kwa nyumba yokutidwa ngati siliva weniweni.",
+        "So": "And when the elderly were sleeping, they were thrown out, and put on his own body - glassed court, they opened the air below, and left outside. The moon was bright, and white stones in front of the house shed like literal silver coins."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "Hansel stooped and put as many of them in the little pocket of his coat as he could possiblyget in. Then he went back and said to Gretel, “Be comforted, dear little sister, and sleep in peace, God will not forsake us,” and he lay down again in his bed.",
+        "S2": "Hansel stooped and put as many of them in the little pocket of his coat as he could possiblyget in. Then he went back and said to Gretel, “Be comforted, dear little sister, and sleep in peace, God will not forsake us,” and he lay down again in his bed.",
+        "T1": "Hansel anawelama ndipo analongera m’thumba laling’ono la khoti lake momwe anakwanitsa. Ndipo anapita kwa Gretel, “Tonthozedwa mlongo wanga wokondedwa, ndipo gona mu mtendere, Mulungu sangatisiye,” ndipo Hansel anagonanso pa kama lake.",
+        "To": "Hansel anatsamwidwa ndi kuika ambiri a iwo m'thumba laling'ono la malaya ake monga momwe akanakhoza kuloŵamo. Kenako anabwerera ndi kunena kwa Gretel, RODemiy, mlongo wamng'ono wokondedwa, ndi kugona mu mtendere, Mulungu sadzatitaya, ndipo anagonanso pakama pake.",
+        "So": "Hansel looked up and put into his own lower court bag the size of his own court; and he went to Gretel, venTon my dear sister, and sleep in peace, God would not abandon us, and Hansel fell back on his bed."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "When day dawned, but before the sun had risen, the woman came and awoke the two children, saying, “Get up, you sluggards! We are going into the forest to fetch wood.” She gave each a little piece of bread, and said, “There is something for your dinner, but do not eat it up before then, for you will get nothing else.”",
+        "T1": "M’matanda kuca, koma dzuwa lisanatuluke mzimayi uja anabwera ndi kudzutsa ana awiri aja, kuti,” Dzukani, inu awulesi, tikupita m’nkhalango kukafuna nkhuni” Iye anapatsa aliyense kabuledi kakang’ono nati, “Pali cinacake cakudya madzulo, musadye msanga, cifukwa simudzapenso cina.”",
+        "To": "Tsiku litacha, koma dzuŵa lisanaphulike, mkaziyo anadza nadzutsa ana aŵiriwo, nanena, Tadzuka, talauzani, takwera mitengo; tilowa m'nkhalango kutenga nkhuni; ndipo iye anapatsa chakudya chaching'ono chilichonse, nati, Kuphika kuli kanthu ka chakudya chanu, koma osadya nthaŵi yomweyo; pakuti simudzapeza kanthu.",
+        "So": "You go toca, but immediately after sunrise the woman came and woke up the two children, saying, \" Do not eat, you lazy, we go out to the forest to look for wood for the wood, and he gave each one a small piece of bread and say, \" Let's eat it in the evening, and you'll never eat again. '"
+      }
+    },
+    {
+      "verse": 11,
+      "text": {
+        "S1": "Gretel took the bread under her apron, as Hansel had the stones in his pocket. Then they all set out together on the way to the forest. When they had walked a short time, Hansel stood still and peeped back at the house, and did so again and again.",
+        "T1": "Gretel anayikakabuledi ndi kukaika m’thumba la epulo lake, ndipo Hansel anali ndi miyala m’thumba lake. Pambuyo pake iwo onse ananyamuka ulendo wopita kunkhalango. Pamene anangoyenda nthawi yaing’ono, Hansel anaimirira ndikupenya kunyumba, ndipo anacita ici mobwerezerabwerezera.",
+        "To": "Gretel anatenga bulediyo ali khale pansi pa chikhasu chake, pamene Hansel anali ndi miyala m'thumba mwake, ndipo onse ananyamuka pamodzi popita ku nkhalango.",
+        "So": "Gretel puts the four to a piece and put his envelope in his bag, and Hansel stood and saw the stones in his pocket, and all three of them moved back to the forest for a short time."
+      }
+    },
+    {
+      "verse": 12,
+      "text": {
+        "S1": "His father said, “Hansel, what are you looking at there and staying behind for? Mind yourself, and do not forget how to use your legs.”",
+        "T1": "Atate ake anati, “Hansel, kodi ukupenya ciyani kumeneko ndipo ukukhalira ciyani kumbuyo?” Dziwa, ndipo osayiwala momwe umagwiritsira nchito miyendo yako.",
+        "To": "Bambo ake anamuuza kuti: \"N'chiyani chimakuyang'ana m'mbuyo n'kumangokhala osachitapo kanthu?",
+        "So": "His father said, \"Hanses, who do you see and who is sitting behind? '"
+      }
+    },
+    {
+      "verse": 13,
+      "text": {
+        "S1": "“Ah, father,” said Hansel, “I am looking at my little white cat, which is sitting up on the roof, and wants to say goodbye to me.” The wife said, “Fool, that is not your little cat, that is the morning sun which is shining on the chimneys.” Hansel, however, had not been looking back at the cat,but had been constantly throwing one of the white pebblestones out of his pocket on the road.",
+        "T1": "“Aaaa atate,” anatero Hansel. “Ndikupenyakamphaka kanga koyera, kamene kali khale patsidwi ndipo kafuna kuyalirana nane. Mkazi anati, “Citsiru iwe, kameneko si kamphaka chona kako, limenelo ndi dzuwa la m’mawa lomwe likuwala potulukira utsi.” Komabe, Hansel, samapenyetsetsa kamphaka kake, koma amaponya miyala yoyera kucokera m’thumba m’msewu womwe anadzera.",
+        "To": "Bambo anga, a Hansel, omwe ali ndi mwana wamkazi, ananena kuti: \"Ndikuyang'ana mphaka wanga wamng'ono woyera, amene wakhala pansi padenga la nyumba, ndipo akufuna kundipsompsona. \"",
+        "So": "I'm looking at my white coat, which is sitting on a screen and wants to be around me. The woman said, \" You numCi, ' that's not a little flat, that's the morning sun of a smoke coming out. However, Hansel, she doesn't see her little stone, but she throws white stones into her bag."
+      }
+    },
+    {
+      "verse": 14,
+      "text": {
+        "S1": "When they had reached the middle of the forest, the father said, “Now, children, pile up some wood, and I will light a fire that you may not be cold.” Hansel and Gretel gathered brushwood together, as high as a little hill.",
+        "T1": "Pamene anafika pakati pankhalango, atate awo anati, “Tsopano, ana inu, unjikani nkhuni,ndipo ine ndidzayatsa moto kuti musamvere mphepo,” Hansel ndi Gretel anawunjika nkhuni pamodzi, pafupifupi ngati ka phiri kakang’ono.",
+        "To": "Pamene anafika pakati pa nkhalangoyo, atatewo anati, huluta tsopano, ana, ndi kuunjika nkhuni, ndipo ndidzayatsa moto umene sungazizizirike.",
+        "So": "When they arrived in the middle of the forest, their father said, \"Go now, you children, draw wood for you, and I will set fire so that you do not listen to the wind, and Hansel and Gretel have set up wood together, almost like a little mountain."
+      }
+    },
+    {
+      "verse": 15,
+      "text": {
+        "S1": "The brushwood was lighted, and when the flames were burning very high, the woman said, “Now,children, lay yourselves down by the fire and rest. We will go into the forest and cut some wood. When we have done, we will come back and fetch you away.”",
+        "T1": "Moto wa nkhuni unayatsidwa, ndipo pamene malawi anayamba kuyaka kwambiri, mzimayi anati “Tsopano ana inu gonani mbali mwa moto ndipo mupumule. Ife tikupita m’khalango kukadula nkhuni.Tikatsiriza, tidzabweranso ndi kukutengani”",
+        "To": "Mphakayo anaiyatsa, ndipo pamene moto unali kuyaka kwambiri, mkaziyo anati, \" Tsopano, ananu, tagona pamoto ndi kupuma. '",
+        "So": "A fire of wood was lit up, and as the flames began to burn hot, a woman said that you children were now lying on the side of the fire and taking a rest; we're going back and down to cut wood; when we finished, we'll come back and take you a bucket"
+      }
+    },
+    {
+      "verse": 16,
+      "text": {
+        "S1": "Hansel and Gretel sat by the fire, and when noon came, each ate a little piece of bread,and as they heard the strokes of the wood-axe they believed that their father was near. It was not, however, the axe, it was a branch which he had fastened to a withered tree which the wind was blowing backwards and forwards. And as they had been sitting such a long time, their eyes shut with fatigue, and they fell fast asleep. When at last they awoke, it was already dark night.",
+        "T1": "Hansel ndi Gretel anakhala m’mbali mwa moto, ndipo masana anafika, aliyense anadya kabuledi kakang’ono,ndipo pamene amamvera kutema kwa nkhuni anakhulupirira kuti atate awo anali pafupi. Komabe sizinali tero, ndipo nkhwangwa imene imamveka ngati ndi kutema nkhuni, inali nthambi imene inagwidwa kumtengo wouuma, imene imagunda kumtengo wowumawo cifukwa ca mphepo yomwe imawomba cakumbuyo ndi cakutsogolo. Ndipo pamene anali khale kwa nthawi yayitali, maso awo anatsekeka cifukwa cotopa ndipo anagona tulo tofanato. Pamene anadzuka potsirizira pake, kunali kale mdima.",
+        "To": "Hansel ndi Gretel anakhala pansi pa moto, ndipo pamene masana anafika, aliyense anadya ka mkate, ndipo pamene anamva kutsamwa kwa mtengo wa nkhuniwo anakhulupirira kuti atate wawo anali pafupi; koma osati masana, inali nthambi imene anamangirira ku mtengo wofota umene mphepo inali kumbuyo ndi kutsogolo.",
+        "So": "Hansel and Gretel sat on the edge of the fire, and in the afternoon, each ate a small piece of bread, and as they obey the wood harvest believed that their father was nearby. Yet it was not, and the ax that sounded like a cutting wood, it was a branch that was caught from a dry tree, which hit the woodling tree in the dark heat of the wind that hits the back with the bow. And while they were still in the distance, they were still in the dark."
+      }
+    },
+    {
+      "verse": 17,
+      "text": {
+        "S1": "Gretel began to cry and said, “How are we to get out of the forest now?” But Hansel comforted her and said, “Just wait a little, until the moon has risen, and then we will soon find the way.” And when the full moon had risen, Hansel took his little sister by the hand, and followed the pebbles which shone like newly-coined silver pieces, and showed them the way.",
+        "T1": "Gretel anayamba kulira nati “Tidzacoka bwanji m’nkhalango muno tsopano?” Koma Hansel anamukhazika mtima pansi kuti,“Yembekeza nthawi yocepa, mpaka mwezi utatuluka, ndipo tidzapeza njira mmene tingabwerere.” Ndipo pamene mwezi wathunthu unatuluka, Hansel anatenga mlongo wake wam’ng’ono pomgwira padzanja, ndikulondola miyala imeneinawala ngati ndalama zatsopano zasiliva ndipo inawaonetsa njira yobwerera kwawo.",
+        "To": "Gretel anayamba kulira ndi kunena kuti, \"Kodi tituluka bwanji m'nkhalango tsopano? \" Koma Hansel anamtonthoza ndi kunena kuti, Kungoyembekezera pang'ono chabe, kufikira mwezi watuluka, ndiyeno posachedwapa tidzapeza njira. Ndipo pamene mwezi wathunthu unatuluka, Hansel anatenga mlongo wake wamng'onoyo ndi dzanja, ndi kutsatira mawu onyezimira amene ananyezimira ngati ndalama za siliva, ndi kuwasonyeza njira.",
+        "So": "Gretel started to cry and ask how we would get out of the forest now, but when Hansel came out, he said that he would look forward to the time, until the moon came out, and we would find a way back; and when the full month came out, Hansel took his little sister by the hand, and looked for stones that were like new coins and showed them the way back home."
+      }
+    },
+    {
+      "verse": 18,
+      "text": {
+        "S1": "They walked the whole night long, and by break of day came once more to their father's house. They knocked at the door, and when the woman opened it and saw that it was Hansel and Gretel, she said, “You naughty children, why have you slept so long in the forest? We thought you were never coming back at all!”",
+        "T1": "Iwo anayenda usiku wonse, ndipo pamene kunali kucha anali atafika panyumba ya atate awo. Anagogoda pacitseko, ndipo pamene mzimayi anatsekula anawona kuti anali Hansel ndi Gretel, nati,“Ana inu opusa, n’cifukwa ciyani mwagona nthawi yayitali kwambiri m’nkhalango? Timaganiza kuti mwina simudzabweranso!”",
+        "To": "Anagogoda pakhomo, ndipo mkaziyo atatsegula n'kuona kuti Hansel ndi Gretel, ananena kuti, \"N'chifukwa chiyani simunagonenso m'nkhalango?",
+        "So": "They walked all night, and when dawn came to their father's house, they knocked on the door, and when a woman opened the door, they saw that it was Hansel and Gretel, saying, \" You stupid children, who are sleeping so long in the woods? '"
+      }
+    },
+    {
+      "verse": 19,
+      "text": {
+        "S1": "The father,however, rejoiced, for it had cut him to the heart to leave them behind alone. Not long afterwards, there was once more great scarcity in all parts, and the children heard their mother saying at night to their father, “Everything is eaten again, we have one half loaf left,and after that there is no more. The children must go. We will take them farther into the wood, so that they will not find their way out again; there is no other means of saving ourselves!”",
+        "T1": "Koma atate awo anakondwera, cifukwa anakhudzidwa mtima posiya ana okha.Pasanapite nthawi yaitali, kunasowanso cakudya m’mbali zonse, ndipo anamvera amayi awo akuuza atate awo kuti, “Ciliconse cadyedwa kale, tili ndi theka la buledi, ndipo sitidzakhalanso ndi cakudya cotsalira. Ana awa ayenera kupita. Tidzawapereka m’kati mwa nkhalango, kotero kuti sadzapeza njira yobwereranso; cifukwa palibe mwina mocitira kuti tidzipulumutse!”",
+        "To": "Atatewo, mmene adakondwera, pakuti adamudula iye mumtima, nawasiyira iwo kumbuyo; si posapita nthaŵi, panalinso njala yaikulu m'mbali zonse, ndipo anawo anamva amayi awo akunena usiku kwa atate wawo, zinthu zonse zadyedwanso, ife tiri nazo theka limodzi la chakudya chotsala, ndipo pambuyo pake palibenso.",
+        "So": "But their father was happy, the mother was moved to leave children alone. Before long, there was no longer a piece of food left, and she listened to her father saying, \" We are all eating, we have half a piece of bread, and we will never again have a piece of cacos left. ' These children must go. We will give them a piece inside the forest, so that we do not find a way to return; there is no way to eat them!"
+      }
+    },
+    {
+      "verse": 20,
+      "text": {
+        "S1": "The man's heart was heavy, and he thought, “It would be better for you to share the last mouthful with your children.” The woman, however, would listen to nothing that he had to say, but scolded and reproached him. He who says what must say what, likewise, and as he had yielded the first time, he had to do so a second time also.",
+        "T1": "Mtima wa munthuyo unali wolemera, ndipo anaganiza, “Zingakhale bwino kugawana cakudya ndi ana ako ngakhale kuti cakudyaco ndicothera. “Palibe ciliconsecimene mzimayi anamvera cimene mwamuna wakeangakambe, koma kumunyoza ndi kumdzudzula. Iye yemwe amalankhula zoyenera kucitika ayeneranso kulankhula, ndipo mofanana ndi poyamba kuti mwamuna anagonja, cotero, adzagonjanso.",
+        "To": "Mtima wa mwamunayo unali wolemera, ndipo anaganiza kuti, mwinamwake kukakhala bwino kwa inu kugawana mawu omalizira ndi ana anu. Komabe, mkaziyo, moonekera, sakanamvetsera chirichonse chimene anafunikira kunena, koma anamtonza ndi kumtonza.",
+        "So": "The man's heart was rich, and he thought, \" It would be better to share a meal with your children even though they would eatco and cocaine. ' There is no cilic that the woman obeyed the greeting, but she will not hold back from asking him. She who speaks what is right for a greeting must also speak, and just as if she had earlier given in subjection, she will also compromise."
+      }
+    },
+    {
+      "verse": 21,
+      "text": {
+        "S1": "The children were, however, still awake and had heard the conversation. When the old folks were asleep,Hansel again got up, and wanted to go out and pick up pebbles as he had done before, but the woman had locked the door, and Hansel could not get out. Nevertheless, he comforted his little sister, and said, “Do not cry, Gretel, go to sleep quietly, the good God will help us.”",
+        "T1": "Ngakhale zinali tero, ana aja anali asanagone, ndipo anali atamva zokambirana zonse. Pamene makolo anali cigonere,Hansel anadzuka, amafuna kukatenga miyala monga muja anacitira poyamba, koma mzimayi anali atakhoma kucitseko, ndipo Hansel sakanakwanitsa kutuluka.Ngakhale zinali tero, anauza mlongo wake kuti asade nkhawa,ndipo anati, “Osalira, Gretel, kagone mwakacetecete, Mulungu wabwino adzatithandiza”",
+        "To": "Komabe, anawo anali ogalamuka ndipo anali atamva kukambitsiranako. Pamene makolo okalambawo anagona, Hansel ananyamukanso, ndipo anafuna kutuluka ndi kutenga miyala monga momwe anachitira kale, koma mkaziyo anatseka chitseko, ndipo Hansel sanathe kutuluka. Komabe, iye anatonthoza mlongo wake wamng'ono, nati, Usalire, Gretel, pita kukagona mwakachetechete, Mulungu wabwino adzatithandiza.",
+        "So": "Even so, the children had not gone to bed, and they had heard all the discussions. When parents were in bed, Chisel rose up, they wanted to pick up stones as he had previously done, but a woman had built up the door, and Hansel was unable to come out. Even so, she told her sister not to worry, and she said, \"Sirdy, Iltel, sleep in a way that is good, God will help us. '"
+      }
+    },
+    {
+      "verse": 22,
+      "text": {
+        "S1": "Early in the morning came the woman, and took the children out of their beds. Their bit of bread was given to them, but it was still smaller than the time before. On the way into the forest Hansel crumbled his in his pocket, and often stood still and threw a morsel on the ground. “Hansel, why do you stop and look round?” said the father, “go on.”",
+        "T1": "M’mamawa mzimai anabwera, ndikudzutsa ana m’mabedi mwawo. Anapatsidwa buledi wocepa, koma unali wocepadipolinganiza ndi ujawakale. Ali paulendo wopita m’nkhalango Hansel ankapisa mthumba,ndipo amayimirira kawirikawiri ndikuponya tizidutswa pansi. “Hansel, n’cifukwa ciyani ukuimirira ndi kupenyapenya?” anatero atate ake, “tiye uziyenda”",
+        "To": "M'maŵa mwake munabwera mkaziyo, ndi kutenga anawo m'mabedi awo; mkate wawo unawatsalira, koma unali waung'ono kwambiri poyerekeza ndi nthaŵi yapita. Panjira kupita ku nkhalango Hansel anagwetsa m'thumba mwake, ndipo kaŵirikaŵiri anaimabe ndi kuponya chokomo.",
+        "So": "Early in the morning the little girl came, woke children in her pocket. She was given bread for the night, but it was a corresponding sight. While traveling through the forest to see Hansel's bag, she would roll her bag, and she would often jump and throw pieces on the floor. Halansal, and what was she standing up to see?"
+      }
+    },
+    {
+      "verse": 23,
+      "text": {
+        "S1": "“I am looking back at my little pigeon which is sitting on the roof, and wants to say goodbye to me,\"answered Hansel.",
+        "T1": "“Ndikupenya kumbuyo kumene kuli kankhunda kanga kakang’ono komwe kali patsindwi, ndipo kakufuna kuti tiyalirane,” anayankha tero Hansel.",
+        "To": "NDIKUMVUZIRA kumbuyo pa kabwato kanga kamene kakukhala pa denga, ndipo ndikufuna kunditsanzika, \"ansand Hansel.",
+        "So": "I look back at where my small, flat little boy is on the roof, and it wants us to dress, the parent replied."
+      }
+    },
+    {
+      "verse": 24,
+      "text": {
+        "S1": "“Simpleton!” said the woman, “that is not your little pigeon, that is the morning sun that is shining on the chimney.” Hansel, however, little by little, threw all the crumbs on the path.",
+        "T1": "“Kupusa iwe” anatero mzimayi, “sikankhunda kako kakang’ono, kumeneko ndikuwala kwa dzuwa lomwe likuwonekera potulukira utsi,” Komabe Hansel, anapitirizakuponya tizidutswa m’njira.",
+        "To": "M'mawa umenewu ndi dzuwa limene likuwala m'mphepete mwa msewu. Komabe, pang'ono ndi pang'ono, Hansel anataya tinjira tonse ta m'mphepete mwa msewu.",
+        "So": "A woman, a small, thin market, was the light of the sun that is seen to appear in smoke, but Hansel continued to throw pieces over the path."
+      }
+    },
+    {
+      "verse": 25,
+      "text": {
+        "S1": "The woman led the children still deeper into the forest, where they had never in their livesbeen before. Then a great fire was again made, and the mother said, “Just sit there, you children, and when you are tired you may sleep a little; we are going into the forest to cut wood,and in the evening when we are done, we will come and fetch you away.”",
+        "T1": "Mzimayi anatsogolera ana aja m’kati mwa nkhalango, komwe iwo sanapiteko pa moyo wawo. Pambuyo pake, moto waukulu unayatsidwa, ndipo amayi awo anati,” “Khalani pano, ana inu, ndipo ngati mwalema mungagoneko pang’ono; ife tikupita m’nkhalango kukadula nkhuni, ndipo m’madzulo tikatsiriza, tidzabwera kukutengani.”",
+        "To": "Mkaziyo anatsogolerabe ana mkati mwenimweni mwa nkhalango, kumene anali asanagonepo kale m'moyo wawo. Ndiyeno moto waukulu unapangidwanso, ndipo amayiwo anati, \" Tangokhalani nokha mmenemo, ananu, ndipo pamene mwatopa mukhoza kugona pang'ono; tikupita ku nkhalango kukadula nkhuni, ndipo madzulo pamene tichitidwa, tidzabwera ndi kukuthamangitsani.",
+        "So": "A woman led the children through the jungle, where they never lived; then a great fire was set up, and their mother said, \" Come here, children, and if you are tired you can lie down a little while; we go out into the woods to cut down the wood, and when we finish the evening, we will come back to take you. '"
+      }
+    },
+    {
+      "verse": 26,
+      "text": {
+        "S1": "When it was noon, Gretel shared her piece of bread with Hansel, who had scattered his by the way. Then they fell asleep and evening came and went, but no one came to the poor children. They did not awake until it was dark night, and Hansel comforted his little sister and said, “Just wait, GretelI,until the moon rises, and then we shall see the crumbs of bread which I have strewn about, they will show us our way home again.”When sthe moon came they set out, but they found no crumbs...",
+        "T1": "M’masana, Gretel anagawana bulediwake ndi Hansel, cifukwa iye anali atamwaza buledi wake m’njira monse. Pambuyo pake iwo anagona m’madzulo anafika, ndipo panalibe amene anabwera kudzafuna ana aja. Sanadzuke mpaka usiku, ndipo Hansel alimbikitsa mlongo wake kuti, “Yembekeza, Gretel, mpaka mwezi ukwereko ndipo tidzaona bwino tizidutswa tabuledi timene ndinaponya, timeneto tidzationetsa njira yopita kunyumba kaciwiri. “Pamene mwezi unawala ulendo wawo unayamba, koma sanapezetizidutswa tabuledi...",
+        "To": "Pamene kunali masana, Gretel anagaŵana mkate wake ndi Hansel, amene anabalalika m'njira; ndipo anagona, nabwera madzulo, koma palibe amene anabwera kwa ana osauka. Sanagone kufikira usiku wamdima, ndipo Hansel anatonthoza mlongo wake wamng'ono ndi kunena kuti, Angodikira, GretelI, kufikira mwezi utatuluka, ndipo pomwepo tidzaona mkate umene ndadya, udzationetsanso ulendo wathu. Pamene mwezi unatuluka, koma sanapeze...",
+        "So": "In the afternoon, Gretel shared his bread with Hansel, a cifuwa, who had spread his bread throughout the road. After a month they slept in the evening, and no one came to find the children. She did not wake up until night, and Hansel urged her sister, she didn't get out of bed, so that the month would come up and see carefully the pieces that I dropped, which we shall show us the way to the house. When the month began, she didn't find a piece of bread..."
+      }
+    },
+    {
+      "verse": 27,
+      "text": {
+        "S1": "For the many thousands of birds which fly about in the woods and fields had picked them all up. Hansel said to Gretel, “We shall soon find the way,” but they did not find it. They walked the whole night and all the next day too from morning till evening, but they did not get out of the forest, and were very hungry, for they had nothing to eat but two or three berries, which grew on the ground. And as they were so weary that their legs would carry them no longer, they lay down beneath a tree and fell asleep.",
+        "T1": "Cifukwa ca zikwi zambiri za mbalame zomwe zinkauluka m’nkhalango ndi m’minda zinadya tizidutswa tabuledi timeneto. Hansel anati kwa Gretel, “Tidzapeza njira posacedwa,” koma sanaipeze. Iwo anayenda usiku wonse ndi m’mawa mwake kucokera m’mawa mpaka madzulo, koma sanatuluke m’nkhalango muja,ndipo anamva njala kwambiri, cifukwa cakuti analibe cakudya koma zipatso ziwiri kapena zitatu zamthengo zomwe zinkamera pansi. Ndipo cifukwa cakuti anali wofoka kwambiri kwakuti miyendo siikanatha kuyenda,anakhala m’munsi mwamtengo ndipo anagona.",
+        "To": "Hansel anauza Gretel kuti: \"M'mawa ndi m'mawa mpaka madzulo, tidzapezamo mbalame zambirimbiri, koma sizinapezepo mbalame, zinkayenda usiku wonse mpaka m'mawa mpaka madzulo, koma sizinatuluke m'nkhalangomo, ndipo zinkamva njala kwambiri, chifukwa zinkadya zipatso ziwiri kapena zitatu zokha.",
+        "So": "Cifuwa ca, thousands of birds that flew through the forest and land fields, ate these tiny pieces. Hansel said to Gretel, \"We will find a way out, but they didn't find it. They walked all night and day long into the morning sky until evening, but they didn't get out of the forest when they got very hungry, and they got very hungry, cifucaca where they didn't eat but two fruits that grew up in the wild. And they couldn't move too hard, and they could not move on the floor."
+      }
+    },
+    {
+      "verse": 28,
+      "text": {
+        "S1": "It was now three mornings since they had left their father's house. They began to walk again, but they always got deeper into the forest, and if help did not come soon, they would die of hunger and weariness. When it was midday, they saw a beautiful snow-white bird sitting on a bough, which sang so delightfully that they stood still and listened to it. And when it had finished its song, it spread its wings and flew away before them, and they followed it until they reached a little house, on the roof of which it alighted; and when they came quite up to the little house they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar.",
+        "T1": "Panali patapita masiku atatu pamene anacoka kunyumba ya atate awo. Iwo anayambanso kuyenda, koma iwo ankapita m’kati mwa nkhalango,ndipo ngati thandizo sanalipeze mwamsanga, akanafa ndi njala komanso kutopa. Pamene masana anafika,anawona mbalame yautoto ngati cipale cofewa ili khale pamtengo, imene imayimbamosangalatsa kotero kuti anaimirira ndi kuimvetsera. Ndipo pomwe itatha kuyimba nyimbo, inatambasula mapiko ake ndi kuwuluka, anayilondola mpaka anafika kanyumba, pamene inatera; ndipo atafika kufupi kwenikweni anawona kuti inali yomangidwa ndi buledi, ili yokutidwa ndi keke, ndipo mazenera ake anali wopangidwa ndi shuga wowala.",
+        "To": "Tsopano anali m'mawa mwake, ndipo m'mawa mwake anamwalira ndi njala ndi kutopa. Pamene kunali masana, iwo anaona mbalame yokongola ya chipale chofeŵa yokhala pansanja, yomwe inaimba mosangalala kwambiri kuti inaimirira ndi kumvetsera nyimbo yake. Ndipo pamene inamaliza kuimba, inatambasula mapiko ake ndi kuuluka patsogolo pawo, ndipo inatsatira kufikira nyumba yaing'ono, imene inaŵala; ndipo pamene inabwera pafupi kwambiri ndi nyumba imene inakonzedwa ndi zigumbala za mkate ndi kufokono zomwe zinali zitakutidwa ndi zigumu.",
+        "So": "Three days had passed when they left their father's house. They had also been walking, but they went through the forest, and if help had not been found so quickly, they would have died of hunger and fatigue. When he arrived in the afternoon, they saw a bird come up and saw a lude sitting on a tree, which played in such a way that they could stand up and listen to it. And when he finished singing, he spread out his wings and went after them, four of them until the roof came to the house, when it was quite close to the floor, and he noticed that it had been covered with bread, and its windows filled with sugary windows."
+      }
+    },
+    {
+      "verse": 29,
+      "text": {
+        "S1": "“We will set to work on that,” said Hansel, “and have a good meal. I will eat a bit of the roof, and you, Gretel, can eat some of the window, it will taste sweet.” Hansel reached up above, and broke off a little of the roof to try how it tasted, and Gretel leaned against the window and nibbled at the panes. Then a soft voice cried from the room...",
+        "T1": "“Tidzagwirirapo nchito” anatero Hansel, “ndipo tidzakhala ndi cakudya cabwino. Ine ndidzadya pang’ono tsindwi, iwe Gretel ungadyeko mazenera, ndipo ndiotsekemera.” Hansel anafika patsindwi ndi kuphwanya pang’ono tsindwi kuti amvere mmene imamvekera, ndipo Gretel anatsamira zenera ndi kubudulamagalasi.Mawu otsitsa anamveka kulira kucokera m’cipinda………",
+        "To": "Khwalatani tiyamba kugwira ntchito, anatero Hansel, red reating rave rad rad rad dio , ndipo ndidzadya pang'ono pa denga, ndipo iwe, Gretel, ungadye ena a zeneralo, zidzakoma bwino. Kwelagot Hansel anafika pamwamba, ndi kugulula pang'ono denga kuti ayese mmene linalakira, ndipo Gretel anatsambira pa zenera ndi kukonga. Kenaka mawu ofeŵa m'chipindacho anafuula kuchokera ku chipindacho...",
+        "So": "The next day I'll catch the roof, says Hansel, and we'll have a good umble. I'll eat a little roof, you Gretel can eat the windows, and it's sweet. Christianel came on the roof and broke a little roof to hear how it was heard, and Gretel held the window and pulled the window. The words were heard to cry out in a hole...."
+      }
+    },
+    {
+      "verse": 30,
+      "text": {
+        "S1": "“Nibble, nibble, gnaw,Who is nibbling at my little house?” The children answered,“The wind,the wind, The heaven-born wind,” and went on eating without disturbingthemselves. Hansel, who thought the roof tasted very nice, tore down a great piece of it, and Gretel pushed out the whole of one round windowpane, sat down, and enjoyed herself with it.",
+        "T1": "“Budu, budu, tafuna, ndiwe ndani ukubudula kanyumba kanga kakang’ono?” Ana anayankha kuti, “Ndi mphepo, mphepo, Ndi mphepo yocokera kumwamba,” ndipo anapitiriza kudya mosazisokoneza iwo okha. Hansel, amene anaganiza kuti tsindwi linamveka bwino kwambiri, anang’amba cidutswa cacikulu, ndipo Gretel anakankha zenera lonse limodzi, nakhala pansi ndipo anayamba kudya ndipo anasangalala nalo.",
+        "To": "KwelainNibble, Lange, Langweil, Ndani yemwe akuyang'ana pa nyumba yanga yaing'ono?",
+        "So": "IDBudu, vendu, who was asking, who was carrying my small small house? Ana replied, hit by the wind, wind, and wind, and wind, and went on eating it without distraction. Hansel, who thought that the roof was clear, ripped a cicululua, and Gretel pushed all the window together, sat down and enjoyed it."
+      }
+    },
+    {
+      "verse": 31,
+      "text": {
+        "S1": "Suddenly the door opened, and a very, very old woman, who supported herself on crutches,came creeping out. Hansel and Gretel were so terribly frightened that they let fall what they had in their hands. The old woman, however, nodded her head, and said, “Oh, you dear children, who has brought you here? Do come in, and stay with me. No harm shall happen to you.” She took them both by the hand, and led them into her little house. Then good food was set before them, milk and pancakes, with sugar, apples, and nuts. Afterwards two pretty little beds were covered with clean white linen, and Hansel and Gretel lay down in them, and thought they were in heaven.",
+        "T1": "Mwadzidzidzi citseko cinatsekuka, ndipo nkhalamba yaikazi, imeneinkayenda ndi ndodo, inatuluka cokwawa. Hansel ndi Gretel anagwidwa ndi mantha kwambiri kwakuti kuti anataya pansi kalikonse komwe anali nako m’manja. Amayi acikulire, ngakhale zinali tero, anavomera ndi mutu, nati, “Aaa, ana inu okondedwa, ndani amene wakubweretsani kuno? Lowani m’kati, ndipo mukhale ndi ine.Palibe coipa ciliconse cidzacitika kwa inu.” Iwo an aawagwira padzanja ana aja, ndi kuwatsogolera kukanyumba kawo kakang’ono.Pambuyo pake cakudya cabwino cinakonzedwa, mkaka ndi makeke, osakaniza ndi shuga, maapulo ndi nshawa. Zitatha izi, mabedi awiri owonekabwino ali oyalidwa bwino ndi nsalu zoyera, ndipo Hansel ndi Gretel anagona mmenemo, ndipo iwo anaganiza kuti anali kumwamba.",
+        "To": "Mwadzidzidzi chitseko chinatseguka, ndipo mkazi wokalamba kwambiri, amene anadzichirikiza pa ndodo, anatuluka. Hansel ndi Gretel anachita mantha kwambiri kwakuti anagwetsa chimene anali nacho m'manja mwawo. Komabe, mkazi wokalambayo, sanatukute mutu wake, nati, Tai, ana okondedwanu, amene anakubweretsani kuno; loŵani, ndipo akhala nane pamodzi. Sanawatenge onse aŵiri ndi dzanja lake, nawatsogolera m'nyumba mwake. Kenako adawapititsa ku mkaka, ndi magazi a shuga, ndipo pambuyo pake anali oyera, ndipo anali ndi mathanga a belo, ndipo anali nawo pafupi.",
+        "So": "Suddenly the car opened up, and the old woman, who was walking with a staff, came out with a head, Hansel and Gretel, was so frightened that she threw everything she had on the floor with her hand. There was no mention of a woman, though, she agreed, saying, \"They're here, you dear children, who brought you here, who brought you inside, and you got a pair of them inside, and you're there. There're none wrong with me. There's anything else in the picture, but they said they're all right to you. They're here, they're going to get a little house to eat them, and they'll eat them, and they'll eat them, and they'll eat them, and they'll eat them."
+      }
+    },
+    {
+      "verse": 32,
+      "text": {
+        "S1": "The old woman had only pretended to be so kind; she was in reality a wicked. When a childcfell into her power, she killed it, cooked and ate it, and that was a feast day with her. Witcheshave red eyes, and cannot see far, but they have a keen scent like the beasts, and are awarewhen human beings draw near. When Hansel and Gretel came into her neigh- borhood,shelaughed maliciously, and said mockingly, “I have them, they shall not escape me again!”",
+        "T1": "Mzimayi wokalamba amangoyeserera kuti ndi munthu wabwino; koma kunena zoona anali mfiti yamalaza. Pamene mwana wakhala m’manja mwake, amamupha, kuphika ndi kumudya ndipo linali tsiku laphwando. Mfiti zili ndi maso ofiira, ndipo sizipenya patali koma zili ndi fungo monga lanyama,lowopsa ndipo zimadziwa ngati munthu alipafupi. Pamene Hansel ndi Gretel anabwera ndi kukhala nawo, anaseka monyodola, nati mowaseka,” Ndili nawo, ndipo sadzathawanso!”",
+        "To": "Mayi wokalambayo anali atanamizira chabe kukhala wokoma mtima; iye kwenikweni anali woipa. Pamene mwana anagwa mu mphamvu yake, iye anapha icho, kuchiphika ndi kuchidya, ndipo chimenecho chinali tsiku limene linali phwando lake. Pamene maso ake ofiira, maso ake ofiira, ndipo sangathe kuwona patali, koma iwo ali ndi fungo lalikulu monga nyama, ndipo akudziŵa kuti anthu akuyandikira. Pamene Hansel ndi Gretel anafika mu ragh-or , shedgy, ndikunena moseka, iwo sadzandithaŵanso ine!",
+        "So": "An elderly woman will just try to be a good person; but in reality she was a good witch; when a child becomes her hands, she will kill, cook and eat it and it was a festival day; a witch has red eyes; and she will not look far but like an animal, she will fear it and know if someone is nearby. When Hansel and Gre came to live with her, laugh, saying, \" I'm going to have it, and I'm not going to have it again! '"
+      }
+    },
+    {
+      "verse": 33,
+      "text": {
+        "S1": "Early in the morning before the children were awake, she was already up, and when shesaw both of them sleeping and looking so pretty, with their plump red cheeks, she mnuttered toherself, “That will be a dainty mouthful!” Then she seized Hansel with her shriveled hand,carried him into a little stable, and shut him in with a grated door. He might scream as he liked,that was of no use. Then she went to Gretel, shook her till she awoke, and cried, “Get up, lazything, fetch some water, and cook something good for your brother, he is in the stable outside,and is to be made fat. When he is fat, I will eat him.”",
+        "T1": "M’mamawa anaaja asanauke,nkhalamba ija inali itauka kale, ndipo itawona onse ali gone ndipo akuwoneka bwino, masaya ofiira onenepa, anadzikambitsa yekha, “Mkamwa mwanga mudzakondwera.” Anagwira Hansel ndi dzanja lake lolemala, anamunyamula kupita naye m’khola ndikumtsekera ndi citseko colimba. Iye angalire mmene angachitire, koma zimenezo ndi zopanda phindu. Pambuyo pake nkhalamba ija inapita kwa Gretel, inamu‘gunduza m’paka anauka, ndipo analira, “Dzuka, iwe waulesi, ufune madzi, uphike cakudya cabwino ca mlongo wako, iye ali m’khola panja, ndipo ndzamunenepetsa. Pamene wanenepa, ndidzamudya.”",
+        "To": "M'maŵa kwambiri anawo asanadikire, iye anali kale maso, ndipo pamene anawapenya onse aŵiri ali mtulo ndi kuyang'ana okongola kwambiri, ndi thamanda lawo lofiira, iye anali atatambanyoka kwa iyemwini, kamwa losalala, ndiyeno anagwira Hansel ndi dzanja lake long'ambika, kumthira m'khola pang'ono, ndi kumtsekera pakhomo lotuwa. Akadafuula monga mmene anakondera, pamenepo anapita ku Gre, kukamukupatira, kufikira atatsam'dzutsa, ndi kulira, kutunga madzi, kutunga, ndi chinachake chabwino, iye ndi mafuta.",
+        "So": "The morning before he was resurrected, the old man had already risen up, and had seen all those standing up and looking good, a heavy red horn, he woke himself up, and my mouth was broken off. He caught Hansel with his lame hand, carried him up to the fold and locked him up with a copidle. He would cry out, but that was nothing good. After that he went totel, he woke up, woke up, and he would weep, and he would cry for water, and he will eat you, and I'll eat your sister outside."
+      }
+    },
+    {
+      "verse": 34,
+      "text": {
+        "S1": "Gretel began to weep bitterly, but it was all in vain; she was forced to do what the wicked witch ordered her.",
+        "T1": "Gretel anayamba kulira kwambiri, koma palbe ciliconse cikanacitika;iye anakakamizidwa kucita cimene mzimai mfiti imafuna.",
+        "To": "Gretel anayamba kulira kwambiri, koma zonse zinali zopanda pake; anakakamizika kuchita zimene mfiti yoipayo inamuuza.",
+        "So": "Gretel started to cry a lot, but the palbe cilicticitka; he was forced into the cell by the witches."
+      }
+    },
+    {
+      "verse": 35,
+      "text": {
+        "S1": "And now the best food was cooked for poor Hansel, but Gretel got nothing but crab shells. Every morning the woman crept to the little stable, and cried, “Hansel, stretch out your finger that I may feel if you will soon be fat.” Hansel, however, stretched out a little bone to her, and the old woman, who had dim eyes, could not see it, and thought it was Hansel's finger, and was astonished that there was no way of fattening him.",
+        "T1": "Tsopano cakudya cabwino cinaphikidwa ca Hansel,koma Gretel sanapatsidweko koma zigoba za nkhono cabe.M’mawa muli monse nkhalamba ija imalowa m’khola, ndipo ndikulira, “Hansel, tambasula cala cako kuti ndimvere ngati wanenepa. “Hansel, anatambasula kafupa kakang’ono,nkhalambayo, maso ake amapenya nkhungu, samawona bwino ayi, ndipo amaganiza kuti ndi cala ca Hansel, ndipo anadabwa kuti panalibe njira yakuti anganenepe.",
+        "To": "Ndipo tsopano chakudya chabwino koposa chinaphikidwa kaamba ka Hansel wosauka, koma Gretel sanapeze kanthu kena koma ziganamba. M'mawa uliwonse mkaziyo ankapita ku kakhola kakang'onoko, ndipo analira, reghansel, kutambasula chala chanu chimene ndidzamva ngati inu mudzalemera posachedwapa. Komabe, Hansel, anatambasula fupa laling'ono kwa iye, ndipo mkazi wokalambayo, yemwe anali ndi maso owonda, analephera kuwona, ndipo analingalira kuti chinali chala cha Hansel, ndipo anadabwa kuti panalibe mafuta ake.",
+        "So": "Now the ca ca ca Hansel, but Gretel was not there but the cabes in the morning are all around the old man in the fold, and when I grow up, the dysan, the dysssing out the calako to hear me if he was fat. HAYsel, he spread out the small, old bear, his eyes look blind, and he thinks that the calacal, and he could say that there was no way."
+      }
+    },
+    {
+      "verse": 36,
+      "text": {
+        "S1": "When four weeks had gone by, and Hansel still stayed thin, she was seized with impatience and would not wait any longer. “Now, Gretel,” she cried to the girl, “be active, and bring some water.Let Hansel be fat or lean tomorrow I kill him and cook him.”",
+        "T1": "Patapita milunguinayi, ndipo Hansel anakhalabe wowonda,nkhalamba inakhala yotekeseka ndipo siinafune kuyembekezera kwa nthawi yayitali... “Tsopano, Gretel,” nkhalamba ija inakwezera mawu mtsikana, “Ufunika kusamalakwambiri, ndipo bweretsa madzi. Hansel afunika kunenepa cifukwa mawa ndidzamupha ndikum’phika.”",
+        "To": "Pamene milungu inayi inapita, ndipo Hansel anakhalabe woonda, anagwidwa ndi kusaleza mtima ndipo sanadikirenso. , Gretel, mothedwa nzeru analira kwa msungwanayo, diebrivabe, ndi kubweretsa madzi. Hansel akhale wonenepa kapena wowonda maŵa ndimupha ndi kumphika.",
+        "So": "After the four weeks, and Hansel kept her weight low, the old man became very quiet and did not want to wait longer..., Gretel, the elderly girl's voice was raised, the shepherd needed more attention, and bring water. Hansel has to gain weight tomorrow I'll kill and cook her."
+      }
+    },
+    {
+      "verse": 37,
+      "text": {
+        "S1": "Ah, how the poor little sister did lament when she had to fetch the water, and how her tearsdid flow down over her cheeks! “Dear God, do help us,” she cried. “If the wild beasts in theforest had devoured us, at least we should have died together.”",
+        "T1": "Oho,mlongo wake anadandaula pamene amafuna madzi ndipo misozi inkagwa m’matsaya ake. “Mulungu wokondedwa, tithandizeni,”analira. “Ngati zilombo zikanatidya m’nkhalango, mwinamwake tinakafera pamodzi”",
+        "To": "Eya, mlongo wamng'ono wosaukayo analira chotani nanga pamene anatunga madzi, ndipo misozi yake inatsika m'chiuno mwake!",
+        "So": "Oho, its attendant complained when she needed water and tears streamed down her scales. The dear God, help us, cried. If the beasts were to feed us in the forest, we probably died together in the wild"
+      }
+    },
+    {
+      "verse": 38,
+      "text": {
+        "S1": "“Just keep your noise to yourself,” said the old woman, “all that won't help you at all.” Early in the morning, Gretel had to go out and hang up the cauldron with the water, and light the fire. “We will bake first,” said the old woman. “I have al- ready heated the oven, and kneaded the dough.” She pushed poor Gretel out to the oven, from which flames of fire were already darting. “Creep in,” said the witch, “and see if it is properly heated, so that we can shut the bread in.”And once Gretel was inside, she intended to shut the oven and let her bake in it, and then she would eat her,too.",
+        "T1": "“Sunga phokoso lako kwa iwe mwini,” inatero nkhalamba ija, “palibe ciliconse cimene cidzakuthandiza iwe.”M’mamawa kuli mbuu,Gretel anapita kukapacika ndowa mosungira madzi ndi kuyatsa moto. “Poyamba tidzapanga buledi,” inatero nkhalamba.” Mophikira mwatentha kale, ndipo fulawulo wakonzedwa kale. Anam’kankhira m’ng’anjo yamoto momwe munali moto ndipo malawi amoto anali lawilawi. “Lowa mkati,” inatero mfiti yaikazi, “kuti uwone ngati moto wakondera, kuti tiyikemo buledi.” Nkhalambayo imafuna kuti ngati Gretel walowa, itseke ng’anjo kuti aphikike m’kati, ndipo kuti imudye nayenso.",
+        "To": "M'mawa mwake, Gretel anatuluka ndi madzi, ndi kuyatsa moto. Titangoyatsa , anauza mayi wachikulire uja kuti: \"Iyayi ndamanga thanga, ndi kukoleza moto, n'kukankhira kunja kwa nyumba yake. \"",
+        "So": "THE next day, you can keep your noise from yourself, so said the old man, \"No piece of paper will ever help you. The next day you can get your sense of noise,Gretel went to the water dump and set fire. The first piece will be made bread, the old man said it was hot, and the flash has been repaired. He has been pushed into the fire furnace and was in flames. The female was in the midst of a fire, so that it would be like a fire. She said, \" You can see if you't see that it'd like a fire. '"
+      }
+    },
+    {
+      "verse": 39,
+      "text": {
+        "S1": "But Gretel saw what she had in her mind, and said, “l do not know how l am to do it; how do you get in?”",
+        "T1": "Koma Gretel anali atadziwa zomwe nkhalambayo imaganiza, ndipo anati, “Sindidziwa mocitira;kodi ndingalowe bwanji?”",
+        "To": "Koma Gretel anaona zimene anali kuganiza, ndipo anati, Pembl sadziŵa mmene angazichitire; kodi mungaloŵemo motani?",
+        "So": "But Gretel had come to know what the elderly one thought, and he said, \"I don't know how to do it; how can I go? \""
+      }
+    },
+    {
+      "verse": 40,
+      "text": {
+        "S1": "“Silly goose,” said the old woman, “The door is big enough; just look, I can get in myself!”and she crept up and thrust her head into the oven. Then Gretel gave her a push that drove her far into it, and shut the iron door, and fastened the bolt. Oh! then she began to howl quite terribly,but Gretel ran away,andthe godless witch was miserably burnt to death.",
+        "T1": "“Mwana wopusa wa tsekwe iwe,” nkhalamba ijainatero, “Citseko ici ndicacikulu; tapenya iwe, ine ndingalowe tere!” nkhalambayo inalowa m’kati ndi kudzikankhira m’ng’anjo.Ndipo Gretel anayikankha mwamphavu nkhalambayo,ndipo anatseka citseko cacitsulo, ndikumanga mabauti. Yaaa,nkhalamba inabuula kwambiri, koma Gretel anathawa ndipo mfiti yosakhulupira mulungu inafa ndi moto.",
+        "To": "MOSSIey kegly gogogo, ananena kuti mkazi wokalambayo, n'ngwochuluka; ndidziyang'ana, ndingadzigone ndekha; ndipo analumpha ndi kukankhira mutu wake pamoto. Kenako Gretel anam'kakamiza kuti autenge, ndipo anatseka chitseko chachitsulo, n'kumanga chogwirira ntchito.",
+        "So": "THE foolish son of the gun, the old Israelite, did so, vex cicia and sicica; seen you, I'm going to enter the room! The old boy entered into the room and pushed himself into a furnace. And Gretel four of the old scumbs, and closed the ciccote, and built a fibut. Yaan, the old man was badly mocked, but he fled from the dead god."
+      }
+    },
+    {
+      "verse": 41,
+      "text": {
+        "S1": "Gretel,however, ran like lightning to Hansel, opened his littlestable, and cried,“Hansel,we are saved! The old witch is dead!” Then Hansel sprang out like a bird from its cage when the door was opened for it. How they did rejoice and embrace each other, and dance about and kiss each other! And as they had no longer any need to fear her, they went into the witch's house, and in every corner there stood chests full of pearls and jewels.",
+        "T1": "Gretel, anathamanga ngati mphezi kwa Hansel, anatsekula khola nalira, “Tapulumuka Hansel, nkhalamba mfiti yafa”Hansel anatuluka monga mbalame yomwe inali yomangidwa pamene chitseko chitatsekuka.Anakondwera ndi kugwirana canza,anavina ndi kupsopsonana. Panalibe chomwe angayope tsopano, analowa m’nyumba ya mfiti, ngodya zonse munali zinthu zamtengo wapatali.",
+        "To": "Gretel, Haver, adathamanga ngati mphezi kwa Hansel, natsegula kamtima kake kakang'ono, nafuula, Medve Hansel, tapulumutsidwa; mfitiyo yafa; ndipo kenaka Hansel anatuluka ngati mbalame yochokera m'zikwere zake, pamene chitseko chinatsegulidwa; mmene adasangalalira ndi kukupatirana, ndi kuvina ndi kupsompsonana wina ndi mnzake; ndipo pamene iwo sanalinso ndi chifukwa cha kuwopa, anapita m'nyumba ya mfiti, ndipo m'ngondya iliyonse munali ngale ndi ngale ndi ngale zambiri.",
+        "So": "Gretel, ran like lightning to Hansel, opened a fold and cried out,  have been saved Hansel, an elderly witches who had been killed as a bird built when the door was opened. They were delighted to catch a canza, danced and kissed. There was nothing they could now do, entered the house of witches, and everything was very expensive."
+      }
+    },
+    {
+      "verse": 42,
+      "text": {
+        "S1": "“These are far better than pebbles!” said Hansel, and thrust into his pockets whatever could be got in, and Gretel said, “I, too, will take something home with me,” and filled her pinafore full. “But now we will go away,” said Hansel, “that we may get out of the witch's forest.” When they had walked for two hours, they came to a great body of water. “We cannot get over,” said Hansel, “I see no foot-plank, and no bridge.” “And no boat crosses either,” answered Gretel,",
+        "T1": "“Izi ndi zinthu zosiyana ndi miyala ija” anatero Hansel, ndipo anaiponyera m’thumba mwake ndi kali konse angakwanitse, ndipo Gretel anati, “Nanenso, ndidzanyamulako zinthu zimenezi kunyumba,”anadzaza thumba lake. “Tsopano tingayambepo”, “ticoke m’nkhalango ya mfiti.” Atayenda maola awiri anapeza dziwe lamadzi. “Sitingadutse ife apa,”anatero Hansel.” “Sindiwona powolokera, kapena ulalo,” “Kapena bwato kudutsa,” anayankha Gretel.",
+        "To": "MPHUNZITSI anati, \"Aaa, ndi kuponyera m'matumba ake chilichonse chimene chingaloŵemo, ndipo Gretel anati, RI, nawonso, adzakhala nane kunyumba, atakhuta ndi kudzaza betel yake. Koma tsopano tichoka, ananena kuti Hansel, ndi bwino kuti tituluke m'nkhalango ya mfiti. Pamene anayenda kwa maola aŵiri, iwo anafika kudziŵe lalikulu la madzi. . , sitichoka, Kel , , , ine sitiwona mapazi, ndipo sitimayankha.",
+        "So": "This is what Hansel said to himself on the opposite side of the rocks, and he threw it into his pocket with everything he could afford, and Gretel said, \" No, I'll carry these things at home, ' and then he filled his bag. We'll now start a chain, let us go through a forest of witches. After walking two hours he found a water pool. After we could'd never cross us, Hansel said, \"I don't see you now.\" I'm not sure, I'm not sure I'm going to see you, or I'll see you'll have a boat, or you'll go by the boat, I'll see a boat, and we'll never have to go by the boat."
+      }
+    },
+    {
+      "verse": 43,
+      "text": {
+        "S1": "“but a white duck is swimming there; if I ask her, she will help us over.” Then she cried...",
+        "T1": "“Koma ndawona bakha woyera anyaya, mwina ndimufunse, mwina angatithandize kudutsa,” ndipo analira.",
+        "To": "Koma nkhandwe yoyera ikusambira kumeneko; ngati ndimfunsa, iye adzatithandiza.",
+        "So": "But I have seen a white light - if I ask him, he will help us through, and he will cry."
+      }
+    },
+    {
+      "verse": 44,
+      "text": {
+        "S1": "“Little duck,little duck, do you see, Hansel and Gretel are waiting for you? There's never a plank, or bridge in sight, Take us across on your back so white.”",
+        "T1": "“Iwe bakha, iwe bakha wamng’ono, tapenya kuno, Hansel ndi Gretel alukuyembekezerani? Palibe thabwa kapena ulalo pano. Tibaphekoni?”",
+        "To": "M'dzikoli muli nyama zinazake zing'onozing'ono zomwe sizioneka, zomwe zimakhala zoyera kwambiri.",
+        "So": "YOU, the youngest, look here, Hansel and Gretel wait, and there is no wood or bridge here."
+      }
+    },
+    {
+      "verse": 45,
+      "text": {
+        "S1": "The duck came to them, and Hansel seated himself on its back, and told his sister to sit by him. “No,” replied Gretel, “that will be too heavy for the little duck; she shall take us across, one after the other.” The good little duck did so, and when they were safely across and had walked for a short time, the forest seemed to be more and more familiar to them, and at length they saw from afar their father's house. Then they began to run, rushed into the parlor, and threw themselves into their father's arms. The man had not known one happy hour since he had left the children in the forest; the woman, however, was dead. Gretel emptied her pinafore until pearls and precious stones ran about the room, and Hansel threw one handful after another out of his pocket to add to them. Then all anxiety was at an end, and they lived together in perfect happiness. My tale is done, see the mouse run, whoever catches it, may make himself a big fur cap out of it.",
+        "T1": "Bakha anabwera,Hansel anakhala kumbuyo, anawuza mlongosi wake kuti akhale m’mbali mwake,” “Ayi,” anayankha Gretel,sadzakwanitsa kutinyamula tawiri;ndikwabwino atinyamule m’modzi m’modzi.Kabakha ka kanakwaniritsa, ndipo anali kumtunda, ndipo atayenda kwa nthawi yaying’ono, anayamba kuzindikira nkhalango, ndipo pamene anali patali anawona nyumba ya atate awo. Anayamba kuthamanga,analowa m’kati, ndikudziponya m’manja mwa atate awo. Atate awo sanapeze mtendere pamene iwo anasiya ana aja m’nkhalango;mzimayi woipa uja anali atafa kale. Gretel anatulutsa zomwe ananyamula zamtengo wapatali nathamangira m’cipinda, ndipo Hansel anatulutsa zomwe anatenga nayenso kuwonjezera pazomwe mlongo wake anabweretsa. Nkhawa inatha, ndipo anayamba kukhalanso bwino. Nkhani yanga yatha, onani khoswe akuthamanga, aliyense angagwire, anagapange kapu yaubweya.",
+        "To": "Mbalayo inadza kwa iwo, ndipo Hansel anakhala kumbuyo kwake, ndi kuuza mlongo wake kuti akhale naye. No, adayankha motero Gretel, ndiyes yemwe adzalemera kwambiri chifukwa cha akamba; iye adzatitenga ife kupita ku nyumba ina, imodzi pambuyo pa ina. Mampi abwino anachita tero, ndipo pamene iwo anali otetezereka ndipo anayenda kwa kanthaŵi kochepa, nkhalangoyo inawoneka kukhala yondidziŵa kwambiri kwa iwo, ndipo pa utali wake iwo anawona kuchokera ku nyumba ya atate wawo. Kenako iwo anayamba kuthamanga, kuthamangira m'manja mwa atate wawo, ndipo anadziponya iwo eni m'manja. Kuyambira pamene mwamuna wina sanadzizindikire mu nkhalangoyo; ngakhale kuli tero, iye anali ndi nkhaŵa ya mtengo wapatali ndi mmodzi yemwe yemwe yemwe yemwe adathamanga naye, yemwe anali ndi nkhaŵa yake.",
+        "So": "He came back, Manandel sat behind, told his sister to sit down on his side, and was on the beach, and he answered Gretel, did not manage to pick us up two; and it was good to pick us up one wheel. The little girl had reached the floor, and she was on the beach, and she had been walking for a while, and she began to recognize the forest, and when she was far away she saw their father's house. She started running, ran in the middle of her father's arms. When she did not find peace when she left her children behind; she had been killed in the forest; she had been carrying some of the trees that she had already taken up, so that she had been carrying out, and she began to add to her head, and she began to her head. She began to her head, and she had turned up her head, and was back to her arms. She had turned up her head."
+      }
+    }
+  ]
+}

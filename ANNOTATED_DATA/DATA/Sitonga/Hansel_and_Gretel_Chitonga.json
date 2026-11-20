@@ -1,0 +1,452 @@
+{
+  "header": {
+    "Title (Source)": "Hansel and Gretel",
+    "Title (Target)": "",
+    "Original Author": "Brothers Grimm",
+    "Source Language": "English",
+    "Target Language": "Chitonga",
+    "Translator 1": "Malambo Albert",
+    "Translator 2": "Chilufya Kasonde"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "Near a great forest dwelt a poor woodcutter with his wife and his two children. The boy was called Hansel and the girl Gretel.",
+        "T1": "Kwakali sikugonka masamu wakali kukkala munsi munsi asaka pati amukaintu wakwe abana bobilo. Mwana musankwa wakali |Hansel mpoona musimbi wakali Gretel.",
+        "T2": "Munsi munsi asaka mpati kwakali kukkala sikugonka masamu amukaintu wakwe abanabobilo. Mwana musankwa wakali Hansel mpoona musumbi wakali Gretel.",
+        "To": "Kufwaafwi asaka cipati cakakkala amugoti musyoonto antoomwe amukaintu wakwe alimwi abana bakwe bobilo.",
+        "So": "In the middle of a big forest, there was a fugitive living with his wife and two children, the son of Hansel, and the other man was Gor."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "He had little to bite and to break, and when great scarcity fell on the land, he could no longer procure daily bread. Now when he thought over this at night in his bed, and tossed about in his anxiety...",
+        "T1": "Cakulya cakali kukatazya kujana, eelyo ciindi cinji caali kunga nzala yabbuba, taakali kukonzya kuula cakulya. Nakaali kuyeeya ceeci lyoonse masiku inga wakali kwiile kusalauka cakutakkalikila……",
+        "T2": "Cakulya cakali kukatazya , eelyo ciindi cinji caali kunganzala yabbubba, taakali kukonzya kuula cakulya. Lino naakali kuyeeya ceeci lyoonse masiku inga wakali kwiile kusalauka cakutakkalikila……..",
+        "To": "Tanaakali kwiide kulumwa alimwi akujala, alimwi ciindi munzi mupati nowakawa, tanaakali kukonzya kulya zilyo zyabuzuba abuzuba pe, nkaambo wakali kuyeeya kuti masiku aayo kali abulo bwakwe, alimwi akulibilika kapati kujatikizya kulibilika kwakwe...",
+        "So": "A food was hard to eat, and when he deliberately felt hungry, he could not buy food, and now he would have to think about it every night, he would just have to decide to stay calm...."
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "He groaned and said to his wife, “What is to become of us? How are we to feed our poor children, when we no longer have anything even for ourselves?”",
+        "T1": "Wakali koombooka akuti kumwinakwe, “Ino ncinzibiya citibe kulindiswe? Ino bana aba bacaangu tulabasanina nzi kuti katutukwe cakulya swebo lwesu tobilo?”",
+        "T2": "Wakali koomboka akuti kumukaintu wakwe, “Ino ncinzi biya citibe kulindiswe? Ino bana aaba bacaangu tulabasanina nzi kuti katutakwe cakulya swebo lwesu tobilo?”",
+        "To": "Wakacita oobo akwaambila mukaintu wakwe kuti, Sena tweelede kuba bantu bayandisya zintu zyakumubili?",
+        "So": "He was a man to say to himself, \" What really is it for us, and what does it mean for my sons to feed us without two of us? '"
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "“I'll tell you what, husband,” answered the woman, “Early tomorrow morn- ing we will take the children out into the forest where it is the thickest. There we will light a fire for them, and give each of them one piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them.”",
+        "T1": "“Leka ndikwaambile omulumi wangu,” wakataba mukaintu “mafumina juunza kambundu tuya kubatola bana musaka akati eeni alyo mpolijalide sokwe. Tukakutule mulilo mpoona aumwi tukamupe kankwa, tukabasiye balikke swebo tukaye kukubeleka. Tabakwe kuyoojoka alimwi, mbube kuyooba ngimagolelo abo kwamana.”",
+        "T2": "“Leka ndikwaambile omulumi wangu,” wakavwiila mukaintu, “mafumina juunza kambundu tuya kubatola bana musaka akati eeni aalya mpolijalide sokwe. Tukakutule mulilo mpoona aumwi, tukamupe kankwa, tukabasiye balikke swebo tukaye kukubeleka. Tabakwe kuyoojoka alimwi, ngaatikabe magolelo aabo kwamana.",
+        "To": "NOMUNI ndamwaambila nzi, mulumi, Orizamu, wakabweza iceyelo, wabaambila makani aacisyudodo, wiipa zilyo, elyo swebo tuyoozitola bana kuti baisiye alimwi, nkabela tuyoojana kuti swebo tuyoojana kuti tuli bazike bangu bali acoolwe.",
+        "So": "Let me tell my husband, and I will give him a wife, and we will leave her alone by day and by morning to pick up her young children in the middle of the day, and she will not go back to her place."
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "“No, wife,” said the man, “I will not do that; how can I bear to leave my chil- dren alone in the forest?-the wild animals would soon come and tear them to pieces.”",
+        "T1": "“Peepe, omwinangu”, wakaamba musankwa, “Ooko inga nsekuciti”, ino inga ndalimvwa buti kusiya bana bangu akati asaka balikke? – banyama balaboola ono ono akubazapaula mutubeela-beela.",
+        "T2": "“Peepe omwinaangu,” wakaamba musankwa, “Ooko inga nsekuciti; ino inga ndalimvwa buti kusiya bana bangu akati asaka balikke? – banyama balaboola ono ono akubazapaula mutubeela-beela.",
+        "To": "Bakaintu ba Angelia bakaamba kuti, \"Tandiciciti eeco pe; ino mbuti mbondikonzya kusiya tulo twangu twakulya twakulya twakulya twakulya tuboneka mbuli kuti tulimo - limo tulimo?",
+        "So": "HOW could I ever leave my children among them alone?"
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "“O, you fool!” said she, “Then we must all four die of hunger. You may as well plane the planks for our coffins,” and she left him no peace until he con- sented. “But I feel very sorry for the poor children all the same,” said the man.",
+        "T1": "“Maawe, ociyanga yebo! Wakaamba mutumbu,” Nkabela toonse tone nkokuti atufwe biyo anzala. Cabota ubambile limwi amupulanga amabbokesi akukuzikkilwa,” mutumbu oyu taakwe naakamupa ciindi cakuliyeeya mulumi kusikila awalo wakautambula muyeeyo oyu. “Nokuba boobo, ndaliswiila buumba kubana aba beendoma,” musankwa wakaamba.",
+        "T2": "“Maawee, ociyanga yebo!” wakaamba mutumbu, “Nkabela toonse tone nkokuti atufwe biyo nzala. Cabota ubambile limwi amapulanga aamabbokesi aakuzikkilwa,” mutumbu ooyu taakwe naakapa mulumi ciindi cakuliyeeya kusikila awalo wakautambula muzeezo ooyu. “Nokuba boobo ndaliswiilila buumba kubana aaba beendoma,” musankwa wakaamba.",
+        "To": "BA CARTATT, bakayeeya kuti, mweelede kufwa nzala yoonse yone, mpoonya nywebo abana aaba boonse bobilo twakabafwida nzala, pele mebo ndakabafwida lubomba kapati.",
+        "So": "A man who is so sorry, the mother said to you, \" A mother, the four of us, when we are hungry, that's good to have a piece of wood and a bag of grain, and this mother gave him no time to the point that she had accepted it, and I was listening to the boys. '"
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "The two children had also not been able to sleep for hunger, and had heard what their stepmother had said to their father. Gretel wept bitter tears, and said to Hansel, “Now all is over for us.” “Hush Gretel,” said Hansel, “do not distress yourself, I will soon find a way to help us.”",
+        "T1": "Abalo bana aba lwabo bobilo tiibaali kucikonzya akoona nkaambo kanzala, alimwi bakamwvwa banyina bamwi mbuli mbobakaambila bawisi. Gretel wakalila ceetezya amisozi kayuumbulika, elo wakaambila Hansel , “Pele langa swebo aya ngamamanino esu.” “Umuna Gretel, “ wakaamba Hansel,” “Utapengi mukwesu, ndilajana nzila ititugwasye swebo.”",
+        "T2": "Abalo bana aaba lwabo bobilo tiibakali kucikonzya akoona nkaambo kanzala alimwi bakamvwa banyina mbobakaambila bawisi. Gretel wakalila ceetezya amisozi, mpoona wakaambila Hansel, “Pele langa swebo aaya ngamamanino eesu.” “Umuna Gretel,” wakaamba Hansel, “Utapengi mukwesu, ndilajana nzila ititugwasye swebo.”",
+        "To": "Bana aaba bobilo abalo tiibakacikonzya koona nzala, aboobo bakamvwa majwi ngaakaamba bausyi ba Gaffer, ba Hans Hildeel, alimwi akubaambila kuti, kwaambisya ciindi cino tulajana kuti toonse tujisi nzala.",
+        "So": "Their two children were also unable to sleep because the famine and the mother heard her father say: \"I will cry out, and I will look for ways to help Hans, and we will find this end."
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "And when the old folks had fallen asleep, he got up, put on his little coat, opened the door below, and crept outside. The moon shone brightly, and the white pebbles which lay in front of the house glittered like real silver pennies.",
+        "T1": "Ciindi bamacembele aba nibakoona, walo wakabuka akusama kabaki kakwe, wajula citendele mpocili ansi, akuzwida anze. Mwezi wakali kubala kabotu kabotu, mabwe akali kumbele anganda akali kunyengema mbuli mali ansiliva.",
+        "T2": "Ciindi bamacembele aaba nobakoona, walo wakabuka akusama kabaki kakwe, wajula citendele mpocili ansi, akuzwida anze. Mwezi wakali kubala kabotu kabotu, amabwe aakali kumbele ang’anda akali kunyengema mbuli mali ansiliva.",
+        "To": "Lino bantu bansiku nobakabuka, wakabweza cisani cakwe cisyoonto, wakajalula mulyango anze aankomwe, mwezi wakali kutuba buu, amasani aatuba aakali kumbele lyazitiludwe mbuli nsiliva.",
+        "So": "When the girls fell asleep, he rose up and put on his bed, opened the door on the floor, and left, he read carefully, stone, and stone, like silver."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "Hansel stooped and put as many of them in the little pocket of his coat as he could Possibly get in. Then he went back and said to Gretel, “Be comforted, dear little sister, and sleep-in peace, God will not forsake us,” and he lay down again in his bed.",
+        "T1": "Hansel wakafulama akubweza mabwe aye kabikka munkono zyacibaki cakwe aakali kukonzya kwela kabotu-kabotu. Elyo wakajokela akwaambila Gretel kati, “Koliiba, omuce wangu alimwi biya koona muluumuno, Leza takwe kutulekelezya pe,” mpoona wakanjila mubulo bwakwe awalo woona alimwi.",
+        "T2": "Hansel wakabweza mabwe akubika munkkomo zya cibaki cakwe aakali kukonzya kwela kabotu kabotu. Mpoona wakajokela akwambila Gretel kati, “Koliiba omuce wangu alimwi biya koona muluumuno. Leza takwe kutulekelezya pe,” mpoona wakanjila mubulo bwakwe awalo woona alimwi.",
+        "To": "Ba Hans Gael bakasama zisani alimwi akuzibikka munkomo yacisani cabo cisyoonto buyo, mpoonya bakapiluka alimwi akwaambila ba Keep, ba Bebe, bacizyi basyoonto, alimwi akoona muluumuno, Leza takatulekelezyi pe, alimwi uyookala abulo bwakwe.",
+        "So": "Hansel took the stones and put them in a well - rounded bag, and then he returned and told them: \" Take my yoke upon you, and sleep in peace; God does not leave us, and he proceeded to let us go in his bed again."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "When day dawned, but before the sun had risen, the woman came and awoke the two children, saying, “Get up, you sluggards! We are going into the forest to fetch wood.” She gave each a little piece of bread, and said, “There is something for your dinner, but do not eat it up before then, for you will get nothing else.”",
+        "T1": "Nokwakabo kulubundu-bundu, pesi kalitaninga pasula zuba, mukaintu wakabusya bana bobilo boonse, kati, “Amubuke nozitolo nywebo! Tuya musokwe kukutebba nkuni.” Wakabapa aumwi kankwa kaniini akuti, nkocili cimwi cisusulo, pesi mutalyi ciindi kacitana sika, nkaambo taaku cimbi ncomuyiilye.",
+        "T2": "Nokwakaba kulubundu-bundu, pesi kalitana pasula zuba, mukaintu wakabusya bana bonse bobilo kati, “Amubuke nozitolo nywebo! Tuya musokwe mukutwbba nkuni.” Wakabapa aumwi kankwa kaniini akuti, nkocili cisusulo, pesi mutalyi ciindi kacitana sika, nkaambo taaku cimbi ncomutiilye.",
+        "To": "Buzuba nobwakasika, pele zuba kalitanapola, mukaintu ooyu wakaboola alimwi wakabusya bana bobilo, akwaamba kuti, \"Kasika, muli mukuyundika, muli mugandilula; tuunka musyokwe kuyoocela, mpoonya walo wakapa cinkwa cimwi acimwi, mpoonya wakaamba kuti, Kuli cintu cimwi ciyandika kapati, pele kunyina cimbi ncomuya pe, nkaambo kunyina cimbi ncomuya kulya kamutanalya.",
+        "So": "After the heat of the morning, but before sundown the woman raised two young children, the two will say, \" Get up, and go out in the field and give them rest, and you will not eat at all. '"
+      }
+    },
+    {
+      "verse": 11,
+      "text": {
+        "S1": "Gretel took the bread under her apron, as Hansel had the stones in his pocket. Then they all set out together on the way to the forest. When they had walked a short time, Hansel stood still and peeped back at the house, and did so again and again.",
+        "T1": "Gretel wakagusya kankwa kakwe kuzwa mucisani, kali walo Hansel wakabikkide mabwe munkomo. Boonse antonwe bakatalika kweenda kuya musaka. Nobakeenda kwakaindi kasyoonto, Hansel wakaima luzutu akulanga munsi kwakali ng’anda kaya bucita mbweena oobu ciindi aciindi.",
+        "T2": "Gretel wakagusya kankwa kakwe kuzwa mucisani, kali walo Hansel wakabikkide mabwe mu nkomo yakwe. Boonse antoomwe bakatalika kweenda kuya musaka. Nobakeenda kwakaindi kasyoonto, Hansel wakaima luzutu akulanga munsi kwakali ng’anda kayabucita mbweena oobo ciindi aciindi.",
+        "To": "Ciindi ba Hans Gaffaffas nobakabweza cinkwa kwiinda mukubelesya nkomo yabo, bakaabikka munkomo yabo munkomo, mpoonya boonse bakeenda asyoonto - syoonto, bakatalika alimwi kweenda amaulu.",
+        "So": "She removed her garment from her garment, and as Hans Hansel placed stones in her bag, they all joined him on a journey, walking in a small trip, and after a short trip, Hans still stood and looked around the wrapped - a large - place that was time."
+      }
+    },
+    {
+      "verse": 12,
+      "text": {
+        "S1": "His father said, “Hansel, what are you looking at there and staying behind for Mind yourself, and do not forget how to use your legs.”",
+        "T1": "Bausyi bakati, “Hansel, ino ulanga nzi ooko ancocaalila musule? Koide kulikwabilila, alimwi kozumanana kweenda.”",
+        "T2": "Bausyi bakati, “Hansel, ino ulangalanga nzi ooko ancocaalila musule? Koide kulikwabilila, alimwi kozumanana kweenda.”",
+        "To": "Bausyi bakaamba kuti, syariza, nzyomulanga - langa ooko akuzumanana kuliyeeya, alimwi tamweelede kuluba mboyeelede kubelesya maulu aanu.",
+        "So": "The father said, \"O the depth of the knowledge, \" What can you look forward to before you?"
+      }
+    },
+    {
+      "verse": 13,
+      "text": {
+        "S1": "“Ah, father,” said Hansel, “I am looking at my little white cat, which is sitting up on the roof, and wants to say goodbye to me.” The wife said, “Fool, that is not your little cat, that is the morning sun which is shining on the chimneys.” Hansel, however, had not been looking back at the cat, but had been constantly throwing one of the white pebble stones out of his pocket on the road.",
+        "T1": "“Hii, bataata,” wakavwiila Hansel,” Ndisondela kaaze wangu utuba, uukkede atala aciluli cang’anda, uyanda kuti tulayane andime.” Batumbu bakati, “Ocifubafuba teesyi kaaze wako ulya, ndizuba limweka ansonje.” Hansel, walo taakali akulanga mangoye pe, pele wakali kusowa-sowa tubwe tutuba kuzwa munkomo kulosyel mumugwagwa.",
+        "T2": "“Hii bataata,” wakavwiila Hansel, “Ndisondela kaaze wangu uutuba, uukkede atala Aciluli cang’anda, uyanda kuti tulayane andime.” Batumbu bakati, “Ocifubafuba teesyi kaaze wako uulya ndizuba limweka ansonje.” Hansel pele taakali kulanga kaaze, pele wakali kusowa-sowa tubbwe tutuba kuzwa munkkomo kulosyela mumugwagwa.",
+        "To": "Bakaintu baba Hans Biffel, bakandaambila kuti, jilo ndilanga akabwana, ikakkede atala aaciluli, alimwi bayanda kundaambila kuti kandizwa bulowa, mukaintu wazina lya Hans syaata, walo iwakali kulanga - langa seengo, pele walo lyoonse wakali kulibonya mbuli kuti nkanyama aako kaniini buyo, nkaambo zuba talikonzyi kutuba.",
+        "So": "My father, Hansel, once a white man, was seated on my roof on the roof of a tower, wanted to pull me in, saying, \" A mother is a man - made man, not a man who is so active that it is a long distance from her feet, but a man who has become an assed on a rocky - mass, and has not been caught off the street. '"
+      }
+    },
+    {
+      "verse": 14,
+      "text": {
+        "S1": "When they had reached the middle of the forest, the father said, “Now, chil- dren, pile up some wood, and I will light a fire that you may not be cold.” Hansel and Gretel gathered brushwood together, as high as a little hill.",
+        "T1": "Nobakasika asaka mpolili akati mudili-dili muya musiya, bausyi bakati, “Lino, nobana, amulundike nkuni ndimukutwide mulilo kutegwa mutabi ampeyo,” Hanzele aGretel bakalundika nkuni, zyakali kulampa mbuli kaulu.",
+        "T2": "Nobakasika asaka mpolilema muya musiya, bausyi bakati, “Lino, nobana, amulundike nkuni ndimukutwide mulilo kutegwa mutabi aampeyo .” Hansel aa Gratel bakalundika nkuni aantoomwe, zyakali kulampa mbuli kalundu.",
+        "To": "Nobakasika akati kazisaka, bausyi bakati, Quarren, Sabren dren, muzindimbwe zimwi, alimwi ndiyoopa kuti mulilo utasyauki.",
+        "So": "When they arrived at the sound of the air, their father said: \"Now, young men, pick the fire in order to keep it cold."
+      }
+    },
+    {
+      "verse": 15,
+      "text": {
+        "S1": "The brushwood was lighted, and when the flames were burning very high, the woman said, “Now, children, lay yourselves down by the fire and rest. We will go into the forest and cut some wood. When we have done, we will come back and fetch you away.”",
+        "T1": "Nkuni zyakayasigwa, eelyo mulilo niwakayakisya mukaintu wakati, “Bana lino, amoone munsi-munsi amulilo mulyookezye. Swebo tulainka musaka tukagonke zimwi nkuni. Twamanizya, tulajoka tumulonde tweende.",
+        "T2": "Inkuni zyakayasigwa, mpoona mulilo niwakayakisya mukaintu wakati, “Nobana lino, amoone munsi-munsi amulilo mulyookezye. Swebo tulainka musaka tukagonke zimwi nkuni. Twamanizya tulajoka tumulonde tweende.",
+        "To": "Imukaintu ooyu wakaamba kuti, mainza akali kumunikila, alimwi ciindi mulilo nowakapya kapati, bana balaseluka amulilo, tulaunka musyokwe akugonka nkuni.",
+        "So": "The wood was lifted, and the fire that the woman built said: \" When the young children are about to go out, let them lie down in the fire, and we go out to rest; and we go out to rest on some wood, and we return to rest. '"
+      }
+    },
+    {
+      "verse": 16,
+      "text": {
+        "S1": "Hansel and Gretel sat by the fire, and when noon came, each ate a little piece of bread, and as they heard the strokes of the wood-axe they believed that their father was near. It was not, however, the axe, it was a branch which he had fastened to a withered tree which the wind was blowing backwards and forwards. And as they had been sitting such a long time, their eyes shut with fatigue, and they fell fast asleep. When at last they awoke, it was already dark night.",
+        "T1": "Hanzele aGretel bakakkala munsi amulilo, mpoona nolyakaba syikati aumwi wakalya kankwa kakwe, eelyo nibakamvwa kukkasa kwakeembe bakayeeya kuti bausyi bakali mufwiifwi, pesi tiicakali boobu pe, tikaali keembe pe, wakali mutabi ngwaakaangilila kucisamu ciyumu muuwo ngocaali kutola ooku akooku. Nobakakkede kwaciindi cilamfu, meso abo akaambo kakukatala, akafunya mukukatala mpoona twakabatola twakatola mwaange bakoona. Nobakasinsimuka kumanino kwakali mumudima wamasiku.",
+        "T2": "Hansel aa Gretel bakakkala munsi amulilo, mpoona nolyakaba syikati aumwi wakalya kankwa kakwe, eelyo nibakamvwa kukkasa kugonka kwakeembe bakayeeya kuti bausyi bakali mufwiifwi, pesi tiicakali boobu pe, tiikaali keembe pe, wakali mutabi ngobakaangilila kucisamu ciyumu muuwo ngowakali kucitola ooku akooku. Nobakakkede kwa ciindi cilamfu, meso aabo akaambo kakukatala akafunya mukukatala mpoona twakabatola twakatola mwaange bakoona. Nobakasinsimuka kumamanino kwakali kale mudima wamasiku.",
+        "To": "Ba Hans Bruff aba Napki bakakkala mumulilo, eelyo kumangolezya nobakasika, umwi aumwi kalya cinkwa, alimwi nobakamvwa cisamu cazisamu zitegwa poppyo icakajisi nkuni, bakali kusyoma kuti bausyi bakali afwaafwi, nokuba boobo, ibwato bwakali mbuli mutabi iwakali kugonka cisamu cakali kuloka kale, alimwi cakali kuvwubala ciindi camasiku.",
+        "So": "Hans's father, who was sitting in a fire, and when each day fell down on his desk, he felt that his father was in a dark state, he would carry his head in the dark, and we would take his head off to the end of the night."
+      }
+    },
+    {
+      "verse": 17,
+      "text": {
+        "S1": "Gretel began to cry and said, “How are we to get out of the forest now?” But Hansel comforted her and said, “Just wait a little, until the moon has risen, and then we will soon find the way.” And when the full moon had risen, Hansel took his little sister by the hand, and followed the pebbles which shone like newly-coined silver pieces, and showed them the way.",
+        "T1": "Gretel wakatalika kulila kaamba kuti, “Ino lino tulazwa buti akati kasaka ano Hansel pele wakaumunzya muce wakwe akuti, “Kobatama biyo aniini, kusikila mwezi upole, calino lino tulaibona nzila. Mwezi nowakazwa woonse mujulu, Hansel wakajatilila mucizi wakwe kujanza, mbaabo bakatalika kucilila tubwe katuya kumweka mbuli nsiliva mpya bakaibona nzila baunka balobelela.",
+        "T2": "Gretel wakatalika kulila kaamba kuti, “Ino lino tulazwa buti akati kasaka aano?” Hansel pele wakamumuzya musyoonto wakwe akuti, “Kobatama biyo aaniini, kusikila mweeezi upole, calino lino tulaibona nzila. Mwezi nowakazwa oonse mujulu, Hansel wakajatilila mucizi wakwe kujanza, mbaabo bakatalika kucilila tubbwe katuya kumweka mbuli nsiliva mpya bakaibona nzila baunka baloobelela.",
+        "To": "Ba Hans Gaffel bakatalika kulila akwaamba kuti, \"Mbwaanga lino twakali kuzwa musyokwe, lino twakali kuumbulizyigwa akwaamba kuti, ikuti mwezi wazyalwa, nkokuti lino tulajana nzila yakuya kumwezi, eelyo lino - lino tulajana nzila, eelyo mwezi woonse nuuzwa, ba Hans Gaffel bakakkala buyo asyoonto - syoonto, mpoonya bakatalika kuseluka asyoonto - syoonto, mpoonya bakatalika kucita boobo kwiinda mukubelesya muncini mupya, mpoonya bakatalika kucita boobo, eelyo bakatalika kucita boobo, eelyo bakatalika kucita boobo, eelyo bakatalika kucita boobo kwiinda mukubelesya muncini mupya.",
+        "So": "\" Now, how do we come out of the midst of this forest, \" says faithful Hans Hansel, \"but he touched his younger brother and said, \"that she might be just a little while, until now we see him walking in the air, and she caught him as she did, and she caught him up in her hand, and she caught him like a branding her way of silver, and she caught him as she caught him. '"
+      }
+    },
+    {
+      "verse": 18,
+      "text": {
+        "S1": "They walked the whole night long, and by break of day came once more to their father's house. They knocked at the door, and when the woman opened it and saw that it was Hansel and Gretel, she said, “You naughty children, why have you slept so long in the forest? We thought you were never coming back at all!”",
+        "T1": "Bakeenda busiku boonse, kubucedo bakasiku amunzi waba wisi. Bakakonkomona kumulyango, mpoona mukaintu naakajalula akubona kuti mbaa Hansel aGretel, wakati, “Nywebo nobana batamvwi, ncinzi camupa koona ciindi coonse cilamfu boobu musokwe? Swebo twali kuti kwiina biya nomuya kujoka limbi!”.",
+        "T2": "Bakeenda busiku boonse, kubucedo bakasika amunzi waba wisi. Bakakonkkomona kumulyango, mpoona mukaintu naakajula akubona kuti mbaa Hansel aa Gretel wakayi, “Nywebo nobana batamvwi, ncinzi camupa koona ciindi coonse cilamfu boobu musokwe? Swebo twali kuti kwiina biya nomuya kujoka limbi!”",
+        "To": "Bakali kweenda masiku oonse, alimwi kwiinda mukujala ŋanda yabausyi, bakali kukonkomona amulyango, alimwi ciindi mukaintu ooyu naakajalula akubona kuti bulwazi oobu bwakali ba Hans Selma a Napki, bakali kwaamba kuti, Ino nkaambo nzi ncomwakali kuyeeya kuti kunyina nomwakaboola kale kumasena aaya?",
+        "So": "They walked all night, they arrived at the house of their father, shut the door, and saw that Hans's wife was standing up and saw that she was a blind man, and what led him to sleep all this way in the wilderness?"
+      }
+    },
+    {
+      "verse": 19,
+      "text": {
+        "S1": "The father, however, rejoiced, for it had cut him to the heart to leave them behind alone. Not long afterwards, there was once more great scarcity in all parts, and the children heard their mother saying at night to their father, “Everything is eaten again, we have one half loaf left, and after that there is no more. The children must go. We will take them farther into the wood, so that they will not find their way out again; there is no other means of saving ourselves!”",
+        "T1": "Nokwakaba boobu, bausyi, bakakondwa, nkaambo biya cakali bakopede kumoyo kusiya bana munsi balikke. Kakutana akwiinda ciindi nikwakamana waawa kwakaba nzala ilunda kasuko mumasena oonse, bana bakaswiilila banyina masiku kabaambila bansyi kuti; “Zyoonse biya zyamana kuligwa alimwi tujisi biyo cisela cacinkwa cacaala, kwamana waano nkokuti kwamwanina lyo. Aaba bana beelede kwiinka. Tulabatola kulamfu kwini musaka, kutegwa bataijani limwi nzila; kwiina biya imbi nzila mbotukonzya kupona swebo lwesu.”",
+        "T2": "Nokwakaba boobu, bausi bakakondwa, nkaambo biya cakali bakopede kumoyo kusiya bana munsi balikke. Kakutana akwiinda ciindi nikwakamana waawa kwakaba nzala iilunda kasuko mumasena oonse, bana bakaswiilila banyina masiku kabaambila bausyi kuti; “Zyoonse biya zyamana kuligwa alimwi tujisi biyo cisela cacinkwa cacaala kwamana waano nkukuti kwamaaniina lyo. Aaba bana beelede kwiinka. Tulabatola kulamfu kwini musokwe kutegwa bataijani limwi nzila; kwiina biya imbi nzila mbotukonzya kupona swebo lwesu.",
+        "To": "Nokuba boobo, bausyi bakakkomana kapati, nkaambo bakamutola kumoyo kuti abasiye buyo balikke, alimwi tiitwakacili kuyandika kuti muŋanda mpati mumasena oonse, aboobo bana bakamvwa banyina kabalya alimwi, aboobo kunyina nobakonzya kulivwuna pe.",
+        "So": "When that happened, the ridiculers rejoiced, for it was enough for you to leave your children alone, and by this time a famine broke out in all parts of the country, the children listened to their father's voice and told them: \" We must all eat and half of us left behind; we have no bread left behind and no longer have to live in the fields. '"
+      }
+    },
+    {
+      "verse": 20,
+      "text": {
+        "S1": "The man's heart was heavy, and he thought, “It would be better for you to share the last mouthful with your children.” The woman, however, would listen to nothing that he had to say, but scolded and reproached him. He who says what must say what, likewise, and as he had yielded the first time, he had to do so a second time also.",
+        "T1": "Ooyu mulombwana wakalimvwa kutyoka moyo, mpoona wakayeeya,” Ncibotu lyoonse kwaabana nokacaya abana bako.” Imukaintu nokuba boobu, kunyina ncaakali kuyanda kumuswiilla mutumi, wakali kwiile kumudyakaizya akumufubaazya. Ooyo weelede kwaamba nceelede kwaamba kacaamba, mbuli lyoonse, weelede biyo kuzumina alimwi alwabili.",
+        "T2": "Ooyu mulombwana wakalimvwa kutyoka moyo, mpoona wakayeeya, “Ncibotu lyoonse kwaabana nokaceya abana bako.” Imukaintu nokuba boobu, kunyina ncaakali kuyanda kumuswiilila mulumi, wakali kwiile kumudyakaizya akumufubaizya. Ooyo weelede kwaamba ncaelede kwaamba kacaamba, mbuli lyoonse, weelede biyo kuzumina alimwi alwabili.",
+        "To": "Nokuba boobo, moyo wamuntu wakali mulemu kapati, aboobo wakayeeya kuti mweelede kumunyansya mukaintu ooyu akwaamba majwi aamamanino, mbuli mbwaakali kucita ciindi cabili.",
+        "So": "The young man felt broken and thought, and it is good to have a good time with your children; yet, a wife would not listen to her husband, just as she had to say to her husband, and that she should always listen to him."
+      }
+    },
+    {
+      "verse": 21,
+      "text": {
+        "S1": "The children were, however, still awake and had heard the conversation. When the old folks were asleep, Hansel again got up, and wanted to go out and pick up pebbles as he had done before, but the woman had locked the door, and Hansel could not get out. Nevertheless, he comforted his little sister, and said, “Do not cry, Gretel, go to sleep quietly, the good God will help us.”",
+        "T1": "nokuba boobu ibana bakalicili kulanga nkabela bakamvwa cakali kwaambwa. Bapati nobakoona, Hansel alimwi wakabuka, kayanda kuzwida anze akubwezelela mabwe mbuli kusaanguna, pele mukaintu wakacikiya cijazyo, eelyo Hansel taakakonzya kuzwa anze. Nokuba boobo, wakakulwaizya muce wakwe, akuti,”Utalili,Gretel”",
+        "T2": "Nokuba boobu, ibana bakacili kulanga, nkabela bakamvwa cakali kwaambwa. Ibapati nobakoona, Hansel alimwi wakabuka kayanda kuzwida anze akubwezelela mabwe mbuli kusaanguna, pele mukaintu wakacikkiya cijazyo, eelyo Hansel taakakonzya kuzwa anze. Nokuba boobo, wakakulwaizya muce wakwe, akuti, “Utalili Gretel!”",
+        "To": "Nokuba boobo, bana aaba bakacili kulangila alimwi nobakamvwa mubandi ooyu, bantu bakaindi bakali koona, ba Hans bakatalika alimwi, aboobo bakali kuyanda kuunka kuyakoona kabasamide zisani zisiya - siya, pele mukaintu ooyo wakajala mulyango, alimwi ba Hans tiibakacikonzya kuseluka.",
+        "So": "Still, the children were still watching, and they heard what was said, when the elders fell asleep, Hansel came out and pulled stones out, but the woman shut the door, and Hans could not leave it, but he encouraged them in his younger brother, and he did not have to stay on the back!"
+      }
+    },
+    {
+      "verse": 22,
+      "text": {
+        "S1": "Early in the morning came the woman, and took the children out of their beds. Their bit of bread was given to them, but it was still smaller than the time before. On the way into the forest Hansel crumbled in his pocket, and often stood still and threw a morsel on the ground. “Hansel, why do you stop and look round?” said the father, “go on.”",
+        "T1": "Mbuli cilengwa kuseni-seni mukaintu wakabusya baana akubapa kusyonto kwacinkwa caka cede kuti balye aboobo cakulya caakali cisyonto kwiinda mazuba alyose.Mbuli nobakabweza lweendo lwakuya musyokwe Hansel wakaima cakutazunguna wakanjila munkomwe akusowa cakulya ansi”Hansel ,nciinzi ncolangaula ?”baka mubuzya bausyi.",
+        "T2": "Mbuli cilengwa kuseni-seni mukaintu wakabusya bana akubapa kusyoonto kwacinkwa caka cede kuti balye aboobo cakulya cakali cisyoonto kwiinda mazuba olyonse. Mbuli mbobakabweza lweendo lwakuya musyokwe Hansel wakaima cakutazungaana wakanjila wakanjila munkomo akusowa cakulya aansi. “Hansel, ncizi ncolangaula?” bakamubuzya bausyi.",
+        "To": "Kumatalikilo aabuzuba oobo, mukaintu ooyu wakaboola, akubweza bana kuzwa abulo bwabo, alimwi kanji - kanji bakali kupegwa cakulya cisyoonto, pele sena eeci cakali cisyoonto kwiinda ciindi eeco, mpoonya mwakaleka kubona bausyi ba Hilda?",
+        "So": "As was the custom of a woman who raised children and gave them a little of the bread that was ready to eat, so she asked for a little more than enough food for her father."
+      }
+    },
+    {
+      "verse": 23,
+      "text": {
+        "S1": "“I am looking back at my little pigeon which is sitting on the roof, and wants to say goodbye to me,\" answered Hansel.",
+        "T1": "Ndiyandaula ka kwilimba ka kkele aciluli kayanda kundilaya”wakavwuwa Hansel.",
+        "T2": "“Ndiyandaula ka kwilimba ka kkele aciluli kayanda kundilaya,” wakavwuwa Hansel.",
+        "To": "NOBANDA ndilanga - langa kasani kasyoonto kakkede atala aaciluli, alimwi ndiyanda kuti ndimwaambile kuti, \"Waingula Hansel.",
+        "So": "While I was looking for a bicycle on a roof, he got up with Hansel."
+      }
+    },
+    {
+      "verse": 24,
+      "text": {
+        "S1": "“Simpleton!” said the woman, “that is not your little pigeon, that is the morning sun that is shining on the chimney.” Hansel, however, little by little, threw all the crumbs on the path.",
+        "T1": "”Yebo Simpleton!ako takali ka kwilimba kako,ndizuba lyakuseni njobweni aciluli limunika’Cakuusa Hansel asyonto-syonto wakacisowa coonse cakulya ncakaji munkomwe lyakwe.",
+        "T2": "“ Yebo Simpleton!” bakaamba bakaintu, “aako takali ka kwilimba kako ndizuba lyakuseeni ndyobene aciluli limunika”. Hansel, nokuba boobo, aasyoonto-syoonto, wakacisowa coonse cakulya ncaakajisi munkomo lyakwe.",
+        "To": "SOFWUMO, ba Hiroshima bakaamba kuti, izuba limweka buyo asyoonto, lyakali kuloka asyoonto - syoonto, aboobo lyakali kufwusa tuzila toonse munzila.",
+        "So": "YOU are a woman, and your wife is not a sign of the sun on the roof of her roof. Hans Hansel, but a little one, who broke all the food she owned in her bag."
+      }
+    },
+    {
+      "verse": 25,
+      "text": {
+        "S1": "The woman led the children still deeper into the forest, where they had never in their lives been before. Then a great fire was again made, and the mother said, “Just sit there, you children, and when you are tired you may sleep a little; we are going into the forest to cut wood, and in the evening when we are done, we will come and fetch you away.”",
+        "T1": "Aboobo lweedo lwamu syokwe lwaka zumanana bakeenda businzo bakasika akubu,sena nkobatanasikide.nobakeenda kasinzo kalanfu bakaima akukunka mulilo ,mpona bakati ku baana “kaamu lyokezya mwakatala mulale twagama mukutebba nkuni tuzomucinga masiku twapiluka.”",
+        "T2": "Aboobo lwendo lwmusyokwe lwaka zumanana bakeenda musinzo bakasika akubusena nkobatanasikide. Nobakeenda kasinzo kalamfu bakaima akukunka mulilo, mpoona bakati kubana, “kumu lyookezya mwakatala mulale twagama mukutebba nkuni tuzoomucinga masiku twapiluka.”",
+        "To": "Imukaintu oyo wakasololela bana kuzisaka, kwalo nkomwakatakali kukkala kabafwide; mpoonya kwakapangidwe mulilo mupati alimwi, eelyo banyina bakaamba kuti, mweelede kukkala ooko, nywebo nobana, alimwi aciindi nomukatede inga kamutanoolede; tuunka musyokwe, alimwi ciindi camasiku tulazwa mukulyookezya.",
+        "So": "So the wild field continued its way toward the area before them, and after a long journey, they stood by fire and said to the children: \" Let the fire drop down, you get tired of rest, and you go to the fire until the night. '"
+      }
+    },
+    {
+      "verse": 26,
+      "text": {
+        "S1": "When it was noon, Gretel shared her piece of bread with Hansel, who had scattered his by the way. Then they fell asleep and evening came and went, but no one came to the poor children. They did not awake until it was dark night, and Hansel comforted his little sister and said, “Just wait, Gretel, until the moon rises, and then we shall see the crumbs of bread which I have strewn about, they will show us our way home again. “When the moon came they set out, but they found no crumbs...",
+        "T1": "Masikati nakasika Gretel wakabana cinkwa ncakajisi a Hansel ,Hansel cinkwa cakwe wazocisowa munzila ,aboobo busiku bwakasika baana bakoona limwi Hansel wakabuka kulamgila kuti balasika bazyali mbuli mbokayomezya,Hansel wakamusyomezya muciziwakwe kuti “katulindila mwezi ulibonye mpona tulenda kung’anda tulatobelezya mondali kulosya cinkwa”Mwezi wakazwa bakatalika kweenda pele mukubula coolwe tibakajana kankwa nokaba koomwe.",
+        "T2": "Masikati nakasika Gretel wakaabana cinkwa ncaakajisi a Hansel, nkaambo Hansel cinkwa cakwe wakazoocisowa munzila, aboobo busiku bwakasika bana bakoona limwi Hansel wakbuka kulangila kuti balasika bazyali mbuli mbobakasyomezya Hansel wakamusyomezya mucizyi wakwe kuti, “katulindila mwezi ulibonye mpoona tuleenda kung’anda tulatobelezya mundali kulosya cinkwa.” Mwezi nowakazwa bakatalika kweenda pele mukubula coolwe tiibakajana kankwa nokaba komwe.",
+        "To": "Mafwumo - fwumo, ba Adeaki bakali kulya cinkwa camunisikati, ba Hansel bakali kumwaazya nzila, mpoonya bakatalika koona akujoka kumangolezya, pele kunyina muntu iwakasika afwaafwi abana bacete; tiibakali koona kusikila masiku, mpoonya ba Hans bakamuumbulizya mucizyi wakwe musimbi, bakatwaambila kuti, bakalindila mwezi waalya, pele mebo tunoojisi tusike.",
+        "So": "Among the nations, he broke up the bread that Hans had made, for Hans Hansel's bread broke down on the road, so on the night he came and died with his other children, hoping that they would arrive as his parents had promised Hans, who had promised him, he would wait for us to stand a month, and then go out in the evening, so that he would not go out in the evening."
+      }
+    },
+    {
+      "verse": 27,
+      "text": {
+        "S1": "For the many thousands of birds which fly about in the woods and fields had picked them all up. Hansel said to Gretel, “We shall soon find the way,” but they did not find it. They walked the whole night and all the next day too from morning till evening, but they did not get out of the forest, and were very hungry, for they had nothing to eat but two or three berries, which grew on the ground. And as they were so weary that their legs would carry them no longer, they lay down beneath a tree and fell asleep.",
+        "T1": "Syokwe lilengedwe amyunda lyaba yuni aboobo zinkwa zyakali kusowa bakazilya ,Mpona Hansel wakati kuli Gretel “Tulaijana iya kumaanda lino-lino”pele bakazumanana kusweka,bakeenda busiku bonse kabasiki kung’anda pe limwi kwa kaca akusiya kabeenda ,nzaala yakazumunana nakcikonzya buyo kulya tucelo totatwe tobakagomenena pele mubili wakazokatala bakayama acisamu akulyezya akoona.",
+        "T2": "Syokwe lilengedwe amyuunda yabayuni aboobo zinkwa nzyaakali kusowa bakazilya, mpoona Hansel wakati kuli Gretel “Tulaijana nzila iiya kumaanda lino-lino” pele bakazumanana kusweeka bakeenda busiku boonse kabatasiki kung’anda pe limwi kwa kaca akusiya kabeenda, nzala yakazumanana bakacikonzya biyo kulya tucelo totatwe ntobakagomenena pele mibili yakazookatala bakayaama acisamu akoona.",
+        "To": "Kwazyuulu - zyuulu zyabayuni ibakali kuuluka musyokwe alimwi akumyuunda bakali kubabweza boonse mane kusikila kumangolezya, ba Hansel bakali kuunka ku Apkin, lino - lino tuyoojana nzila, pele tiibakaijana, bakali kweenda masiku oonse, alimwi masiku oonse bakali kunyanyaasya mubili mane kusikila mane kusikila kukuzyalwa, pele tiibakajisi nzala, alimwi tiibakajisi cakulya cili coonse cakali kukonzya kuco.",
+        "So": "In its nests, the bread that he had eaten, and Hanselel said that he found a way to live now, but he remained awake all night long, without a full weight of food, and he was able to eat three bodies that had grown up to the ground."
+      }
+    },
+    {
+      "verse": 28,
+      "text": {
+        "S1": "It was now three mornings since they had left their father's house. They began to walk again, but they always got deeper into the forest, and if help did not come soon, they would die of hunger and weariness. When it was midday, they saw a beautiful snow-white bird sitting on a bough, which sang so delightfully that they stood still and listened to it. And when it had finished its song, it spread its wings and flew away before them, and they followed it until they reached a little house, on the roof of which it alighted; and when they came quite up to the little house they saw that it was built of bread and covered with cakes, but that the windows were of clear sugar.",
+        "T1": "Masiku otatwe akainda kuzwa ncobakwa kung’anda yabausyi,aboobo bazumanana a lweendo lwakupilula kumaanda peele mbuli mbokali kweenda musinzo awaalo wakali ku lampa ,masikati nakasika bakanvwa kayuni kakaimba lwiimbo lubotu ,bakaima akutelela,nikamana kwiimba kakauluka mpona Hansel a Getel bakakatobela bakasika a ng’anda yakayakidwe acinkwa antomwe a keke yalo mpulungwido yakali yakidwe akanyabbakala.",
+        "T2": "masiku otatwe akainda kuzwa mpobakazwida kung’anda yabausyi aboobo baazumanana alweendo lwakupilukila kumaanda pele mbuli mbobakali kweenda musinzo awalo wakali ku lampa. Masikati naakasika bakamvwa kayuni kakaimba lwiimbo lubotu, bakaima akuteelela nikakamana kwiimba kakauluka mpoona Hansel a Gretel bakakatobela bakasika ang’anda yakayakidwe acinkwa mpoona yakavumbidwe kkekke, pesi mpulungwido yakali yakidwe akanyabbakala.",
+        "To": "Bakatalika kweenda alimwi, pele lyoonse bakali kuunka musyokwe, alimwi ikuti naa lugwasyo lwakali kuboola, bakali kuyoofwa akaambo kanzala alimwi akutontola, bakali kubona kayuni kasiya - siya, alimwi bakali kukonzya kuwida muzipulo, eelyo nobakamanizya kuyaka mpulungwido, eelyo nobakamanizya kuyaka mpulungwido, bakamanizya kuyaka mpulungwido, eelyo nobakamana kuyaka mpulungwido, bakamanizya kuyaka mpulungwido, mane kusikila nobakamana kuyaka mpulungwido, bakaimena mpulungwido, bakaimena, mpoonya bakaimena, bakaide kuwida ansi, mpoonya bakaide kuwida ansi, bakaide kuwida ansi, bakaide kuwida ansi, mpoonya bakaide kuwida ansi, bakaide kuwida ansi, mane limwi kuwida ansi, mpoonya bakaide kuwida ansi, bakaide kuwida ansi, bakaide kuwida ansi, bakaide kuwida ansi, bakaide kuwida ansi, mane limwi kuwida ansi, bakaide kuwida ansi, bakaide kuwida ansi, bakaide kuwida ansi, mpoonya bakaide kuwida ansi, mpoonya bakaide kuwida ansi, mane limwi kuwida ansi, mane limwi azipulo azipulo, mane limwi kuwida ansi, mane limwi azipulo azipulo.",
+        "So": "Three night after his father's wall was released, he continued on his journey back home, but like a long trip, the nations who heard a beautiful bird sing a song, standing up, and Hans Gedwed along with a brokenb, and then the two - leaved horns came along with a broken back."
+      }
+    },
+    {
+      "verse": 29,
+      "text": {
+        "S1": "“We will set to work on that,” said Hansel, “and have a good meal. I will eat a bit of the roof, and you, Gretel, can eat some of the window, it will taste sweet.” Hansel reached up above, and broke off a little of the roof to try how it tasted, and Gretel leaned against the window and nibbled at the panes. Then a soft voice cried from the room...",
+        "T1": "Hansel wakati kuli Gretel “katulya cakwanguluka” mebo ndilalya ciluli yebo Gretel kolya mpulungwido ila lwela ,Gretel wakaluma akulwa mponya wakanwvwa jwi kuzwa mung’nda kailila’",
+        "T2": "Hansel wakati kuli Gretel, “katulya cakwaanguluka.”mebo ndilalya ciluli yebo Gretel kolya mpulungwido ila lweela, Gretel wakaluma akulya mpoona wakamvwa ijwi kuzwa mung’anda kalilila.”",
+        "To": "BUZUBA bumwi, mulubala wazina lya Hans Gaff, tunoojisi cakulya cibotu, ndiyoolya ciluli, yebo, nyangu, nyangu, nyangu, nyangubo, nyangule, zisyu zimwi, ziyoonona, zilamena, zilamena ziluli, zilamena ziluli ziluli, zilakokede atala, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakoka, zilakokamukamukamukamukamukamuka, zilakoka, zilakoka, anga zilulika, anga zikoka, zilakoka, zilakoka.",
+        "So": "Hansel said to Geden, a house with us, and I eat a roof from the window, and she broke up eating and heard a voice from the labbbbbbbbbbbn."
+      }
+    },
+    {
+      "verse": 30,
+      "text": {
+        "S1": "“Nibble, nibble, gnaw, Who is nibbling at my little house?” The children answered, “The wind,the wind, The heaven-born wind,” and went on eating without disturbing themselves. Hansel, who thought the roof tasted very nice, tore down a great piece of it, and Gretel pushed out the whole of one round window pane, sat down, and enjoyed herself with it.",
+        "T1": "Maawe Nguni ulya ng’nda yangu,ngu muwo wakalengwa a LEZA “bakavwuwa baana .bakazumanana kulya kakunyina ubanyonganya,Hansel wakatelela kuti ciluli caina wakakomona cibazu cikaando awalo Gretel wakasika mpakala ansi ikulya mpulungwido,",
+        "T2": "“Maawe, nguni uulya nga’nda yangu ngu muwo wakalengwa a LEZA “bakavwuwa bana akuzumanana kulya kakunyina uubanyonganya. Hansel, wakateelela kuti ciluli caina wakakomona cibazu cikando awalo Gretel wakasika mpaakali aansi ikulya mpulungwido.",
+        "To": "NIGEN, Selma, syaresi, uukkala muŋanda yangu nsyoonto, bana bakaingula, kuunga muwo, mujulu, kuunga muwo, alimwi akulya kakunyina kulicisa.",
+        "So": "WHAT I have to say, who is the wind that was designed by God to blow the children down and to continue eating without distraction. Hans Hansel, heard that the roof of the earth had also eaten the windows."
+      }
+    },
+    {
+      "verse": 31,
+      "text": {
+        "S1": "Suddenly the door opened, and a very, very old woman, who supported herself on crutches,came creeping out. Hansel and Gretel were so terribly frightened that they let fall what they had in their hands. The old woman, however, nodded her head, and said, “Oh, you dear children, who has brought you here? Do come in, and stay with me. No harm shall happen to you.” She took them both by the hand, and led them into her little house. Then good food was set before them, milk and pancakes, with sugar, apples, and nuts. Afterwards two pretty little beds were covered with clean white linen, and Hansel and Gretel lay down in them, and thought they were in heaven.",
+        "T1": "Kabacilya kazwa mucembele wakali kweenda akakoli ,Hansel a Gretel bakayawowa bakalosya azyobakali kulya , mucembele wakazunganya mutwe akwaamba “mbaani bamweeta kuno kamuza tweende mung’anda muyowi takwe ciibi citi citike”wakabajata kumanza akuba tola mung’anda aku bapa mukupa a keke antomwe akanyabbakala,nobakamana bakona mucembele wakabavumba amulembo utuba Hansel a Gretel bakanvwa mbulikti bali julu.",
+        "T2": "Kabacilya kazwa mucembele wakali kweenda akakoli, Hansel a Gretel bakayoowa akulosya nzyobakali kulya,, mucembele wakazungaanya mutwe akwaamba “mbaani bamweeta kuno kamuza tweende mung’anda mutayoowi taakwe cibi citicitike” wakabajata kumaanza akubatola mung’anda akubapa mukupa akkekke, antoomwe akanyabbakala, anyemu. Nobakamana bakoona mpoona mucembele wakabavumba amulembo uutuba, Hansel a Gretel bakamvwa mbuli kuti bali ku julu.",
+        "To": "Mukaindi buyo kasyoonto, mukaintu uucembeede iwakali kugwasyilizya kugonka zisamu, wakatanta ntobolo, mpoonya kasiya anyabo, mpoonya wakayoowa kapati cakuti wakawida muŋanda yakwe yamusyokwe, mpoonya walo iwakandinjizya muŋanda yanyanzabili, mpoonya walo iwakandinjizya mumila wakwe.",
+        "So": "As an elderly woman walking on a street, Hans and Gingehb were afraid to eat, the old woman rose up the head and poured out the floor, and she poured out a little while in a cave, and she poured out her hand, and she poured out a bowl of bread, and she poured out her hand and pulled them out to her head, and she poured out to her head, as if she was pregnant."
+      }
+    },
+    {
+      "verse": 32,
+      "text": {
+        "S1": "The old woman had only pretended to be so kind; she was in reality a wicked. When a child fell into her power, she killed it, cooked and ate it, and that was a feast day with her. Witches have red eyes, and cannot see far, but they have a keen scent like the beasts, and are aware when human beings draw near. When Hansel and Gretel came into her neighbourhood, she laughed maliciously, and said mockingly, “I have them, they shall not escape me again!”",
+        "T1": "Mubulengi bwamucemele wakali amoyo mubi na wakali mu lozi,wakali kujaya ‘kujika baana amana akubalya mwakali kupona.,ba lozi baka bambwa mbuli munyama wamusyokwe ununsya nokuba, alanfu,mpona bala meso a salala apa kuti bataboni alanfu,Hansel a Gretel nobakasika muyokwe ka cembele kakaziba akuseka cakufubazya ,akwamba kuti inga tibandisweka alimwi.",
+        "T2": "Mubulengi bwamucembele wakali amoyo mubi naa wakali mu lozi wakali kujaya, kujika bana amana akubalya mbwaakali kupona, balozi bakabambwa mbuli munyama wamusyokwe uununsya nokuba aalamfu mpoona bali aameso aasalala aapa kuti bataboni aalamfu, Hansel a Gretel nobakasika musyokwe kacembele kakaziba akuseka cakufubaazya, akwaamba kuti, “Ndibajisi inga tiibandisweeka alimwi!”",
+        "To": "Mukaintu ooyu wansiku wakalicengeezya buyo kuti uli alubomba; mubwini wakali sizibi, pele ciindi mwana naakajatwa canguzu, naakaubweza, akuulya, alimwi akuti buzuba bwakali afwaafwi anguwe, lino tabukonzyi kuloka, pele kunyina nakonzya kubona mbuli banyama, alimwi kunyina nobazyiba ciindi nobaboola alimwi akunduuma, batalika kundiseka - seka, alimwi akunduuma, bakandaambila kuti batalika kundiseka - seka, alimwi.",
+        "So": "An elderly woman's heart was bad, if she was killed, burned her children, and ate them, witches were made like a wild animal that was wrapped up, or a long, clean, that she could not see them long enough, Hans, and she would not lie in the fields, she would not lie down, she would not lie down, and then say that she would not lie down, \" I want to tell them, '"
+      }
+    },
+    {
+      "verse": 33,
+      "text": {
+        "S1": "Early in the morning before the children were awake, she was already up, and when she saw both of them sleeping and looking so pretty, with their plump red cheeks, she muttered to herself, “That will be a dainty mouthful!” Then she seized Hansel with her shriveled hand, carried him into a little sta- ble, and shut him in with a grated door. He might scream as he liked, that was of no use. Then she went to Gretel, shook her till she awoke, and cried, “Get up, lazy thing, fetch some water, and cook something good for your brother, he is in the stable outside, and is to be made fat. When he is fat, I will eat him.”",
+        "T1": "Ka cembele kakabuka baana kabatana buka mpona kabacilde kakabeebela akubanyomena akaambo kakuti bakali kweebeka,amana kakali ambauzya kakati “Sunu ndilalilida cakukkuta”mpna kakabweza Hansel cakaumumu kalede akumumujalila,kakati mumuyo” nokuba kuti akwile takwe uti muvuwe ,”Gretel kacilede kakamubusya kumbi kakakwila kuti kobuka umumbambile cakulya Hansel kutegwa anenesye kutegwa ndimulye kabotu",
+        "T2": "Ka cembele kakabuka bana kabatana buka mpoona kabacilede kakabeebela akubanyomenena akaambo kakuti bakali kweebeka amana kakaliambauzya kakati, “Sunu ndilalilida cakukkuta,” mpoona kakabweza Hansel cakaumumu kalede akumujalila mukati aacaandanda” nokuba kuti akwiile nokuba kuti akwiile taakwe uuti muvuwe,” Gretel kacilede kakamubusya kumwi kakakwiila kuti kobuka umubambile cakulya Hansel kutegwa anenesye kutegwa ndimulye kabotu.",
+        "To": "Kumatalikilo aabuzuba oobo, bana bakali koona kale, mpoonya nobakabona kuti boonse bobilo baloona, mpoonya bakabona kuti baona, kumwi kabasamide zisani zisalala, bakali kufwuna, mpoonya nobakamuzikka, batalika kunyanyaasya mubili, mpoonya nobakamubona kabatyompedwe, ba Hans bakali kumutola anze, bakatalika kusunta, mpoonya bakali kumutola anze akumubikka anze, baazya, bamuka, baanywa mulungulololololololo, alimwi bakali kusuntwe, baata, baada, baada, baata, baazya, baada, baazya, baase, alimwi bakali kusunta baazya, baada buyo ciindi nobakali kusunta baand, baand, baazya, baazya, baaseeseesena, baaseeseeseya baand, baaseeseya baaseya, bakamuka, baaseya, bakamuka, baand, baand, bakamuka, baaseya, baaseya akumubikka kusunta, bakamuka, bakamuka, bakaakuseya akumubikka kusuntauka, baandrieseya, bakakungueseya, baaseya, baand, baandrienze, baand, baaseya, baand, baand, baand, baaseya baaseya baaseya baaseya, baaseya baaseya, baaseya, baaseya baand, baand, baaseya baand, baaseya, baaseya, baaseya baaseya, baand, baaseya baaseya baaseya baaseya baaseya baakuseya baakuseya, baaseya, baakuseya, baakuseya, baakuseya baaseya baakuseya, baakuseya, baakuseya baakuseya baakuseya bakakuseya baakuseya, baakuseya bakakungungamuka, baakukala, baakukala, baaseya, baakuseya, baakuyi bakali kusunta, baakuyi, baakuyi, baakukala, ba",
+        "So": "Before the pregnant woman got up to play a watch and admires it because she was beautiful and had been selling a little, I still don't play it, and she let Hans roll it in and shut it in the middle of the snow, so that she would not lie down with her head, and she would roll him down with food, and she would not lie down with her head."
+      }
+    },
+    {
+      "verse": 34,
+      "text": {
+        "S1": "Gretel began to weep bitterly, but it was all in vain; she was forced to do what the wicked witch ordered her.",
+        "T1": "Gretel wakatalika kulila, pele tiicakali kugwasya pee; wakasungilizigwa kucita mulozi ncaakamwaambila kucita.",
+        "To": "Maluba - luba akatalika kulila kapati, pele akali aabuyo; wakasinikizyigwa kucita ceeco syaazibwene mumasalamuzi ncaakamulailila.",
+        "So": "She began to cry, but it was not helpful; she got caught up with the ring."
+      }
+    },
+    {
+      "verse": 35,
+      "text": {
+        "S1": "And now the best food was cooked for poor Hansel, but Gretel got nothing but crab shells. Every morning the woman crept to the little stable, and cried, “Hansel, stretch out your finger that I may feel if you will soon be fat.” Hansel, however, stretched out a little bone to her, and the old woman, who had dim eyes, could not see it, and thought it was Hansel's finger, and was astonished that there was no way of fattening him.",
+        "T1": "Nakamvwa bobu Gretel wakalila cakwetezya pele kwakali kusowa buyo ciindi kaambo kuti takwe nikajisi aluse kacemebele, wakazumunana kutobela malailile aka cembele,mbuli cilengwa Gretel wakaindilizya kujika cakulya ca Hansel pesi Gretel takwe ncakali kulya pele buyo makololo.Mucembele wazobweza acilengwa cakumulanga kuseni Hansel kusinizya na ulanenesya ,pele mucembele wakazingwa kuti ajata kanwe tikali kulinvwisya kucinca pe akimbo kakuti tikali kubona kabotu",
+        "T2": "Naakamvwa boobu Gretel wakalila cakweetezya pele kwakali kusowa buyo ciindi nkaambo kakuti taakwe nikaajisi aluse kacembele, wakazumanana kutobela malailile aa kacembele mbuli cilengwa Gretel wakaindilizya kujika cakulya ca Hansel pesi Gretel takwe ncakali kulya pele buyo makololo. Mucembele wazobweza acilengwa cakumulanga kuseni Hansel kusinizya naa ulanenesya, pele mucembele wakazingwa kuti ajata kanwe tiikaali kulimvwisya kucinca pe nkaambo kakuti tiikaali kubona kabotu.",
+        "To": "Lino cakulya cibotu cakali kujikwa kapati kuli ba Hans Haffel, pele tubeela - beela twamapopwe twakali kujikwa kabotu, lyoonse mafwumofwumo mukaintu ooyu wakali kuwida muluba, mpoonya wakali kulila, kuvwuuma, alimwi akuluka, calo cikonzya kupa kuti ndilimvwe kubula mafwuta, nokuba boobo mukaintu ooyu wakali kulila, alimwi katajisi mafwuta, alimwi kayeeya kuti taacili kabotu.",
+        "So": "When she overheard her anguish but did not spend time with her old age, she continued to follow the advice of an elderly woman, such as Gananan, who made sure that she had a simple meal, but she noticed that she didn't have a good habit, but she noticed that she was an older woman."
+      }
+    },
+    {
+      "verse": 36,
+      "text": {
+        "S1": "When four weeks had gone by, and Hansel still stayed thin, she was seized with impatience and would not wait any longer. “Now, Gretel,” she cried to the girl, “be active, and bring some water.Let Hansel be fat or lean, tomorrow I will kill him, and cook him.”",
+        "T1": "Mvwiki zyone zyakainda Hansel kapegwa cakulwa pesi katanenesyi ,mucembele wakanyema wakabula alubomba wakati ku musimbi “yebo Gretel koleta meenda kobikila mano Hansel anenesye ndiyanda kuyomujaya cifumo” wakacita mbakambilwa kumbi kalila.",
+        "T2": "Mvwiki zyone zyakainda Hansel kapegwa cakulya pesi kataneneeyi, mucembele wakanyema wakabula alubomba wakati ku musimbi “Yebo Gretel koleta meenda kobikkila maano Hansel anenesye ndiyanda kuyoomujaya cifumo,” wakacita mbaakambilwa kumbi kalila.",
+        "To": "Nokwakainda nsondo zyone, ba Hans baciliko, bakakatala kapati alimwi kunyina nobakali kulindila kwaciindi cilamfwu, ba Gaffia, ba Gaffith, bakali kulila kumusimbi ooyu, kuba basungu, alimwi akumuletela maanzi.",
+        "So": "Four weeks earlier, when Hans Gedel was given a meal, an elderly woman became angry and said that she was angry with a young woman named named Hans and my older brother, who was moved to bed on the morning, she did what she was told to do."
+      }
+    },
+    {
+      "verse": 37,
+      "text": {
+        "S1": "Ah, how the poor little sister did lament when she had to fetch the water, and how her tears did flow down over her cheeks! “Dear God, do help us,” she cried. “If the wild beasts in the forest had devoured us, at least we should have died together.”",
+        "T1": "Mukutobelzya malaile wakaya mukuteka meenda kumbi kailoka yabuzike kumasaya wakaamba wakati “LEZA tugwasye cakali Kubota kuti katuligwa abanyama bamusyokwena kutegwa twafwa antomwe”",
+        "T2": "Mukutobelezya malailile wakaya mukuteka meenda kumbi kailoka yabuzike kumasaya wakaamba wakati, “Leza tugwasye cakali Kubota kuti katuligwa abanyama bamusokwe kutegwa twafwa antoomwe.”",
+        "To": "Awalo mucizi mucete wakalila kapati ciindi naakali kuteka meenda, alimwi misozi yakwe mboyakali kuseluka atala lyakwe, yakakunka a Leza, yakatugwasya, wakalila, mpoonya banyama bakali kutuluma antoomwe.",
+        "So": "In obedience to the instructions that went forth to draw new water from the slave's side, he said: \"The God who helped us was better off than to be eaten by wild animals so that we could die together."
+      }
+    },
+    {
+      "verse": 38,
+      "text": {
+        "S1": "“Just keep your noise to yourself,” said the old woman, “all that won't help you at all.” Early in the morning, Gretel had to go out and hang up the cauldron with the water, and light the fire. “We will bake first,” said the old woman. “I have al- ready heated the oven, and kneaded the dough.” She pushed poor Gretel out to the oven, from which flames of fire were already darting. “Creep in,” said the witch, “and see if it is properly heated, so that we can shut the bread in.”And once Gretel was inside, she intended to shut the oven and let her bake in it, and then she would eat her,too.",
+        "T1": "”Ulalema buyo kulila “wakamba mucembele “takwe ambocitigwasye”Nobwakaca Hansel waka kuunka mulilo akusika meenda mukabiya,mucembele wakati” tulabamba cinkwa cakusanguna,ndayasya kale oveni”wakamutonkela mukati mwa oveni “wakamba kuti mucembele konjila tunvwe mulilo mbu kasala,mucembele mumoyo wakali kuyanda kuti amana ajale kutegwa alide antomwe a Gretel.",
+        "T2": "“Ulalema buyo kulila,” wakaamba mucembele “taakwe ambocitigwasye.” Nobwakaca Gretel wakakunka mulilo akusibika meenda mukabiya, mucembele wakati, “Tulajika cinkwa kusaanguna ndayasya kale citofu,” wakamutonkkela mukati ka citofu, mucembele wakaamba kuti “Konjila tumvwe mulilo mbuu kasaala, mucembele mumoyo wakali kuyanda kuti amana ajale kutegwa alide antoomwe a Gretel.",
+        "To": "Akaambo kakuti mwakalizya buya, ba Alori bakaamba kuti, ikuti naa tiimwamugwasya, nkokuti ba Berrie bakali kufwambaana kunyentamuka, bakali kuunka akujala tuntu twameenda, alimwi akuti mulilo taukonzyi kuzima, mpoonya akupya mulilo wakali kukonzya kuzima, mpoonya akukasya kudimuka.",
+        "So": "Just a heavy cry, a woman described an elderly woman having no help; the next morning Ganan had to flow up a fire and put it in a cave, he said: \" As soon as I am getting up, I have put the bread on the back to the back, I have put her to the ground, that she might hear that she was coming up with a fire, and then she would have a fire. '"
+      }
+    },
+    {
+      "verse": 39,
+      "text": {
+        "S1": "But Gretel saw what she had in her mind, and said, “l do not know how l am to do it; how do you get in?” “Silly goose,” said the old woman, “The door is big enough; just look, I can get in myself!”and she crept up and thrust her head into the oven. Then Gretel gave her a push that drove her far into it, and shut the iron door, and fastened the bolt. Oh! then she began to howl quite terribly,but Gretel ran away,and the godless witch was miserably burnt to death.",
+        "T1": "Gretel wakaziba mano amucembele kuti tasalali mpona wakati “sicizi mbuba njila mu oveni mbubuti mbobanjila” “omuyanga yebo”wakaambila Gretel Mucemebele,”cijazyo ncipati maniningi kweebela ubone mbobanjila” nakacili kukakalisya kunjila Gretel wakamutonkela mukati mucembele akujala cijazyo mucemebele wakapya kusika limwi wakafwa.",
+        "T2": "Gretel wakaziba maano aamucembele kuti taasalali mpoona wakati, “nsecizi mbuba njila mu citofu mbubuti mbubanjila,” “omuyanga yebo,” wakaambila Gretel mucembele, “Cijazyo ncipati maningi kweebela ubone mbobanjila,”naakacili kukakalisya kunjila Gretel wakamutonkela mukati mucembele akujala cijazyo, akukkiya. Mpoona mucembele wakapya kusikila limwi wakafwa.",
+        "To": "Pele ba Knusia bakabona ncobakali kuyeeya, mpoonya bakaamba kuti, Quarérottttttttttttttttttttttattta, ikuti naa ndacizyiba mbondeelede kucita; lino wanjila muŋanda yakajisi ziluli, mpoonya waindila buya akunyona, mpoonya wanyamuka akunyona akunyona akunyona.",
+        "So": "\" As the old woman entered the back and said, \" As soon as her eyes got into the back, she poured it off, and she poured it off, and she poured it off to her door, and she died. '"
+      }
+    },
+    {
+      "verse": 40,
+      "text": {
+        "S1": "Gretel,however, ran like lightning to Hansel, opened his littlestable, and cried, “Hansel,we are saved! The old witch is dead!” Then Hansel sprang out like a bird from its cage when the door was opened for it. How they did rejoice and embrace each other, and dance about and kiss each other! And as they had no longer any need to fear her, they went into the witch's house, and in every corner there stood chests full of pearls and jewels.",
+        "T1": "Nakamana Gretel wakalunduka lubilo mbuli lulabo kukufutula Hansel, wakakwila cakukkomana wakati \"Hansel twafutuka mucembele wafwa ,” cakukkomana Hansel cakufwamba mbuli kayuni baka kondwa, bakakumbatana, kumyontana mbuli mbokaleka kuyowa,bakazuzila kung’anda yamucembele bakabweza kufumbwa zyakali mukati.",
+        "T2": "Naakamana Gretel wakalunduk a lubilo mbuli lulabo kukufutula Hansel, wakakwiila cakukkomana wakati, “Hansel twafutuka! Mucembele wafwa!” Cakukkomana Hansel wakasotoka mbuli kayuni bakakondwa, bakakumbatana kumyontana. Mbuli mbobaaleka kuyoowa, bakazuzila kung’anda yamucembele bakabweza kufumbwa zyakali mukati izya mankwintankwinta.",
+        "To": "Kufwumbwa naa kuli lulabo, simukonze wabalika mbuli lulabo kuli Hans Keff, wajalula kakkonko kakwe kaniini, walila, walila, walila, watugwaka, watugwaka, watugwaka, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, walila, wazapaulakoka, walila, walila, wazamba zyoonse zyata, walila, walila, walila, walila, walila, walila, walila, walila, walila, wazamba zyoonse zikobela zyoonse zikobela zyoonse zikobela, ulazsani zyakwe zyoonse zikobela, ulazsanikakwa.",
+        "So": "After she had run the way the lightning of Hansel, she joyfully cried out: \"Owars, O woman has been saved! She has died! She was so happy that she had beaten up like a bird, and she was naked, and she was broken off, so that she had to the ground of an old woman, so that she had taken a she had to the ground."
+      }
+    },
+    {
+      "verse": 41,
+      "text": {
+        "S1": "“These are far better than pebbles!” said Hansel, and thrust into his pockets whatever could be got In, and Gretel said, “I, too, will take something home with me,” and filled her pinafore full. “But now we will go away,” said Hansel, “that we may get out of the witch's forest.” When they had walked for two hours, they came to a great body of water. “We cannot get over,” said Hansel, “I see no foot-plank, and no bridge.” “And no boat crosses either,” answered Gretel,",
+        "T1": "Ezi zoboyu kwiinda mabwe” wakaamba Hansel kumbi kabikka munkomwe,” ambebo ndilabweza “wakaamba Gretel. Atweende lino kutegwa tuzwe musokwe yaumulozi”wakati Hansel. Nobakeenda kwaciindi bakasika aciziba pele takwe nobakabona bbuliji nokuba bwato,",
+        "T2": "“Ezi nzibotu kwiinda mabwe,” wakaamba Hansel kumwi kabikka munkkomo, “ambebo ndilabweza,” wakaamba Gretel. “Atweende kutegwa tuzwe musokwe yamulozi,” wakaamba Hansel. Nobakeenda kwaciindi bakasika aciziba pele taakwe nobakabona bbiliji nokubabwato.",
+        "To": "Ba Hans Biffau, bakaamba kuti: \"Mahoda aaya mabotu kapati kwiinda mabwe, alimwi akwaabikka munkomo iili yoonse, mpoonya ba Hans bakandaambila kuti, Querém, abalo bayoobweza ŋanda yangu, alimwi akuzuzya makala aakwe, lino tulazwa muŋanda, mpoonya mebo tulabaambila kuti, ikuti naa twasika kwamawoola obilo kuzwa bulowa, kunyina nobakacikonzya kuunka kuŋanda, inga twaamba kuti meenda aasiya, meenda aasiya, alimwi akuti kunyina naakawida mumo alawida mumona.",
+        "So": "THE best of stones was Hansel, who reportedly took a wooden piece of wood, removed it, and then went off to get out of the forest, where he said that he had arrived at a boat."
+      }
+    },
+    {
+      "verse": 42,
+      "text": {
+        "S1": "“but a white duck is swimming there; if l ask her, she will help us over.” Then she cried...",
+        "T1": "Kuli kadada kasaya antela ndakabuzya kalatugwasya” bakakwila",
+        "T2": "“Kuli kadada kasaya antela ndakabuzya kalatugwasya,” bakakwiila.",
+        "To": "Wainka, elyo ulalila, ikuti na wamulomba, ulatugwasya.",
+        "So": "A young woman's eye or a question was given to help, and the mother cried out."
+      }
+    },
+    {
+      "verse": 43,
+      "text": {
+        "S1": "“Little duck,little duck, do you see, Hansel and Gretel are waiting for you? There's never a plank, or bridge in sight, Take us across on your back so white.”",
+        "T1": "Okadada”Hansel a Gretel balangila nduwe,mbuli mbobona takwe kapulanga na bwato kuti tulanduke mulonga”kututola tatnte amusana wako.",
+        "T2": "“Okadada Okadada, Hansel a Gretel balangila nduwe mbuli mbobona taakwe kapulanga naa bwato bwakuti tulanduke mulonga, kotubweza tutante amusana wako uutuba.",
+        "To": "Sena tuntu tusyoonto - syoonto, tulibonya mbuli kuti tatujisi tukwa tusyoonto - syoonto, ba Hansel alimwi aba Keeples tulindila?",
+        "So": "A ROAOOu, Hans and Gingna, look forward to the way you see no wood or ship, pick up a river, pick up your precious coat."
+      }
+    },
+    {
+      "verse": 44,
+      "text": {
+        "S1": "The duck came to them, and Hansel seated himself on its back, and told his sister to sit by him. “No,” replied Gretel, “that will be too heavy for the little duck; she shall take us across, one after the other.” The good little duck did so, and when they were safely across and had walked for a short time, the forest seemed to be more and more familiar to them, and at length they saw from afar their father's house. Then they began to run, rushed into the parlor, and threw themselves into their father's arms. The man had not known one happy hour since he had left the children in the forest; the woman, however, was dead. Gretel emptied her pinafore until pearls and precious stones ran about the room, and Hansel threw one handful after another out of his pocket to add to them. Then all anxiety was at an end, and they lived together in perfect happiness. My tale is done, see the mouse run, whoever catches it, may make himself a big fur cap out of it.",
+        "T1": "Mpona kadada kakabola ukubabweza,Hansel mpona wakatanta amusana wakadada ,wambila mucizi kuti atante awalo “peepe kadada kaceesya kalaminwa ,kalatutola omwe-omwe”wakavwuwa Gretel.kadada kakazuzikizya mbobakaamba.Nobakamana kuzubuka mulonga bakabweza lweendo lwakuya kumaanda bakaboona nzila itozya kung’anda yakalizibya ,nobakazumanana kweenda amunzi mpobali kukkala akali bonya,mpona bakazuza canguzu,bakanjila mung’anda akukumbata bausyi cakukkomana.Bakakkomana bauyi kaambo kuti bakali buumi bwakuusa kuzwa bana nobakasweka musyokwe,mukubula coolwe bakaintu bakafwa ciindi eco,Gretel wakaguusya mabwe akali munkomwe mwakwe a Hansel wacita mbubwena bakabika mabwe antomwe akuyowa mpokwamana ,Hansel a Gretel kusanganya abausyi bakazumanana kukkala cakukkomana mbulikwasyi.. mpokamina kaano;",
+        "T2": "Mpoona kadada kakaboola, mpoona Hansel wakatanta amusana wakadada, akwaambila mucizi kuti atante awalo, “peepe kadada kaceyesya kalaminwa, kalatutola omwe-omwe,” wakavuwa Gretel kadada kakazuzikizya mbobakaamba. Nobakamana kuzabuka mulonga bakabweza lweendo lwakuya kumaanda bakabona nzila iitozya kung’anda yakalizibya nobakazumanana kweenda amunzi mpobaali kukkala akalibonya mpoona bakazuza canguzu bakanjila mung’anda akukumbata bausyi cakukkomana. Bakakkomana bausyi nkaambo kakuti bakali buumi bwakuusa kuzwa bana nobakasweeka musyokwe mukubula coolwe bakaintu bakafwa ciindi eeco, Gretel wakagusya mabwe aakali munkkomo yakwe a Hansel wakacita mbubwena bakabikka mabwe aantoomwe akuyoowa mpokwakamanina, Hansel a Gretel kusanganya abausyi bakazumanana kukkala cakukkomana mbuli mukwasyi. Mpokamanina kaano;",
+        "To": "Basikalumamba aaba bakaboola kuli mbabo, mpoonya ba Hans bakatalika kukkala munsi - munsi, mpoonya bakaambila mucizyi wakwe kuti akkale anguwe, bakabweza nongo iikonzya kupya kapati, alimwi akuti bana babo bakali kulibonya mbuli kuti tabajisi lukkomano, alimwi bakali kukonzya kuzwa muŋanda yabo, calo cakali kulibonya mbuli kuti lino batalika kweenda amaulu aakwe, calo icakali kulibonya kuti inga calibonya mbuli kuti lino - lino, mpoonya akulibonya mbuli kuti bali kabotu, mpoonya kuzwa ciindi mukaintu ooyu wakali kulibonya kuti uli kabotu, alimwi wakali kulibonya mbuli kuti uli kule, alimwi wakali kukonzya kuwida mumo, alimwi wakalikkede mumo, alimwi wakali kulibonya kuti uli kabotu.",
+        "So": "Then, as a small sound came, Hansel climbed a bear, told her sister to get up, and she found her father's way out of the forest, and she was able to pick up her father, who was able to leave her home, and she was able to pick up her father's life in the wilderness; she felt a happy, so that he was able to leave his father's way, he was able to recover her father's life, who was able to leave his father's home and then so that he was so that he was able to see that he was able to get his father, he was so happy that he was able to see his father's."
+      }
+    }
+  ]
+}

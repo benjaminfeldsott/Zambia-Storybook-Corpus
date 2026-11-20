@@ -1,0 +1,312 @@
+{
+  "header": {
+    "Title (Source)": "The Tale of Peter Rabbit",
+    "Title (Target)": "",
+    "Original Author": "Beatrix Potter",
+    "Source Language": "English",
+    "Target Language": "Tonga",
+    "Translator 1": "Malambo Albert",
+    "Translator 2": "Chilufya Kasonde"
+  },
+  "body": [
+    {
+      "verse": 1,
+      "text": {
+        "S1": "Once upon a time there were four little Rabbits, and their names were— Flopsy, Mopsy, Cotton-tail, and Peter.",
+        "T1": "Kale kale muciindi Flopsy, Mopsy, Cotton-tail ankinga Petuto",
+        "T2": "Kuciindi cimwi kwakali twana twa sulwe tone, amazina antuto akali—Flopsy, Mopsy, Cotton-tail, aa Peter.",
+        "To": "Cimwi ciindi kwakali buyo bantu bone bama Juda, alimwi mazyina aabo akali dumide kapati, Merria, Merruz, Tarias, alimwi a Petro.",
+        "So": "At one time, there were four young babies, their names were yysss, Mysys, Cotonton, Peter."
+      }
+    },
+    {
+      "verse": 2,
+      "text": {
+        "S1": "They lived with their Mother in a sand-bank, underneath the root of a very big fir- tree.",
+        "T1": "Twakali kukkala munkomwe yamuseenga, kunsi a muyanda wacisamu camukuyu abanyina",
+        "T2": "Twakali kukkala abanyina munkomwe yamuseenga, kunsi amuyanda wacisamu ca Mukuyu.",
+        "To": "Bakali kukkala abanyina musenga yazisamu, munsi - munsi amusamu mupati kapati.",
+        "So": "We lived with his mother on a sanden farm, below the tree of a tree."
+      }
+    },
+    {
+      "verse": 3,
+      "text": {
+        "S1": "'Now my dears,' said old Mrs. Rabbit one morning, 'you may go into the fields or down the lane, but don't go into Mr. McGregor's garden: your Father had an accident there; he was put in a pie by Mrs. McGregor.'",
+        "T1": "“Nobayandwa bangu,” bakaamba banyina cifumofumo bumwi buzuba, “inga mwainka munyuunda nokuba munzila pele mutakabi nomuya kunjila mumbewu ya munene McGregor nkaambo bauso bakalijanide muntenda ookuya bakababikka mucimkwa canyama bamuka McGregor.”",
+        "T2": "‘Lino Nobayandwa bangu,’ bakaamba bacembele ba muka Sulwe cifumofumo Bumwi buzuba, ‘inga mwainka mumyuunda naa munzila, pele mutakabi nomuya kunjila mumbeu ya munene McGregor: bauso bakalijanikide muntenda ookuya; bakababikka mucinkwa kuli ba muka McGregor.’",
+        "To": "Aciindi eeci, ba Grerlor, bakaamba kuti: Kwasiyana buzuba bumwi mafwumofwumo, inga mwanjila mumyuunda naa muminga, pele tabaunki mumuunda wa Mclam: Uso wakali muntenda; bakamubikka mucibeela ca Mclam.",
+        "So": "Now, my loved ones, says the elderly woman in Saron one morning, the first in the fields, and the road, but you will not enter the open Maddddgoer: your father was in danger; there they put bread to the Mdw."
+      }
+    },
+    {
+      "verse": 4,
+      "text": {
+        "S1": "“Now run along, and don't get into mischief. I am going out.”",
+        "T1": "“Lino kamuzuza kamuboola, mutabi nomuyoolijana mumakani mabi ndainka mebo”.",
+        "T2": "“Lino kamuzuza kamuboola, mutabi nomuyoolijana mumakani mabi. Ndaunka mebo”.",
+        "To": "Lino ndatalika kweenda, pele tosikili pe.",
+        "So": "Now, when you are running, do not find yourself in trouble."
+      }
+    },
+    {
+      "verse": 5,
+      "text": {
+        "S1": "Then old Mrs. Rabbit took a basket and her umbrella, and went through the wood to the baker's. She bought a loaf of brown bread and five currant buns.",
+        "T1": "aalya bacembele bakaintu ba Sulwe bakanyamuna kanzuma akaluli kazuba akwiinda musaka kuya kubambilwa cinkwa.Okuya bakaula cinkwa azimbuwa zyosamwe.",
+        "T2": "Mpoona bacembele bamuka Sulwe bakanyamuna kanzuma akaluli kabo Kakwabilila izuba, akwiinda mumasaka kuya kubambilwa cinkwa.",
+        "To": "Mpoonya ba Gaffiffio bakabweza cisuwo akuulu cakwe, mpoonya bakatanta azisamu kusinza.",
+        "So": "Then the woman's wife would carry a tree on its roof to protect the sun, and then they would go out to prepare bread."
+      }
+    },
+    {
+      "verse": 6,
+      "text": {
+        "S1": "Flopsy, Mopsy, and Cotton-tail, who were good little bunnies, went down the lane to gather blackberries:",
+        "T1": "Flopsy, Mopsy alimwi a Cotton-tail, itwakali twana twasulwe tubotu twakaya kukubwezelela masaansa asiya.",
+        "T2": "Flopsy, mopsy alimwi aa Cotton-tail, itwakali twana twasulwetubotu twakaya kukubwezelela masaansa aasiya.",
+        "To": "Ba Augnal, ba Momin, alimwi aba Crin Turnan, balo ibakali basyoonto kapati, bakaunka kuyoosya bbatila kutegwa baabweze madi aasiya:",
+        "So": "Fyyys, Cony, and Cotonton, a healthy mother of flowers flocked to collect her leaves."
+      }
+    },
+    {
+      "verse": 7,
+      "text": {
+        "S1": "But Peter, who was very naughty, ran straight away to Mr. McGregor's garden, and squeezed under the gate!",
+        "T1": "Pele Petulo wakali kusunda, walo wakatijila kumbewu ya munene McGregor ngooyo walyaatikizya kunsi lya geedi!",
+        "T2": "Pele Petulo wakali kusunda, wakatijila kumbeu ya munene McGregor, akulyaatikizya kunsi lya mulyanago wa munzi!",
+        "To": "Pele Petro, walo iwakapengede kapati, wakabalika kuunka ku Bamukam.",
+        "So": "But Peter was a nurse, and he fled to the discernment of the Maddgorgorgor, and ate under the city's roof!"
+      }
+    },
+    {
+      "verse": 8,
+      "text": {
+        "S1": "First he ate some lettuces and some French beans; and then he ate some radishes;",
+        "T1": "Cakutaanguna wakatalika kulya cisyu ca letesi anyabo mpoona ngooyo waya kukulya tumwi ntobanti tuma ladisyi.",
+        "T2": "Cakutaanguna wakatalika kulya cisyu ca letesi anyabo; mpoona wakalya miyanda iikozyanya acimbwali iitegwa ma ladishes;",
+        "To": "Cakusaanguna, wakali kulya nyama alimwi anyabo waku France; mpoonya wakali kulya nyama iibelesya mapiillo; mpoonya kulya nyama iibelesya mapiillo; mpoonya kulya mapopuli.",
+        "So": "First, he began to eat the vegetables of a come - up plant; then he ate the roots of the same root of the sandy sandy bees; he ate from it."
+      }
+    },
+    {
+      "verse": 9,
+      "text": {
+        "S1": "And then, feeling rather sick, he went to look for some parsley.",
+        "T1": "nokwakamana waawo, kalinvwide kuciwa, Petulo wakaya kukuyandaula pasili.",
+        "T2": "Alimwi mpoona, kalimvide kuciswa, wakaya kuyandaula pasili.",
+        "To": "Aboobo, muciindi cakupenga, bakaunka kuyandaula tubeela - beela tutegwa griemolley.",
+        "So": "Again, after a serious illness, he went to search for a burial."
+      }
+    },
+    {
+      "verse": 10,
+      "text": {
+        "S1": "But round the end of a cucumber frame, whom should he meet but Mr. McGregor!",
+        "T1": "Pele kuzinguluka biyo munda wamakowa, nguni ngwaya kuswaanya kuya? pele munene McGregor! Ba McGregor bakali kufugeme amaanza amagondo ansi.",
+        "T2": "Pele kuzinguluka biyo munda wamakowa, nguni ngwaya kuswaanya kuya pele munene McGregor!",
+        "To": "Pele kumamanino aabusena bubambidwe kabotu, ooyo ngwayelede kujana pele Mr.Gr.",
+        "So": "But just around the true God, whom he will meet, but he will not leave you!"
+      }
+    },
+    {
+      "verse": 11,
+      "text": {
+        "S1": "Mr. McGregor was on his hands and knees planting out young cabbages, but he jumped up and ran after Peter, waving a rake and calling out, 'Stop thief!'",
+        "T1": "Ba McGregor bakali kufugeme amaanza amagondo ansi kabaya kusyanga tukkabicci tuniini, mpoona bakavundumuka akutandaanya Petulo, anhala kumaanza akoongolola kuti “ima yebo omubbi”.",
+        "T2": "Ba McGregor bakali fugeme amaanza amaggongdo aansi kabayaabusyanga tukkabici tuniini, pele bakavundumuka akutandaanya Petulo, anhala kumaanza akoongolola kuti, ‘Leka omubbi!’",
+        "To": "Mr. Mclamu wakali kumaanza akulosya twana, pele wakasotoka akutija Petro, wakwiila akukwiila akukwiila kuti mubbi!",
+        "So": "He kept his hands focused on the earth, sowing with the finest, but went off and chasing after Peter, putting his hands and calling out: \" Let us wash your hands, and let us collect them away! '"
+      }
+    },
+    {
+      "verse": 12,
+      "text": {
+        "S1": "Peter was most dreadfully frightened; he rushed all over the garden, for he had forgotten the way back to the gate. He lost one of his shoes among the cabbages, and the other shoe amongst the potatoes.",
+        "T1": "Petulo wakayoowa calufu; wakatijaana mbewu yoonse, nkaambo wakakuluba kwakunjila.Bbusu lyakwe lyomwe lyakaswekela akati kamakkabicci, limwi lyakasweekela mucimbwali.",
+        "T2": "Petulo wakayoowa calufu; wakatijaana mbewu yoonse, nkaambo wakakuluba kwakunjilila. Bbusu lyakwe lyomwe lyakaswekela akati kamakkabicci, limwi lyakasweekela mucimbwali.",
+        "To": "Petro wakayoowa kapati; wakabalika cakufwambaana mumuunda woonse, nkaambo wakaluba kupiluka kumulyango, wakasowa mabbusu aakwe akati kabasambazi, alimwi umwi akati kabantu bakali kukkala mumo.",
+        "So": "Peter was afraid of death; he fled all the way, because he had forgotten his going out; one of his flour was broken among the remaining ones of the covenant, and it was cut off from the ground."
+      }
+    },
+    {
+      "verse": 13,
+      "text": {
+        "S1": "After losing them, he ran on four legs and went faster, so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net, and got caught by the large buttons on his jacket. It was a blue jacket with brass buttons, quite new.",
+        "T1": "Naakama kusweesya mabbusu, wakatalika kutija amaulu one a kubinda kapati cakuti ndiyeeyela kuti naakakonzya kutijila lyo pele kubula coolwe wakoobwa mulutabitabi lwa michelo akugobwa kunkopela ya cibaki cakwe.Cibaki cakwe cakali camubala wajulu ankopela zyalubulo, cipya.",
+        "T2": "Naakamana kusweesya mabbusu, wakatalika kulunduka amaulu one akubinda kapati, ndiyeeyela kuti kuti naakakonzya kutijila lyo pele kubula coolwe wakoobwa mututabitabi lwa michelo akugobwa kunkopela ya cibaki cakwe. Cibaki cakwe cakalicamubala wajulu ankopela zyalubulo, cipya.",
+        "To": "Naakasweekelwa, wakabalika amaulu one cakufwambaana, cakuti ndakabona kuti tanaakali kukonzya kuwida mutunyandi, eelyo wakajatwa akabbeeke kakwe kajisi mafoomu, alimwi wakajatwa akapepa aakapya kapati.",
+        "So": "After a pair of shoes, he began to rolling four feet on his feet and to make it very difficult, thinking that if he could run away, he would have no opportunity to walk in the midst of his neck and its upper parts, his right hand would have been covered with metal."
+      }
+    },
+    {
+      "verse": 14,
+      "text": {
+        "S1": "Peter gave himself up for lost, and shed big tears; but his sobs were overheard by some friendly sparrows, who flew to him in great excitement, and implored him to exert himself.",
+        "T1": "Petulo wakasweeka kapati, akulila amisozi minji mpoona tutiiti twaluse twakamumvwa, twakaulukila kuli nguwe mukukkomana akumukulwaizya kuti abelesya busongo",
+        "T2": "Petulo wakasweeka kapati, akulosya misozi minji; pele kulila kwakwe kwakamvugwa atutiiti twaluse, twakaulukila kuli nguwe mukukkomana, akumukulwaizya kuti abelesye busongo.",
+        "To": "Petro wakaliimya zintu zyakasweeka, eelyo wakalila kapati; pele bantu bakali kumumvwa kwiinda mutuyuni tumwi itutondezya bulongwe, walo iwakamusikila cakukondwa kapati alimwi akumulomba kuti abeleke canguzu.",
+        "So": "Peter was very lost, tears, and tears; yet his tears were covered by the birds of mercy, and we drew away from him with joy, and he encouraged him to put wisdom to work."
+      }
+    },
+    {
+      "verse": 15,
+      "text": {
+        "S1": "Mr. McGregor came up with a sieve, which he intended to pop upon the top of Peter; but Peter wriggled out just in time, leaving his jacket behind him.",
+        "T1": "Munene McGregor wakasika ansefa, njaakali kuti abikke atala lya Petulo, pesi Petulo wakalikwela mukaindi kaniini akusiya cibaki cakwe munsi.",
+        "T2": "Munene McGregor wakasika ansefwa, njaakali kuti abike atala lya Petulo; pele Petulo waklikwela mukaindi kaniini, akusiya cibaki cakwe munsi.",
+        "To": "Ba Mr.Gregorz bakatalika kweenda agwelo, yalo njaakali kuyanda kuti Petro ainde atala lya Petro; pele ba Peterria bakeenda buyo asyoonto, bakazwa kusyule lyabo.",
+        "So": "The older man himself came to be a fugitive, whom he had been putting on Peter's side; but Peter drew it in a short while, leaving it behind."
+      }
+    },
+    {
+      "verse": 16,
+      "text": {
+        "S1": "And rushed into the tool-shed, and jumped into a can. It would have been a beautiful thing to hide in, if it had not had so much water in it.",
+        "T1": "Wakatijila mukaanda muyobwedwa zibelesyo akunjila mukagabba.Omu noonga wakayuba kabotu biya kuti nomwataali meenda manji.",
+        "T2": "Wakatijila mukaanda muyobwedwa zibelesyo, akusotokela mukaggabba. Oomu noonga wakayuba kabotu, kuti nomwatakali meenda manji mukati.",
+        "To": "Alimwi cakufwambaana kutoleela kabulo kabula cakulya, akutonta mucintu cimwi cibotu kuti kakasisidwe, ikuti naa katajisi maanzi manji boobu.",
+        "So": "He ran out of a store, jumped into a mine, and hid it, and hid it in a well, in order that you would not have enough water in the inside."
+      }
+    },
+    {
+      "verse": 17,
+      "text": {
+        "S1": "Mr. McGregor was quite sure that Peter was somewhere in the tool-shed, perhaps hidden underneath a flower-pot. He began to turn them over carefully, looking under each. Presently Peter sneezed—'Kertyschoo!' Mr. McGregor was after him in no time.",
+        "T1": "Ba McGregor taaku nibakazumbauzya pe kuti Petulo wakali mung’anda yazibelesyo, ndiza wakayubide kunsi acipika camaluba.Bakatalika kupindamuna kabotu – kabotu, kabalanga kunsi kwa comwe-acomwe.Aawa mpoona Petulo wakeetyemuka “Ketisyoo”.McGregor wakamutandila cakutwaamba.",
+        "T2": "Ba McGregor bakali syomede kapati kuti Petulo wakali mung’anda yazibelesyo,ndiza wakayubide kunsi aacipika camaluba. Wakatalika kuzipindamuna kabotu-kabotu, akulangalanga kunsi kwa comwe-comwe. Aawa mpoona Petulo wakaesyemuka ‘Ketsyoo!’. McGregor wakamutandila cakufwambaana.",
+        "To": "Mr. Mclam wakali masimpe kuti Petro wakali mubusena bwakupika makalai, ambweni wakasisa mulwi wamaluba - luba, wakatalika kubalingula kabotu - kabotu, kali akati kabo.",
+        "So": "Mlrrrrrgo was convinced that Peter was in a metal stand, perhaps hidden from the ground of a flowers, and he began to walk in a warm, straight, and looking under one shoulder; and Peter quickly took his last steps!"
+      }
+    },
+    {
+      "verse": 18,
+      "text": {
+        "S1": "And tried to put his foot upon Peter, who jumped out of a window, upsetting three plants. The window was too small for Mr. McGregor, and he was tired of running after Peter. He went back to his work.",
+        "T1": "wakasoleka kulyata Petulo, walo wakasotokela ampulungwido akuunsya tusamu totatwe.Mpulugwido yakalisyoonto kuti McGregor inga weela, mpoona wakakatala kutandaanya Petulo.Mpawo wakajokelela ncito yakwe.",
+        "T2": "Akusola kusola kulyata Petulo, walo wakasotokela ampulungwido, akuunsya tusamu totatwe. Imulungwido yakali isyoonto kuli McGregor, alimwi wakakatala kutandaanya Petulo. Mpaawo wakajokelela ncito yakwe.",
+        "To": "Alimwi wakasola kubikka zituta zyakwe a Petro, walo iwakasotoka ampulungwido, impulungwido zyotatwe, impulungwido yakali nsyoonto kapati kuli Bamukam.",
+        "So": "In an effort to devour Peter, he jumped out the window, rolled up the three - edged missiles, and chased away from Peter, and then he ran off his work."
+      }
+    },
+    {
+      "verse": 19,
+      "text": {
+        "S1": "Peter sat down to rest; he was out of breath and trembling with fright, and he had not the least idea which way to go. Also he was very damp with sitting in that can. After a time he began to wander about, going lippity—lippity—not very fast, and looking all round.",
+        "T1": "Petulo wakakkala kulyookezya, wakakatala citaambiki kabimba cakuyoowa katazyi akwakugama.Alimmi wakalitetede akaambo kakukkala mucigabba.Nikwakainda kaindi wakatalika kweendauka cakubulilwa nzila, kweenda zinzilio-zinzili- cakutabinda kalangalanga ooku koonse-koonse.",
+        "T2": "Petulo wakakkala aansi akulyookezya, wakakatala citaambiki kabimba cakutoowa, alimwi taakazyi akwakugama. Alimwi wakali tetede akaambo kakukkala mucigabba. Nikwakainda kaindi wakatalika kwendauka, kweenda zinzilio-zinzili-cakutabinda, kalangalanga koonse-koonse.",
+        "To": "Petro wakakkala buyo ciindi cisyoonto; wakaliyoowede kapati, alimwi tanaakali kuyeeya nzila yakali kukonzya kumugwasya, alimwi wakalikkede kabotu kapati, ciindi naakatalika kweenda kanyemede kapati, kayeeya kuti kunyina naakali kwiile kucita boobo.",
+        "So": "Peter sat down on the floor, got exhausted from singing the grass, and looked around, and looked down because he had fallen into a deep sleep, and later he began to sleep, walking with a bow, a full distance, an all - grown man."
+      }
+    },
+    {
+      "verse": 20,
+      "text": {
+        "S1": "He found a door in a wall; but it was locked, and there was no room for a fat little rabbit to squeeze underneath. An old mouse was running in and out over the stone doorstep, carrying peas and beans to her family in the wood. Peter asked her the way to the gate, but she had such a large pea in her mouth that she could not answer. She only shook her head at him. Peter began to cry.",
+        "T1": "Wakajana mulyango kubwaanda, pele wakali kkiidwe alimwi biya kwakanyina abusena bweela cana ca sulwe cineneede kuti cilisinikizye kunsi.Mbeba ncenbele yakali kutijaana kainjila akuzwa amulyango waabambidwe amabwe kaibweza mbwiila anyabo kutolela mukwasyi wayo muzipako zyazisamu zyanganda.Petulo wakaibuzya mbeba bwakuya kuzwidwa aanze, pele yakajisi mbwiila mpati kumulomo wayo elyo tiyakakonzya kuvwiila.Yakailekuzungaanya mutwe kuli nguwe.Petulo wakatalika kulila.",
+        "T2": "Wakajana mulyango kubwaanda; pele wakali kkiiddwe, alimwi biya kwakanyina abusenabweela cana ca sulwe cineneedekuti cili sinikizye kunsi. Imbeba ncembele yakali kutijaana kainjila akuzwa amulyango waabambidwe aamabwe, kaibweza mbwiila anyabo kutolela mukwasyi wayo muzipako zya zisamu zya ng’anda. Petulo wakaibuzya mbeba kwakwiinda kuzwida aanze, pele yakajisi mbwiila mpati kumulomo wayo icakapa kuti ikakilwe kuvwiila. Yakaile kuzungaanya mutwe kukuli nguwe. Petulo wakatalika kulila.",
+        "To": "Wakajana mulyango kubwaanda; pele wakakkiidwe, nkabela kwakasyeede buyo kaanda kasyoonto kamafwuta, pele Petro wakamwaambila kuti aunke kumulyango, pele wakaide kuseluka ajwi lyakwe lipati.",
+        "So": "He found a door to a wall; but it was a key, and there was no place where the fat - large jar was coming, but the woman came out and ran out of the cave, and it took its head to its head with her head, and it shuts her head outside, and she asked her head in her mouth."
+      }
+    },
+    {
+      "verse": 21,
+      "text": {
+        "S1": "Then he tried to find his way straight across the garden, but he became more and more puzzled. Presently, he came to a pond where Mr. McGregor filled his water- cans. A white cat was staring at some gold-fish. She sat very, very still, but now and then the tip of her tail twitched as if it were alive. Peter thought it best to go away without speaking to her; he had heard about cats from his cousin, little Benjamin Bunny.",
+        "T1": "Mpoonya wakatalika kuya buyandaula nzila yakwe kagama mu mbewu pesi – eeci cakamuletela kupyopyongana kwiinda.Kwaciindi ncoona eeci, wakalijana kuciziba cameenda McGregor nkwaali kuzuzya zigabba ameenda. Kaaze utuba wakali kulangilila nswi yangolide.Wakalikkede zii cakutaputauka, pesi kacila kakwe kakumamanino kakanuka nuka mbuli kuti kakali kupona.Petulo wakayeeya kwiindilila kakunyina kumukananzya mangoye; wakamvwa twaambo tunji kuzwa kumweeninyina Benjamin Bunny tuguminizya kaaze.",
+        "T2": "Mpoonya wakatalika kuya buyandaula nzila yakwe kagama mu mbeu, pele eeci cakamuletela kupyopyongana kwiinda. Kwaciindi ncoona eeci, wakalijana kuciziba cameenda nkobakali kutekameenda akuzuzya ziggabba ba McGregor. Ikakkiti katubakakali kulanga nswi ya ngolide. Wakalikkede zii cakutaputauka, pesi kacila kankkako kakumamanino kakali kungaana mbuli kuti kakali kupona. Petulo wakayeeya kwiindilila kakunyina kukakanazya; wkamvwa twaambo tunji kuzwa kumweeninyina, Benjamin Bunny.",
+        "To": "Mpoonya wakasola kujana mugoti wa Edeni, pele wakagambwa kapati cakuti wakakkala muŋanda ya Bamukam.",
+        "So": "Then he began looking for his own road, but this caused him to suffer more violence, and for the same time, he found a water supply that had been gathered and filled with water that was quite like a mere crack, without knowing it."
+      }
+    },
+    {
+      "verse": 22,
+      "text": {
+        "S1": "He went back towards the tool-shed, but suddenly, quite close to him, he heard the noise of a hoe—scr-r-ritch, scratch, scratch, scritch. Peter scuttered underneath the bushes. But presently, as nothing happened, he came out, and climbed upon a wheelbarrow and peeped over. The first thing he saw was Mr. McGregor hoeing onions. His back was turned towards Peter, and beyond him was the gate!",
+        "T1": "Wakajokela kaya kung’anda yazibelesyo, pele mpoona mpoona munsi munsi lyakwe, wakamvwa jamba kaliti-kweepu, -kwepu, kwepu kwepu. Petulo wakakwipuka kweendesya akayuba musokwe pele kwaceeci ciindi kwiina cakacitika pe wakaile wakazwa akukkwela atala lya wilibbala akusondela. Cakusoka ncaakabona wakali McGregor kalimina hanyisi. Sule lyakwe munene wakalipede Petulo, kumbele kakulibonya geedi yakuzwida.",
+        "T2": "Wakajokela kuya kung’anda ya zibelesyo, pele mpoona mpoona, munsi munsi lyakwe, wakamvwa kusabila kwajamba kaliti-kkwepu, kkwepu kkwepu. Petulo wakakwipuka kweendesya akuyuba musokwe muzitewu. Pele kwaceeci ciindi kwiina cakacitika pe, wakaile kuzwa akukkwela atala lya wilibbala akusondela. Cakusaanguna ncaakabona wakali munene McGregor kalimina hanyisi. Sule lyakwe wakalipede Petulo, mpoona kumbele kwakwe kwaklibonya geedi yakuzwida.",
+        "To": "Wakapiluka kucibelesyo cakajisi madeede, pele cakutayeeyela, wakalumvwa koongolola kwazimbuzi, wanyanzabili, wanyampuka, wanyampuka, walila, walila, walila, lino ulila, lino ulila mulubanga, watanta abbuwa lya Abra, wanyamu.",
+        "So": "He returned to the open - air stand, but then, near him, he heard a loud noise from the sound of a comen, a snanan, a snan, and a snhining from his voice, and then a snhin in the field; and the first, he was caught up in the wilderness, and he was caught up in the wilderness."
+      }
+    },
+    {
+      "verse": 23,
+      "text": {
+        "S1": "Peter got down very quietly off the wheelbarrow; and started run- ning as fast as he could go, along a straight walk behind some black- currant bushes. Mr. McGregor caught sight of him at the corner, but Peter did not care. He slipped underneath the gate, and was safe at last in the wood outside the garden.",
+        "T1": "Petulo wakaseluka kuzwa awilibbala kakunyina kusokoma pe akulubikka lubilo luyumu nta mukazila kazisamu zyakasokwe kakasyangidwe misaansa yama gileepu. McGregor wakamukwensya buyo kumubona kanyona, pele Petulo taakakombelela kuli boobu wakazwida ansi a geedi, wakalunduka ngooyo anze ambewu.",
+        "T2": "Petulo wakaseluka kuzwa awilibbala kakunyina kusokoma pe akulubikka lubilo luyumu nta, mukazila ka zisamu zyakasokwe kakasyangidwe misaansa yama gileepu. McGregor wakamukwensya buyo kumubona kanyona, pele Petulo taakakombbelela . wakainda aansi ya geedi, wakalunduka ngooyo anze ambewu.",
+        "To": "Petro wakasotoka kuzwa ansi amoyo; mpoonya wakazuza cakufwambaana naakali kuya anze, wakatanta bbuwa lyakajisi bbuwa lyakajisi bbuwa lyakugonka zisamu zisiya. Mr. Mclarm wakali kumubona munsi - munsi acooko, pele Petro kunyina naakabalika.",
+        "So": "Peter came out of a word without a hard temper, putting it on a dry course, and ripped the trees apart from the ground, and it kept him outside."
+      }
+    },
+    {
+      "verse": 24,
+      "text": {
+        "S1": "Mr. McGregor hung up the little jacket and the shoes for a scare-crow to frighten the blackbirds.",
+        "T1": "Munene McGregor wakaanzika kabaki amabbusu kubamba cikonga bana cakuyoosya bayumi.",
+        "T2": "Munene McGregor wakaanzika kabaki amabbusu kubamba cikonga bana cakuyoosya bayuni.",
+        "To": "Ba Mr.Gregogod bakali kusama mabbusu masyoonto alimwi acisani kutegwa banyonganye tuntu tusyoonto - syoonto.",
+        "So": "Most Holy man himself hung on a pair of shoes that threatened birds."
+      }
+    },
+    {
+      "verse": 25,
+      "text": {
+        "S1": "Peter never stopped running or looked behind him till he got home to the big fir-tree.",
+        "T1": "Petulo kwiina naakaleka kulunduka nokuba kuceba mpaka ngooyo waakusika kumunzi mucisamu cipati camukuyu kumizyaabo.",
+        "T2": "Petulo kwiina naakaleka kulunduka nokuba kuceba mpaka ngooyo wakusika kumunzi mucisamu cipati camukuyu kumiziyaabo.",
+        "To": "Petro kunyina naakaleka kuzuzaana naa kulanga musyule lyakwe kusikila mane waakusika kuŋanda ku Palala.",
+        "So": "Peter did not let go of a long distance or set a hand at the city of a big tree of its own."
+      }
+    },
+    {
+      "verse": 26,
+      "text": {
+        "S1": "He was so tired that he flopped down upon the nice soft sand on the floor of the rabbit-hole and shut his eyes. His mother was busy cooking; she wondered what he had done with his clothes. It was the second little jacket and pair of shoes that Peter had lost in a fort-night!",
+        "T1": "Wakalema cakuti wakaile kuwa amusenga muteetete ansi mukaanda katusulwe akujala meso akwe. Banyina bakali kukutauka kujika; bakanyandwa kuti naa zikobela zyakwe wakazityani. Cakali ciindi cabili eeci Petulo kusweesya zyakusama mumvwiki zyobilo zyainda.",
+        "T2": "Wakalema cakuti wakaile kuwa amusenga muteteete ansi mukaanda katusulwe akujala meso akwe. Banyina bakali kukutauka kujika; bakanyandwa kuti naa zikobela zyakwe wakazityani. Cakali ciindi cabili eeci Petulo ncaakasweesya zyakusama mumvwiki zyobilo zyainda.",
+        "To": "Wakakatala kapati cakuti wakakokede amusenga mubotu wakeenga akujala meso aakwe, banyina bakali kumujikila, bakali kulibuzya kujatikizya ncaakacita acisani cakwe.",
+        "So": "He was so tired that he fell to the sand that he could fall into a soft room and close his eyes to the water; his mother was ready to cook them; if she had his garments, this was the second time Peter cut her out of her garments for two weeks."
+      }
+    },
+    {
+      "verse": 27,
+      "text": {
+        "S1": "I am sorry to say that Peter was not very well during the evening.",
+        "T1": "Ndausa kwaamba kuti Petulo taakaliswiilide kabotu mangolezya conse buzuba boonse.",
+        "T2": "Ndausa kwaamba kuti Petulo taakaliswiilide kabotu mangolezya oonse.",
+        "To": "Ndiluuside kwaamba kuti Petro tanaakali kabotu ciindi camangolezya.",
+        "So": "I am sorry to say that Peter had been unable to hear him every night."
+      }
+    },
+    {
+      "verse": 28,
+      "text": {
+        "S1": "His mother put him to bed, and made some camomile tea; and she gave a dose of it to Peter! 'One table-spoonful to be taken at bed-time.'",
+        "T1": "Banyina Petulo bakamooneka abulo, akumubambila meenda a tii wamusamu wakanywa mumuungo wakulisya kuti kanywa kaindi komwe aciindi cakooma masiku.",
+        "T2": "Banyina bakamooneka abulo, akumubambila meenda aa tii wamusamu; akumupa Petulo mumuungo kuti anywe! ‘imuungo omwe uuzwide kuti kanywa aciindi cakoona masiku.",
+        "To": "Banyina bakamubikka abulo, mpoonya bakapanga tii, mpoonya bakaambila Petro tafwule lyomwe lyakali kuyandika kubikkwa mubulo ciindi camupeyo.",
+        "So": "Her mother laid her bed, prepared water for her, and brought Peter with her in a bottle; and gave him one bed to drink at night."
+      }
+    },
+    {
+      "verse": 29,
+      "text": {
+        "S1": "But Flopsy, Mopsy, and Cotton-tail had bread and milk and blackberries for supper.",
+        "T1": "Pele Flopsy, Mopsy aCotton-tail bakalya icinkwa amukupa amasaansa asiya kucilalilo.",
+        "T2": "Pele Flopsy, Mopsy, a Cotton-tail bakalya cinkwa amukupa amasaansa aasiya kucilalilo.",
+        "To": "Pele ba Egilio, ba Moria, alimwi aba Crigie bakajisi cinkwa amukupa alimwi amakalata aasiya kutegwa balye cakulya.",
+        "So": "But Fyyyyy, Wedton, and Cotontttt ate bread and milk and left behind."
+      }
+    },
+    {
+      "verse": 30,
+      "text": {
+        "S1": "THE END",
+        "T1": "KWAMANA",
+        "To": "MAMANINO",
+        "So": "LALIN"
+      }
+    }
+  ]
+}
